@@ -3,6 +3,10 @@ Klassen er skabelonen, og objektet er selve objektet.
 Encapsulation er at variabler er private samt funktioner sådan at andre klasser ikke har adgang til det
 Abstraction er når man kun definere det mest nødvendige for klasserne og så senere kan definere noget specifikt ved inheritance eller andet.
 polymorphism er når forskellige klasser kan have de samme metoder og derfor kan en funktion kaldes for alle disse klasser selvom de er forskellige. som fx med at starte en bil er der forskellige klasser til forskellige biler men de har alle sammen en funktion som hedder start bil.
+### Abstraction
+et eksempel er når man har en klasse som er en shape som har en funktion der hedder area men i den funktion står der bare pass hvilket betyder at det ikke er implementeret for klassen shape men hvis man inheriter klassen til en subclass som rectangle skal man så definere area igen og ligeledes for en anden klasse som circle eller lignende.
+
+
 
 ## Self
 self er en parameter som er en pointer til objektet og dette parameter kan selv blive passed ind til funktionen. Self skal også være det første argument, men når man kalder en funktion behøves man ikke give det som argument.
