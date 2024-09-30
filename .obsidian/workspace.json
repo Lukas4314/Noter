@@ -26,7 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmering af mobile robotter/OOP.md",
+                "file": "Programmering af mobile robotter/Actuator.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac1ec6c5b495ae31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 1/Determinant af Matrix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2219f9eaf8cf305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programmering af mobile robotter/Gray Code.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmering af mobile robotter/OOP.md",
+                "file": "Mat 1/Determinant af Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmering af mobile robotter/OOP.md",
+                "file": "Mat 1/Determinant af Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmering af mobile robotter/OOP.md"
+                "file": "Mat 1/Determinant af Matrix.md"
               }
             }
           },
@@ -172,19 +198,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7127bbb146304317",
+  "active": "f4445b7b75c83052",
   "lastOpenFiles": [
+    "Mat 2",
+    "Mat 1/Homogene ligningssystemer.md",
+    "Programmering af mobile robotter/PWM.md",
+    "Programmering af mobile robotter/Gray Code.md",
+    "Programmering af mobile robotter/Actuator.md",
+    "Programmering af mobile robotter/OOP.md",
     "DocsFileGetter.py",
     "DocsFileGetter",
-    "Programmering af mobile robotter/Actuator.md",
     "Excalidraw/Drawing 2024-09-27 08.18.57.excalidraw.md",
-    "Programmering af mobile robotter/OOP.md",
-    "Untitled",
     "Mat 1/Inverse Matrix.md",
     "Programmering af mobile robotter",
     "Mat 1/Determinant af Matrix.md",
     "Mat 1/Antal løsninger af Matrix.md",
-    "Mat 1/Homogene ligningssystemer.md",
     "Mat 1/Ikke Homogene ligningssystemer.md",
     "Excalidraw",
     "Mat 1"
