@@ -18,6 +18,11 @@ ligegyldigt
 larmer
 lder
 lad
+ladninger
+lades
+lille
+lade
+ldet
 med
 mange
 matrix
@@ -35,6 +40,7 @@ modulation
 mulighed
 matricer
 meget
+modstand
 og
 opl
 ogs
@@ -78,6 +84,9 @@ disse
 da
 derved
 duty
+dt
+delta
+differentiel
 eksisterer
 en
 eller
@@ -123,6 +132,8 @@ frekvens
 fungerer
 fortegnet
 forskellig
+formlen
+finder
 sninger
 st
 som
@@ -157,6 +168,9 @@ slices
 skifter
 sker
 store
+sp
+str
+symbolet
 hvis
 her
 hvor
@@ -191,17 +205,23 @@ kkeoperationer
 kker
 konstant
 konstanten
+kapitancen
+kurven
+kigge
 Der
 Determinanten
 Drawing
 Decompress
 Det
 Duty
+Dirac
 uendelig
 under
 uden
 udvidet
 ubekendte
+udefineret
+uendeligt
 rrelse
 rre
 rligt
@@ -227,6 +247,7 @@ area
 anden
 argument
 alt
+arealet
 jk
 jle
 jlen
@@ -244,6 +265,9 @@ this
 tilf
 tid
 total
+teoretisk
+tynd
+tidspunkt
 nr
 nogle
 ngige
@@ -255,6 +279,9 @@ noget
 nge
 nsen
 nemmere
+ngden
+ndingen
+nok
 ganger
 giver
 gauss
@@ -263,6 +290,7 @@ gange
 give
 gr
 gger
+gemme
 bruges
 betyder
 bare
@@ -277,6 +305,8 @@ bliver
 bit
 byttes
 best
+ber
+bredden
 ikke
 igen
 indeholder
@@ -291,6 +321,7 @@ ind
 igennem
 init
 individuelle
+indtil
 Ikke
 plugin
 parsed
@@ -304,12 +335,15 @@ passed
 pulse
 pinen
 princippet
+puls
 Switch
 Saving
 Self
+Symbolet
 EXCALIDRAW
 Excalidraw
 Encapsulation
+En
 VIEW
 MORE
 Machine
@@ -325,6 +359,7 @@ cycle
 counter
 compare
 chip
+capacitor
 with
 width
 For
@@ -334,6 +369,7 @@ Klassen
 Abstraction
 Constructer
 CC
+Capacitors
 PWM
 RP
 Regneregler

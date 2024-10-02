@@ -39,7 +39,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat 1/Determinant af Matrix.md",
+                "file": "Mat 2/Determinant af Matrix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcbf895b403ff937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elektronik/Capacitors.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f07d0e949e344579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 2/Inverse Matrix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1b528c67aaaf7cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 2/Determinant af Matrix.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mat 1/Determinant af Matrix.md",
+                "file": "Mat 2/Determinant af Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mat 1/Determinant af Matrix.md",
+                "file": "Mat 2/Determinant af Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat 1/Determinant af Matrix.md"
+                "file": "Mat 2/Determinant af Matrix.md"
               }
             }
           },
@@ -198,10 +237,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4445b7b75c83052",
+  "active": "d1b528c67aaaf7cc",
   "lastOpenFiles": [
+    "Mat 2/Ikke Homogene ligningssystemer.md",
+    "Elektronik/Capacitors.md",
+    "To-Do list.md",
+    "Dirac Puls.md",
+    "Mat 2/Inverse Matrix.md",
+    "Mat 2/Antal løsninger af Matrix.md",
+    "Elektronik",
+    "DrevFileGetter.py",
+    "Mat 2/Determinant af Matrix.md",
     "Mat 2",
-    "Mat 1/Homogene ligningssystemer.md",
+    "Mat 2/Homogene ligningssystemer.md",
     "Programmering af mobile robotter/PWM.md",
     "Programmering af mobile robotter/Gray Code.md",
     "Programmering af mobile robotter/Actuator.md",
@@ -209,11 +257,7 @@
     "DocsFileGetter.py",
     "DocsFileGetter",
     "Excalidraw/Drawing 2024-09-27 08.18.57.excalidraw.md",
-    "Mat 1/Inverse Matrix.md",
     "Programmering af mobile robotter",
-    "Mat 1/Determinant af Matrix.md",
-    "Mat 1/Antal løsninger af Matrix.md",
-    "Mat 1/Ikke Homogene ligningssystemer.md",
     "Excalidraw",
     "Mat 1"
   ]
