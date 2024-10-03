@@ -46,8 +46,8 @@ kort sagt så det man gør er at man vælger en række eller kolonne, så sætte
 Determinanten kan bruges til at afgøre [[Antal løsninger af Matrix|antallet af løsninger]]fordi hvis
 ## determinanten lig med 0
 $$det(A)=0$$
-betyder det at der findes 0 eller uendelig mange løsninger fordi nogle variabler er lig afhængige af hinanden. Determinanten lig med 0 betyder også at
-$$rang(A)\neq rang(Ã)$$
+betyder det at der findes 0 eller uendelig mange løsninger fordi nogle variabler er lig afhængige af hinanden. Determinanten lig med 0 betyder at hvis man har en nxn matrix så er dette også sandt:
+$$rang(A)\neq n$$
 ## determinanten ikke lig med 0
 hvis A er en nxn matrix er 
 $$rang(A)=n$$

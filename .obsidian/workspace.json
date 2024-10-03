@@ -8,46 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9fc72b239e6485c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmering af mobile robotter/OOP.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7127bbb146304317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmering af mobile robotter/Actuator.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac1ec6c5b495ae31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat 2/Determinant af Matrix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcbf895b403ff937",
+            "id": "e8958a8b204d6fe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,38 +21,12 @@
             }
           },
           {
-            "id": "f07d0e949e344579",
+            "id": "c5b9f4f7a6da18f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat 2/Inverse Matrix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1b528c67aaaf7cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat 2/Determinant af Matrix.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2219f9eaf8cf305",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programmering af mobile robotter/Gray Code.md",
+                "file": "Elektronik/LVTTL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mat 2/Determinant af Matrix.md",
+                "file": "Elektronik/LVTTL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mat 2/Determinant af Matrix.md",
+                "file": "Elektronik/LVTTL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mat 2/Determinant af Matrix.md"
+                "file": "Elektronik/LVTTL.md"
               }
             }
           },
@@ -237,19 +172,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1b528c67aaaf7cc",
+  "active": "c5b9f4f7a6da18f0",
   "lastOpenFiles": [
-    "Mat 2/Ikke Homogene ligningssystemer.md",
+    "Elektronik/Dirac Puls.md",
     "Elektronik/Capacitors.md",
+    "Elektronik/LVTTL.md",
+    "Mat 1/Komplekse tal.md",
+    "Mat 2/Determinant af Matrix.md",
+    "Mat 2/Homogene ligningssystemer.md",
+    "Mat 2/Ikke Homogene ligningssystemer.md",
     "To-Do list.md",
-    "Dirac Puls.md",
     "Mat 2/Inverse Matrix.md",
     "Mat 2/Antal løsninger af Matrix.md",
     "Elektronik",
     "DrevFileGetter.py",
-    "Mat 2/Determinant af Matrix.md",
     "Mat 2",
-    "Mat 2/Homogene ligningssystemer.md",
     "Programmering af mobile robotter/PWM.md",
     "Programmering af mobile robotter/Gray Code.md",
     "Programmering af mobile robotter/Actuator.md",
