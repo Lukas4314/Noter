@@ -8,6 +8,9 @@ $$I*\vec{x}=A^{-1}*\vec{b}
 $$
 $$\vec{x}=A^{-1}*\vec{b}$$
 
+man kan derfor finde en løsning til en matrix ved at finde den inverse som vist herover
+dette kan desuden også bruges til når man ikke kender vektor b som i ekemplet herover eller at den kan varierer så slipper man for at bruge sin normale gauss elimination hver gang at vektor b ændrer sig men man kan bare gange det med den inverse matrix af A
+
 A^-1 findes kun hvis [[Determinant af Matrix]] ikke er lig med 0 hvilket betyder at A har fuld rang
 
 med denne ligning kan vi finde den inverse matrix
@@ -26,3 +29,10 @@ så er svaret
 $$\vec{x}=E^{-1}*\vec{b}$$
 og hermed er
 $$E^{-1}=D^{-1}*C^{-1}*B^{-1}*A^{-1}$$
+
+## Regneregler for inverse
+$$(A \cdot B)^{-1}=B^{-1} \cdot A^{-1}$$
+$$(A^{-1})^{-1}=A$$
+A B C er matricer af størrelsen nxn:
+hvis rang(A) = n og AB = AC betyder det at B = C
+hvis rang(A) = n 0g AB = 0 så er B = 0

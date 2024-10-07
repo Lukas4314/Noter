@@ -26,7 +26,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik/LVTTL.md",
+                "file": "Mat 2/Inverse Matrix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a4e3947bcffab1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 2/Rotations Matrix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a937dc9ae7d8ce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 2/Rotations Matrix.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0161fa97b68307a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 2/Egenværdier og egenvektorer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -100,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elektronik/LVTTL.md",
+                "file": "Mat 2/Egenværdier og egenvektorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elektronik/LVTTL.md",
+                "file": "Mat 2/Egenværdier og egenvektorer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elektronik/LVTTL.md"
+                "file": "Mat 2/Egenværdier og egenvektorer.md"
               }
             }
           },
@@ -172,17 +211,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5b9f4f7a6da18f0",
+  "active": "0161fa97b68307a1",
   "lastOpenFiles": [
-    "Elektronik/Dirac Puls.md",
-    "Elektronik/Capacitors.md",
-    "Elektronik/LVTTL.md",
     "Mat 1/Komplekse tal.md",
+    "Elektronik/Capacitors.md",
+    "Random Images",
+    "Random Images/Pasted image 20241004100321.png",
+    "Mat 2/Rotations Matrix.md",
+    "Mat 2/Egenværdier og egenvektorer.md",
+    "Mat 2/Orthonormal.md",
+    "Opgaver matrix.md",
+    "Mat 2/Inverse Matrix.md",
+    "Elektronik/LVTTL.md",
+    "Elektronik/Dirac Puls.md",
     "Mat 2/Determinant af Matrix.md",
     "Mat 2/Homogene ligningssystemer.md",
     "Mat 2/Ikke Homogene ligningssystemer.md",
     "To-Do list.md",
-    "Mat 2/Inverse Matrix.md",
     "Mat 2/Antal løsninger af Matrix.md",
     "Elektronik",
     "DrevFileGetter.py",
