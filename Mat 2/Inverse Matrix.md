@@ -1,5 +1,5 @@
 Tanken: vi kan ikke dividere med en matrix A
-men vi kan finde den inverse matris dvs.
+men vi kan finde den inverse matrix dvs.
 $$A^{-1}*A=I$$
 eks:
 $$A*\vec{x}=\vec{b}$$

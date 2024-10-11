@@ -104,6 +104,8 @@ vec
 vektorer
 vej
 vinkelret
+vist
+varierer
 der
 de
 determinanten
@@ -168,6 +170,7 @@ egenv
 egenvektor
 ene
 elementer
+ekemplet
 flere
 fx
 findes
@@ -261,6 +264,9 @@ spredning
 sig
 sekunder
 sikker
+slipper
+sin
+sandt
 hvis
 her
 hvor
@@ -283,6 +289,7 @@ hel
 hen
 hoved
 helt
+herover
 kun
 kke
 kort
@@ -385,6 +392,7 @@ alderdom
 alts
 afvigelsen
 aksen
+align
 jk
 jle
 jlen
@@ -441,6 +449,8 @@ nye
 negative
 nger
 nx
+normale
+ndrer
 ganger
 giver
 gauss
@@ -454,6 +464,7 @@ garanti
 ger
 gennemsnittet
 gemmer
+gang
 bruges
 betyder
 bare
@@ -475,6 +486,7 @@ bestemme
 bev
 billede
 billedet
+begin
 ikke
 igen
 indeholder
@@ -522,6 +534,7 @@ punkterne
 prim
 punnkter
 projicere
+pmatrix
 Switch
 Saving
 Self
@@ -550,6 +563,7 @@ compare
 chip
 capacitor
 cosinus
+cdot
 with
 width
 For
@@ -560,6 +574,9 @@ Kartesisk
 Kompleks
 Abstraction
 Alt
+AB
+AC
+ABC
 Constructer
 CC
 Capacitors
