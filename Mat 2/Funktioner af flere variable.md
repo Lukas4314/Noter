@@ -5,14 +5,12 @@ Definition:
 en funktion a n reelle variable er en regels om tildeler et unikt reelt tal f(x_0, x_1 ... x_n) til hvert punkt (x_0, x_1 ... x_n) for en def. mængde Dm(f)  (delmængde af R^n) som på engelsk hedder domain, og mængden af reelle tal fra f(x_0, x_1 ... x_n) kaldes for værdimængden og på engelsk kaldes dette for range
 
 ## Niveaukurver
-niveaukurver er tegninger hvor man har en sat fin f(x_0 ...) til at være noget specielt og så tegner man dem hvor man har forskellige værdier for f(x_0 ...)
+niveaukurver er tegninger hvor man har en enten en variable eller f(x) til at være noget specielt og så tegner man dem hvor man har forskellige værdier for f(x_0 ...)
 et eksempel kan være 
 $$f(x,y)=x^{2+}y^{2}$$
 hvor man så ville sætte $$f(x,y)=2$$
 og tegne den funktion som er en cirkel og det kan man så gøre for forskellige værdier og derved laver man niveaukurver
 
-(tror)
-man behøver ikke sætte sin f(x,y) til en konstant men man kan også sætte en af sine variable til at være en konstant.
 
 
 Niveaukurver kan også bruges til at afbilde funktioner som er 4 dimensionale fordi at niveaukurver kommer til at være i en dimension mindre altså i dette tilfælde i 3D
