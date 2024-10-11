@@ -2,10 +2,12 @@ vi skal løse et problem som hedder
 $$(A-\lambda \cdot I)\vec{x}=\vec{0}$$
 hvor$$\vec{x} \neq0 $$
 egenværdien er så
-$$det(A - \lambda \cdot I)$$
+$$det(A - \lambda \cdot I)=0$$
+hvor lambda er egenværdien som man skal finde i ligningen herover
 for hver egenværdi findes der en egenvektor vec(x)
 $$(A-\lambda \cdot I) \cdot \vec{x} = \vec{0}$$
-for nxn matrix findes mindst 1 egenværdi og maks n egenværdi
+denne ligning herover skal man så løse i forhold til vec(x) for at finde egenvektoren
+for nxn matrix findes mindst 1 egenværdi og maks n egenvektor
 
 ## eksempel
 $$A=\begin{pmatrix}-5 & 2 \\ 2 & -2\end{pmatrix}$$
