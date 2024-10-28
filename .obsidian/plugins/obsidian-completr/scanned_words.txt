@@ -127,6 +127,7 @@ lBN
 lQ
 ltn
 ledning
+lyst
 med
 mange
 matrix
@@ -242,6 +243,7 @@ mdT
 mYA
 mx
 magentisk
+mente
 og
 opl
 ogs
@@ -449,6 +451,8 @@ vz
 vdd
 vR
 vk
+videre
+vnstr
 der
 de
 determinanten
@@ -555,6 +559,7 @@ dgy
 dg
 dv
 danner
+dertil
 eksisterer
 en
 eller
@@ -654,6 +659,7 @@ enheden
 effektloven
 energien
 elektrisk
+erstatningsmodstande
 flere
 fx
 findes
@@ -774,6 +780,8 @@ fM
 fg
 fJ
 felt
+forel
+forvirringen
 sninger
 st
 som
@@ -955,6 +963,10 @@ sQ
 startxref
 systemet
 slukket
+stammer
+sandsynligt
+steps
+skiver
 hvis
 her
 hvor
@@ -1040,6 +1052,7 @@ hA
 hkqh
 hSq
 henries
+han
 kun
 kke
 kort
@@ -1158,6 +1171,7 @@ kü
 kP
 kYw
 kK
+kondensator
 Der
 Determinanten
 Drawing
@@ -1412,6 +1426,10 @@ rii
 rZ
 rzR
 rN
+rsagen
+rotation
+reducere
+regler
 at
 af
 afg
@@ -1516,6 +1534,7 @@ afv
 aAh
 aM
 azZ
+arbejdede
 jk
 jle
 jlen
@@ -1596,6 +1615,7 @@ jWV
 jPg
 jRS
 jI
+jst
 tidligere
 tter
 til
@@ -1804,6 +1824,8 @@ nA
 nLi
 nZO
 ndringen
+noten
+ndingskilder
 ganger
 giver
 gauss
@@ -1886,6 +1908,8 @@ gsk
 gY
 gBV
 gemt
+gulvet
+gjorde
 bruges
 betyder
 bare
@@ -3089,6 +3113,8 @@ AM
 AE
 AY
 Az
+Anbealer
+Anders
 Constructer
 CC
 Capacitors
@@ -3286,6 +3312,7 @@ Rp
 RI
 RK
 Root
+Reducering
 LVTTL
 Light
 Local
@@ -3608,6 +3635,7 @@ NgE
 Nj
 Nm
 NTf
+Note
 Gr
 GNSS
 GPS
