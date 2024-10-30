@@ -128,6 +128,10 @@ lQ
 ltn
 ledning
 lyst
+lydstyrke
+line
+logaritmisk
+logaritme
 med
 mange
 matrix
@@ -244,6 +248,7 @@ mYA
 mx
 magentisk
 mente
+menneskers
 og
 opl
 ogs
@@ -560,6 +565,9 @@ dg
 dv
 danner
 dertil
+direkte
+dataene
+decibel
 eksisterer
 en
 eller
@@ -660,6 +668,9 @@ effektloven
 energien
 elektrisk
 erstatningsmodstande
+elektronik
+effekten
+enhed
 flere
 fx
 findes
@@ -782,6 +793,7 @@ fJ
 felt
 forel
 forvirringen
+fokus
 sninger
 st
 som
@@ -967,6 +979,10 @@ stammer
 sandsynligt
 steps
 skiver
+statistik
+skala
+skalaen
+smartere
 hvis
 her
 hvor
@@ -1172,6 +1188,8 @@ kP
 kYw
 kK
 kondensator
+kilden
+kilde
 Der
 Determinanten
 Drawing
@@ -1245,6 +1263,7 @@ DSX
 Dbm
 DQ
 DI
+Deci
 uendelig
 under
 uden
@@ -1430,6 +1449,7 @@ rsagen
 rotation
 reducere
 regler
+relse
 at
 af
 afg
@@ -1535,6 +1555,7 @@ aAh
 aM
 azZ
 arbejdede
+aldrig
 jk
 jle
 jlen
@@ -1724,6 +1745,8 @@ tMV
 tz
 trailer
 tilbage
+typer
+tiende
 nr
 nogle
 ngige
@@ -1826,6 +1849,7 @@ nZO
 ndringen
 noten
 ndingskilder
+naturlige
 ganger
 giver
 gauss
@@ -1910,6 +1934,7 @@ gBV
 gemt
 gulvet
 gjorde
+gain
 bruges
 betyder
 bare
@@ -2013,6 +2038,8 @@ bXS
 bqJ
 bJ
 beskriver
+blev
+bell
 ikke
 igen
 indeholder
@@ -2123,6 +2150,7 @@ inductor
 inductoren
 inductans
 induktanser
+interviews
 Ikke
 IC
 IMU
@@ -2299,6 +2327,7 @@ pU
 pwCG
 proportionaliteten
 parrallel
+primary
 Switch
 Saving
 Self
@@ -2371,6 +2400,7 @@ SYQ
 SPN
 So
 Size
+Secondary
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -3115,6 +3145,7 @@ AY
 Az
 Anbealer
 Anders
+Anbefaler
 Constructer
 CC
 Capacitors
@@ -3248,6 +3279,7 @@ Px
 PS
 PVD
 PY
+Primary
 RP
 Regneregler
 Resources
@@ -3503,6 +3535,7 @@ HEt
 HO
 Hb
 Hx
+Hoved
 BLOB
 Bin
 BitsPerComponent
@@ -3561,6 +3594,7 @@ BrJiY
 BP
 BrGT
 Beregninger
+Bell
 Niveaukurver
 Normal
 Nx
@@ -3636,6 +3670,7 @@ Nj
 Nm
 NTf
 Note
+Neper
 Gr
 GNSS
 GPS
@@ -4193,6 +4228,7 @@ qI
 qc
 qme
 qxQ
+quantitative
 Qq
 QsB
 Qtv
@@ -4253,6 +4289,8 @@ Qh
 QQ
 QG
 QX
+Qualitive
+Quantitative
 Öp
 ÜA
 äWy

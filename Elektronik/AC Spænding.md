@@ -1,4 +1,4 @@
-(Anbealer til at læse Impedans noten når man når dertil i noten her da de hænger meget sammen)
+(Anbefaler til at læse Impedans noten når man når dertil i noten her da de hænger meget sammen)
 grafen over veksel spænding er en sinus funktion hvilket også er den som er tegnet på symbolet for vekselspænding. det behøver ikke at være en sinus funktion som en vekselspænding laver men det er stadig symbolet fordi den spænding man har i stikkontakten er med en sinus funktion.
 dette betyder også at en firkant signal egentlig også er en vekselspænding fordi den veksler
 desuden behøver spændingen heller ikke være periodisk for at det er en vekselspænding.

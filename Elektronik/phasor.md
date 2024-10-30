@@ -16,6 +16,6 @@ $$
 som mere eller mindre kan blive set som en vektor i det komplekse plan
 
 det egentlig ofte kun forskydningen i sin sinusoide funktion som man er interesseret i. dette giver egentlig også lidt mening da det jo er en cosinus funktion som hvis den ikke er forskudt og man kigger på en vinkel på 0 vil det give 1 og det samme vil det komplekse tal med en vinkel på 0
-Det er derfor også vigtigt at det kun er med Cosinus at dette foregår og ikke med sinus men ellers er der fomlen:
+Det er derfor også vigtigt at det kun er med Cosinus at dette foregår og ikke med sinus men ellers er der formlen:
 $$sin(\theta)=\cos(\theta-90 \degree)$$
 præcis det samme gælder for strømmen ligeledes med spændingen
