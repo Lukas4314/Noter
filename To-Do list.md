@@ -3,4 +3,5 @@
 ---
 Mat opgaver om egenværdi
 Elektronik Opgaver 2 of frem
-Elektronik kap 5 frem til 256 *tror jeg*
+læs list op hvordan arctan osv kan beskrives som andre funktioner
+

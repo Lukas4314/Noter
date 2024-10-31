@@ -458,6 +458,7 @@ vR
 vk
 videre
 vnstr
+vise
 der
 de
 determinanten
@@ -568,6 +569,11 @@ dertil
 direkte
 dataene
 decibel
+differentiere
+dermed
+dit
+dvendigt
+dereglen
 eksisterer
 en
 eller
@@ -983,6 +989,13 @@ statistik
 skala
 skalaen
 smartere
+stamfunktionen
+sammendst
+substituere
+sider
+sammensat
+substituerer
+substitutionsmetoden
 hvis
 her
 hvor
@@ -1190,6 +1203,7 @@ kK
 kondensator
 kilden
 kilde
+kalde
 Der
 Determinanten
 Drawing
@@ -1747,6 +1761,7 @@ trailer
 tilbage
 typer
 tiende
+tjek
 nr
 nogle
 ngige
@@ -1850,6 +1865,9 @@ ndringen
 noten
 ndingskilder
 naturlige
+nser
+notationen
+nyt
 ganger
 giver
 gauss
@@ -2040,6 +2058,9 @@ bJ
 beskriver
 blev
 bell
+bestemte
+begge
+bytter
 ikke
 igen
 indeholder
@@ -2151,6 +2172,15 @@ inductoren
 inductans
 induktanser
 interviews
+integral
+integraler
+integrere
+integreret
+integrer
+integralet
+integrerer
+integration
+integrererbegge
 Ikke
 IC
 IMU
@@ -2328,6 +2358,8 @@ pwCG
 proportionaliteten
 parrallel
 primary
+partiel
+produktreglen
 Switch
 Saving
 Self
@@ -2401,6 +2433,7 @@ SPN
 So
 Size
 Secondary
+Substitutionsmetoden
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -3280,6 +3313,7 @@ PS
 PVD
 PY
 Primary
+Partiel
 RP
 Regneregler
 Resources
@@ -3536,6 +3570,7 @@ HO
 Hb
 Hx
 Hoved
+Henrik
 BLOB
 Bin
 BitsPerComponent
@@ -3595,6 +3630,7 @@ BP
 BrGT
 Beregninger
 Bell
+Baggrund
 Niveaukurver
 Normal
 Nx
