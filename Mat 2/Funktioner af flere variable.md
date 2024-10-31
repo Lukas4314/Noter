@@ -48,7 +48,7 @@ $$
 her kan vi så kigge på udtrykket igen hvor x går mod 0 og dette er fordi at vores linje siger at x=y og hvis x går mod 0 kommer y også til at gå mod 0
 $$\lim_{x->0}1=1$$
 vi har derfor grænseværdien men i eksemplet herover havde vi fulgt en linje som hed x=y hvis man gør samme fremgransmåde men følger y=x^2 vil man få et svar på 0, dette betyder at grænseværdien afhænger af "vejen" hen til punktet og der derfor ikke eksister en grænseværdi
-dette kan list sammenlignes med 1/x hvor alt efter hvilket side man kommer fra på grafen får man enten -uendelig eller +uendelig
+dette kan lidt sammenlignes med 1/x hvor alt efter hvilket side man kommer fra på grafen får man enten -uendelig eller +uendelig
 
 
 
@@ -63,17 +63,18 @@ her er det opgivet at grænseværdien muligvis er 0
 vi skal her opfylde 2 betingelser:
 $$0<\sqrt{(x-a)^{2}+(y-b)^{2}}< \delta$$
  epsilon kan her ikke være 0 fordi f(x, y) er ikke defineret i grænseværdien.
-eftersom vi har fået opgivet at en mullig grænseværdi er 0 kan vi indsætte dette og at vi kigger på punktet (0, 0)
+eftersom vi har fået opgivet at en mulig grænseværdi er 0 kan vi indsætte dette og at vi kigger på punktet (0, 0)
 $$|f(x, y) -0| <\epsilon$$
 $$0<\sqrt{(x-0)^{2}+(y-0)^{2}}< \delta$$
 og ud fra dette får vi
 $$|\frac{x^{2} \cdot y}{x^{2}+y^{2}}| <\epsilon$$
 $$0<\sqrt{x^{2}+y^{2}}< \delta$$
-her får vi så "en god ide" hvor vi siger at x^2=x^2+y^2 
+her får vi så "en god ide" hvor vi siger at $x^{2}\leq x^{2}+y^{2}$   
 $$\begin{align*}
-x^{2}=&< x^{2}+y^{2}\\
-\frac{x^{2}}{x^{2}+y^{2}}=&<  1\\
+x^{2} \leq  x^{2}+y^{2}\\
+\frac{x^{2}}{x^{2}+y^{2}}\leq  1\\
 \end{align*}$$
+
 dette kan så indsættes ind i tidligere ligning
 $$|\frac{x^{2}}{x^{2}+y^{2}} \cdot y |<=1 \cdot |y|$$
 eftersom vi her har at |y| = sqrt(y^2) og vores tidligere udtryk skal være mindre en det tidligere kan vi lægge hvad som helst positivt til dette og det vil stadig være sandt og vi kan derfor skrive
