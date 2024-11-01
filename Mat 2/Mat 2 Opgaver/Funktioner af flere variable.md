@@ -14,7 +14,7 @@ $$Dm(f)=R^{2}\space \backslash \{x \neq \pm y\}$$
 
 7)
 specify the domain of the function $f(x, y)=ln(1+xy)$
-$$Dm(f)=R^{2}\space \backslash \{xy>-1\}$$
+$$Dm(f)=R^{2}\space \backslash \{xy \leq-1\}$$
 
 
 19)
@@ -123,4 +123,4 @@ her kan vi så fjerne nogle mellemled og få:
 $$|\frac{y^{3}}{y^{2}+x^{2}}|< \delta$$
 hvis vi så sammenligner med et af kravende fra tidligere:
 $$|\frac{y^{3}}{x^{2}+y^{2}}| <\epsilon$$
-her husker vi så at vi skulle finde en sammenhæng mellem epsilon og delta for at dette var grænseværdien og den kan vi finde som $\delta = \epsilon$ og så er kravende opfyldt og espilon og delta afhænger af hinanden
+her husker vi så at vi skulle finde en sammenhæng mellem epsilon og delta for at dette var grænseværdien og den kan vi finde som $\delta = \epsilon$ og så er kravende opfyldt og epsilon og delta afhænger af hinanden
