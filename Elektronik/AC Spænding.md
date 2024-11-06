@@ -9,7 +9,7 @@ en måde at gøre dette på er med at starte med funktionen:
 $$f(t)=sin(2 \pi *f *t)$$
 hvis man så lægger endnu et led til som hedder
 $$f(t)=sin(2 \pi *f *t)+\frac{1}{3}sin(2\pi*3*f*t)$$
-dette vil så ligne mere en firkant puls og man kan derved lave en firkant puls ud fra vekselspænding.
+dette vil så ligne mere en firkant puls og man kan derved lave en firkant puls ud fra vekselspænding ved at blive ved med at lægge led til.
 man kan forsøge at tegne graferne hvis det er i MATLAB eller andet for bevis
 
 ### Sinusoide funktioner

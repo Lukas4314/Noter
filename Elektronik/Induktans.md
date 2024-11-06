@@ -1,4 +1,4 @@
-induktans er egentlig proportionaliteten som er mellem spændingen på noget og ændringen i strøm over tiden altså:
+	induktans er egentlig proportionaliteten som er mellem spændingen på noget og ændringen i strøm over tiden altså:
 $$v(t)=L \cdot \frac{di}{dt}$$
 enheden for induktans er H for henries og symbolet er L
 ud fra formlen ovenover kan man også finde strømen i(t) ved at isolerer og interegrere så man får:
@@ -8,6 +8,18 @@ $$p=U*I$$
 kan man finde energien som er gemt i en inductor til et tidspunkt som:
 $$w(t)=\frac{1}{2} \cdot L \cdot i^{2}(t)$$
 dette beskriver dog energi som er gemt i inductoren som senere vil blive givet tilbage til systemet eftersom at inductans egentlig er en ledning som danner et elektrisk eller magentisk felt og derfor kan trække strømmen rundt efter at den er blevet slukket
+
+
+
+spændingsfaldet hen over en inductor findes som:
+$$U_{l}=L \cdot \frac{dI}{dt}$$
+hvis en induktor sættes i serie med en modstand bliver det interessant fordi at ændringen i strømmen afhænger af spændingsfaldet hen over modstanden som afhænger af spændingsfaldet hen over induktoren som afhænger af ændringen af strøm hvilket nok ender med en differentialligning som kan løses
+
+Desuden kan dens [[Impedans]] findes som:
+$$z_{L}=j \omega \cdot L$$
+
+
+
 
 ## Beregninger for induktanser
 når man har flere i serie eller parrallel er det ligesom med modstande hvor hvis der er i serie lægger man dem sammen som

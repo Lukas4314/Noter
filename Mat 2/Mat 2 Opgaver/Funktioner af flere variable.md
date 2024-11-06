@@ -124,3 +124,5 @@ $$|\frac{y^{3}}{y^{2}+x^{2}}|< \delta$$
 hvis vi så sammenligner med et af kravende fra tidligere:
 $$|\frac{y^{3}}{x^{2}+y^{2}}| <\epsilon$$
 her husker vi så at vi skulle finde en sammenhæng mellem epsilon og delta for at dette var grænseværdien og den kan vi finde som $\delta = \epsilon$ og så er kravende opfyldt og epsilon og delta afhænger af hinanden
+
+

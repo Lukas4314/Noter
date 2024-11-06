@@ -142,6 +142,7 @@ linjer
 lD
 lcu
 ldningen
+ledninger
 med
 mange
 matrix
@@ -274,6 +275,8 @@ mkV
 mJ
 me
 mI
+mode
+modstandene
 og
 opl
 ogs
@@ -383,6 +386,7 @@ opfatte
 opfyld
 opgaven
 ord
+outputtet
 variable
 ved
 vilk
@@ -631,6 +635,8 @@ differentiering
 differentier
 danne
 definitionen
+differentialligning
+datablad
 eksisterer
 en
 eller
@@ -743,6 +749,8 @@ ex
 eUf
 eI
 eWG
+ender
+enden
 flere
 fx
 findes
@@ -880,6 +888,10 @@ frC
 fH
 forskrift
 fremstilling
+forskellen
+forst
+feedback
+forholdet
 sninger
 st
 som
@@ -1087,6 +1099,10 @@ sUkh
 sB
 syntaxen
 snakker
+selvinduktion
+styret
+sendt
+signalet
 hvis
 her
 hvor
@@ -1316,6 +1332,8 @@ kwy
 kCD
 konstanter
 krav
+koblet
+koble
 Der
 Determinanten
 Drawing
@@ -1607,6 +1625,8 @@ retningen
 retningsvektorer
 rlig
 reglen
+rkeren
+rkningen
 at
 af
 afg
@@ -1718,6 +1738,7 @@ ahJ
 absolute
 aJ
 afledte
+amplification
 jk
 jle
 jlen
@@ -1802,6 +1823,7 @@ jst
 jbH
 jT
 jYEWW
+jord
 tidligere
 tter
 til
@@ -1931,6 +1953,7 @@ taget
 tangentplan
 tangerer
 tangent
+trekant
 nr
 nogle
 ngige
@@ -2054,6 +2077,11 @@ normaler
 normalvektor
 normallinjen
 normalvektoren
+ndingerne
+ndingsf
+negativ
+ndingsforst
+ndingsdeleren
 ganger
 giver
 gauss
@@ -2268,6 +2296,8 @@ bL
 bbM
 bB
 btN
+ben
+brug
 ikke
 igen
 indeholder
@@ -2396,6 +2426,13 @@ iZ
 iQP
 iW
 icy
+induktor
+interessant
+induktoren
+induktion
+indgange
+indgangene
+inputs
 Ikke
 IC
 IMU
@@ -2598,6 +2635,8 @@ partielle
 planen
 parameterfremstilling
 peger
+positive
+pga
 Switch
 Saving
 Self
@@ -3307,6 +3346,7 @@ Fa
 Ftww
 FIO
 FeD
+Forst
 Tanken
 ToF
 Tangens
@@ -3372,6 +3412,7 @@ To
 TDDD
 Trv
 Tangentplan
+Tegnes
 Key
 Klassen
 Kartesisk

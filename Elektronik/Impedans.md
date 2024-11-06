@@ -7,3 +7,6 @@ det er derved et kompleks tal som svarer til impedansen
 for en modstand kan Impedansen findes som
 $$Z_{R}=R_{1}$$
 det er derfor bare modstanden
+
+ved en induktor findes det som:
+$$Z_{L}=j \omega \cdot L$$
