@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elektronik/Operationsforstærker.md",
+                "file": "Mat 1/Vækst modeller.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operationsforstærker"
+              "title": "Vækst modeller"
             }
           }
         ]
@@ -172,14 +172,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-matrix:Obsidian Matrix": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "f4445b7b75c83052",
+  "active": "f7d56d059d3e2700",
   "lastOpenFiles": [
-    "Forstærkere.md",
+    "Random Images/Pasted image 20241107115129.png",
+    "Mat 1/Vækst modeller.md",
+    "Random Images/Pasted image 20241107115118.png",
+    "Mat 1/Komplekse tal.md",
+    "Random Images/Pasted image 20241004100321.png",
+    "Random Images/Pasted image 20241107114449.png",
+    "Random Images/Pasted image 20241107114438.png",
+    "Random Images/Pasted image 20241107114428.png",
+    "Random Images/Pasted image 20241107113101.png",
+    "Random Images/Pasted image 20241107113045.png",
     "Elektronik/Operationsforstærker.md",
+    "Random Images/Pasted image 20241107112138.png",
+    "Random Images/Pasted image 20241107112130.png",
+    "Forstærkere.md",
     "Elektronik/Induktans.md",
     "Elektronik/Transistor.md",
     "To-Do list.md",
@@ -191,32 +202,20 @@
     "Elektronik/Induktor.md",
     "Mat 2/Mat 2 Opgaver/Funktioner af flere variable.md",
     "Mat 2/Integration af rationale funktioner.md",
-    "Random Images/Pasted image 20241101110110.png",
     "Mat 2/Partielle afledte.md",
     "Mat 2/Tangentplan.md",
-    "Random Images/Pasted image 20241101095153.png",
     "Mat 2/Funktioner af flere variable.md",
-    "Random Images/Pasted image 20241031194924.png",
-    "Random Images/Pasted image 20241031194748.png",
-    "Random Images/Pasted image 20241031194023.png",
-    "Random Images/Pasted image 20241031194659.png",
-    "Random Images/Pasted image 20241031193134.png",
     "Mat 2/Mat 2 Opgaver/Egenværdier og egenvektor 11-10-24.md",
     "Mat 2/Antal løsninger af Matrix.md",
     "Mat 1/Integration.md",
-    "Mat 1/Komplekse tal.md",
     "Programmering af mobile robotter/Data collection med pico.md",
     "Programmering af mobile robotter/Visualization med python.md",
     "Programmering af mobile robotter/Troubleshooting og debugging.md",
     "Random PDF/Magne PDF trigonometri.pdf",
     "Mat 2/Kordinater.md",
-    "Mat 2/Trigonometri.md",
-    "24-10-24 mat 1_241024_115145 (2).md",
     "Random PDF",
-    "Random Images/Pasted image 20241024100712.png",
     "Mat 2/Mat 2 Opgaver",
     "Random Images",
-    "Random Images/Pasted image 20241004100321.png",
     "Elektronik",
     "DrevFileGetter.py",
     "Mat 2",
