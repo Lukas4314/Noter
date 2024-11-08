@@ -409,6 +409,8 @@ ozV
 oWu
 oTK
 ordens
+opskrive
+overfladen
 variable
 ved
 vilk
@@ -794,6 +796,7 @@ eksponentiel
 eM
 eS
 eZEF
+enhedsvektor
 flere
 fx
 findes
@@ -941,6 +944,9 @@ fp
 fIy
 fv
 forekomme
+fort
+febuar
+februar
 sninger
 st
 som
@@ -1157,6 +1163,7 @@ svingning
 svinginger
 system
 sningsformer
+specielle
 hvis
 her
 hvor
@@ -1260,6 +1267,7 @@ hI
 hhh
 huP
 hTxL
+hele
 kun
 kke
 kort
@@ -1490,6 +1498,7 @@ Differentialligninger
 DDDKeY
 DQwd
 DDs
+Den
 uendelig
 under
 uden
@@ -1711,6 +1720,8 @@ rkeren
 rkningen
 rOM
 rCM
+retningsafledede
+reduceres
 at
 af
 afg
@@ -2047,6 +2058,7 @@ tZV
 tYT
 tFc
 tDB
+tangentplanens
 nr
 nogle
 ngige
@@ -2405,6 +2417,8 @@ btN
 ben
 brug
 blmo
+bestem
+bortset
 ikke
 igen
 indeholder
@@ -2936,6 +2950,8 @@ Eth
 Eksponentiel
 EF
 Egf
+Eksammensopgave
+Eksamensopgave
 VIEW
 VTTL
 VS
@@ -3173,6 +3189,7 @@ Ogci
 Ouw
 Osha
 Overd
+Opgave
 You
 Yb
 Ys
@@ -4258,6 +4275,7 @@ BDD
 Bevis
 BIc
 Bp
+Betragt
 Niveaukurver
 Normal
 Nx
