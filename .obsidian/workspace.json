@@ -13,13 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integration af rationale funktioner.md",
+                "file": "Mat 2/Mat 2 Opgaver/Integration af rationale funktioner.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Integration af rationale funktioner"
+            }
+          },
+          {
+            "id": "06ec5724c936be1c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Random Images/Pasted image 20241108085908.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241108085908"
             }
           },
           {
@@ -187,33 +199,44 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-matrix:Obsidian Matrix": false
+      "obsidian-matrix:Obsidian Matrix": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "780bb8f843807295",
   "lastOpenFiles": [
+    "Mat 2/Mat 2 Opgaver/Funktioner af flere variable.md",
+    "Mat 2/Mat 2 Opgaver/Egenværdier og egenvektor 11-10-24.md",
+    "To-Do list.md",
+    "Mat 2/Mat 2 Opgaver/Integration af rationale funktioner.md",
+    "Random Images/Pasted image 20241108085255.png",
+    "Mat 2/Dobbeltintegral.md",
+    "Mat 2/Egenværdier og egenvektorer.md",
+    "Pasted image 20241108102009.png.~tmp",
+    "Random Images/Pasted image 20241108102009.png",
+    "Random Images/Pasted image 20241108101758.png",
+    "Pasted image 20241108101758.png.~tmp",
+    "Pasted image 20241108095626.png.~tmp",
+    "Random Images/Pasted image 20241108095626.png",
+    "Pasted image 20241108094506.png.~tmp",
+    "Random Images/Pasted image 20241108094506.png",
+    "Random Images/Pasted image 20241108092459.png",
+    "Pasted image 20241108092459.png.~tmp",
+    "Random Images/Pasted image 20241108085908.png",
+    "Pasted image 20241108085908.png.~tmp",
+    "Pasted image 20241108085255.png.~tmp",
     "Mat 2/Partielle afledte.md",
-    "Integration af rationale funktioner.md",
     "Mat 2/Funktioner af flere variable.md",
     "Mat 2/Antal løsninger af Matrix.md",
-    "Mat 2/Mat 2 Opgaver/Funktioner af flere variable.md",
     "Mat 1/Vækst modeller.md",
     "Random Images/Pasted image 20241107115129.png",
     "Random Images/Pasted image 20241107115118.png",
     "Mat 1/Komplekse tal.md",
     "Random Images/Pasted image 20241004100321.png",
-    "Random Images/Pasted image 20241107114449.png",
-    "Random Images/Pasted image 20241107114438.png",
-    "Random Images/Pasted image 20241107114428.png",
-    "Random Images/Pasted image 20241107113101.png",
-    "Random Images/Pasted image 20241107113045.png",
     "Elektronik/Operationsforstærker.md",
-    "Random Images/Pasted image 20241107112138.png",
-    "Random Images/Pasted image 20241107112130.png",
     "Forstærkere.md",
     "Elektronik/Induktans.md",
     "Elektronik/Transistor.md",
-    "To-Do list.md",
     "Elektronik/AC Spænding.md",
     "Elektronik/Impedans.md",
     "Elektronik/Bell.md",
@@ -222,21 +245,10 @@
     "Elektronik/Induktor.md",
     "Mat 2/Integration af rationale funktioner.md",
     "Mat 2/Tangentplan.md",
-    "Mat 2/Mat 2 Opgaver/Egenværdier og egenvektor 11-10-24.md",
     "Mat 1/Integration.md",
     "Programmering af mobile robotter/Data collection med pico.md",
-    "Programmering af mobile robotter/Visualization med python.md",
-    "Programmering af mobile robotter/Troubleshooting og debugging.md",
     "Random PDF/Magne PDF trigonometri.pdf",
-    "Mat 2/Kordinater.md",
     "Random PDF",
-    "Mat 2/Mat 2 Opgaver",
-    "Random Images",
-    "Elektronik",
-    "DrevFileGetter.py",
-    "Mat 2",
-    "DocsFileGetter.py",
-    "DocsFileGetter",
-    "Programmering af mobile robotter"
+    "Mat 2/Mat 2 Opgaver"
   ]
 }

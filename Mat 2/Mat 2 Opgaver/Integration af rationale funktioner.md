@@ -17,7 +17,7 @@ $$\begin{align*}
 \end{align*}$$
 $$\begin{align*}
 \frac{\partial f}{\partial y}&= 2e^{\frac{\pi}{2}+2} \cdot sin(\frac{\pi}{2})+e^{x+2} \cdot \frac{\pi}{2} \cdot cos(\frac{\pi}{2})\\\\
-\frac{\partial f}{\partial y}&= 2e^{\frac{\pi}{2}+2})
+\frac{\partial f}{\partial y}&= 2e^{\frac{\pi}{2}+2}
 \end{align*}$$
 vi kan nu opskrive gradienten
 $$\nabla f(x, y)=\begin{pmatrix}e^{\frac{\pi}{2}+2} \\ 2e^{\frac{\pi}{2}+2}\end{pmatrix}$$
