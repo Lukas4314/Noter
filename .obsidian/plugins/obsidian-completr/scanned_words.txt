@@ -758,6 +758,7 @@ vcy
 vgm
 vNAENAE
 vsX
+vha
 der
 de
 determinanten
@@ -2075,6 +2076,7 @@ kHm
 kordinater
 koordinater
 kartesiske
+koefficienterne
 Der
 Determinanten
 Drawing
@@ -6792,6 +6794,7 @@ GAD
 Gvh
 Glf
 Giyw
+Gauss
 USA
 UA
 UZw
