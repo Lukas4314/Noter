@@ -13,16 +13,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat 1/Opgaver/Pointgivende Aktivitet 9.md",
+                "file": "Mat 2/Mat 2 Opgaver/Gradient partielle afledte.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pointgivende Aktivitet 9"
+              "title": "Gradient partielle afledte"
+            }
+          },
+          {
+            "id": "1f45ada403c2cd88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 2/Mat 2 Opgaver/Integration af rationelle funktioner (partialbrøker).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integration af rationelle funktioner (partialbrøker)"
+            }
+          },
+          {
+            "id": "bb27031e13d4df4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 2/Integration af rationale funktioner.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Integration af rationale funktioner"
+            }
+          },
+          {
+            "id": "0c2533a1483562b5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Random Images/Pasted image 20241101110110.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241101110110"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,16 +219,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbc7f885a44e9bbc",
+  "active": "1f45ada403c2cd88",
   "lastOpenFiles": [
+    "Mat 2/Integration af rationale funktioner.md",
+    "Mat 2/Mat 2 Opgaver/Integration af rationelle funktioner (partialbrøker).md",
+    "Random Images/Pasted image 20241101110110.png",
+    "Mat 2/Mat 2 Opgaver/Gradient partielle afledte.md",
+    "To-Do list.md",
+    "Mat 1/Opgaver/Pointgivende Aktivitet 9.md",
     "Random Images/Pasted image 20241108085908.png",
     "Mat 2/Partielle afledte.md",
-    "Mat 1/Opgaver/Pointgivende Aktivitet 9.md",
     "Mat 1/Opgaver",
-    "Mat 2/Mat 2 Opgaver/Integration af rationale funktioner.md",
     "Mat 2/Mat 2 Opgaver/Funktioner af flere variable.md",
     "Mat 2/Mat 2 Opgaver/Egenværdier og egenvektor 11-10-24.md",
-    "To-Do list.md",
     "Random Images/Pasted image 20241108085255.png",
     "Mat 2/Dobbeltintegral.md",
     "Mat 2/Egenværdier og egenvektorer.md",
@@ -207,7 +253,6 @@
     "Random Images/Pasted image 20241107115129.png",
     "Random Images/Pasted image 20241107115118.png",
     "Mat 1/Komplekse tal.md",
-    "Random Images/Pasted image 20241004100321.png",
     "Elektronik/Operationsforstærker.md",
     "Forstærkere.md",
     "Elektronik/Induktans.md",
@@ -218,9 +263,7 @@
     "Elektronik/phasor.md",
     "Elektronik/LVTTL.md",
     "Elektronik/Induktor.md",
-    "Mat 2/Integration af rationale funktioner.md",
     "Mat 2/Tangentplan.md",
-    "Mat 1/Integration.md",
     "Random PDF/Magne PDF trigonometri.pdf",
     "Random PDF"
   ]
