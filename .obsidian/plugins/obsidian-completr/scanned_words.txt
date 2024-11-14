@@ -1356,6 +1356,7 @@ else
 enheder
 efterfulgt
 ekstra
+elektromagnet
 flere
 fx
 findes
@@ -1622,6 +1623,7 @@ forbindes
 four
 fejler
 forventer
+formler
 sninger
 st
 som
@@ -1957,6 +1959,7 @@ styringen
 slaves
 synkroniserer
 second
+selvinduktions
 hvis
 her
 hvor

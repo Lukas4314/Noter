@@ -1,4 +1,4 @@
-	induktans er egentlig proportionaliteten som er mellem spændingen på noget og ændringen i strøm over tiden altså:
+induktans er egentlig proportionaliteten som er mellem spændingen på noget og ændringen i strøm over tiden altså:
 $$v(t)=L \cdot \frac{di}{dt}$$
 enheden for induktans er H for henries og symbolet er L
 ud fra formlen ovenover kan man også finde strømen i(t) ved at isolerer og interegrere så man får:
