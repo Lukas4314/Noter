@@ -234,6 +234,11 @@ lleren
 lavere
 lednings
 langsommere
+lignign
+landles
+ligger
+liges
+logic
 med
 mange
 matrix
@@ -679,6 +684,9 @@ ogxk
 opstille
 opgaverne
 out
+orden
+odrden
+ordnerne
 variable
 ved
 vilk
@@ -890,6 +898,9 @@ vOGG
 vneret
 venstre
 venter
+venstresiden
+vertecies
+volume
 der
 de
 determinanten
@@ -1135,6 +1146,11 @@ dnu
 deler
 duplex
 datalinjen
+differential
+differentialligningens
+dobbeltintegrallet
+disk
+dele
 eksisterer
 en
 eller
@@ -1624,6 +1640,8 @@ four
 fejler
 forventer
 formler
+finite
+first
 sninger
 st
 som
@@ -1960,6 +1978,13 @@ slaves
 synkroniserer
 second
 selvinduktions
+specifikke
+specifik
+separation
+startede
+spejlvendt
+sikrer
+surface
 hvis
 her
 hvor
@@ -2179,6 +2204,11 @@ hbt
 half
 hastighed
 hold
+homogen
+halvskive
+halvcirkel
+hvorn
+hvorfor
 kun
 kke
 kort
@@ -2426,6 +2456,8 @@ klok
 kommunikeres
 konfiguration
 kryds
+kasse
+kvadrant
 Der
 Determinanten
 Drawing
@@ -2750,6 +2782,7 @@ uhe
 udover
 ulig
 ulige
+ukendt
 rrelse
 rre
 rligt
@@ -2979,6 +3012,11 @@ res
 read
 receiver
 rate
+rsteordens
+rigtigt
+ret
+region
+rammer
 at
 af
 afg
@@ -3193,6 +3231,11 @@ adresser
 adresse
 adressen
 acknowledgement
+akse
+axes
+akser
+above
+akserne
 jk
 jle
 jlen
@@ -3599,6 +3642,7 @@ txt
 transmit
 transmitter
 tjekker
+triangle
 nr
 nogle
 ngige
@@ -3807,6 +3851,8 @@ ngn
 nFPh
 nSJ
 ndres
+nsker
+ngere
 ganger
 giver
 gauss
@@ -3985,6 +4031,9 @@ gbq
 gdU
 graden
 gangen
+general
+gamma
+gates
 bruges
 betyder
 bare
@@ -4195,6 +4244,8 @@ bestemmer
 beskeder
 begynder
 beskrevet
+begyndelses
+bounded
 ikke
 igen
 indeholder
@@ -4420,6 +4471,12 @@ iVK
 immm
 ilh
 iiii
+indg
+integrationskonstant
+inhomogen
+isolere
+integrationskonstanter
+integrationen
 Ikke
 IC
 IMU
@@ -4796,6 +4853,8 @@ protocol
 polaritet
 per
 parity
+plane
+programmering
 Switch
 Saving
 Self
@@ -4968,6 +5027,7 @@ SDA
 SCL
 SPI
 SCLK
+Separable
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -5460,6 +5520,7 @@ MFCVLF
 MOSI
 MISO
 MHz
+Metoder
 OPTIONS
 Orientation
 Opgaver
@@ -5603,6 +5664,7 @@ OOCi
 OfY
 OVa
 OHG
+Ordner
 You
 Yb
 Ys
@@ -5933,6 +5995,7 @@ ctl
 cXa
 cyD
 chipselect
+coordinate
 with
 width
 wH
@@ -6068,6 +6131,7 @@ wtglj
 wired
 write
 wire
+where
 For
 Forskellige
 Funktionerne
@@ -6238,6 +6302,7 @@ FvA
 FkB
 FYq
 Framestrukturen
+Find
 Tanken
 ToF
 Tangens
@@ -7292,6 +7357,7 @@ Lot
 LwD
 LoxZ
 LfK
+Line
 ydermere
 yw
 yk
@@ -8056,6 +8122,7 @@ Gku
 GWCcs
 GFG
 GyS
+General
 USA
 UA
 UZw
@@ -8230,6 +8297,7 @@ UrZnjF
 UMu
 UJx
 UART
+Under
 XObject
 XV
 XC
@@ -8549,6 +8617,7 @@ Wrc
 WlSCoG
 WIA
 WhN
+Where
 zABe
 zn
 zR
@@ -9285,6 +9354,7 @@ qrN
 qxe
 qTnD
 qtl
+quadrant
 Qq
 QsB
 Qtv

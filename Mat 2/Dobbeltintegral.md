@@ -75,6 +75,9 @@ $$y=x$$
 $$y=x^{2}$$
 og kigger på området fra x=0 til x=1
 hvis man så gør ligesom før finder man frem til at volumen går mod positivt uendelig hvilket gir mening fordi man har punktet (0, 0)
+et andet godt eksempel er:
+![[Pasted image 20241114212649.png|500]]
+
 
 # Middelværdi
 arealet som man kigger på her er lukket og begrænset og vores funktion er kontinuert i dette område
@@ -86,6 +89,8 @@ se billedet herunder:
 ![[Pasted image 20241108094506.png| 500]]
 her definerer vi så $\frac{1}{A}\iint_{D}f(x,y) dA$ som middelværdien
 og fordi at funktionen er kontinuert må der findes et punkt i vores areal som er vores middelværdi
+![[Pasted image 20241114213022.png]]
+dette giver mening når man tænker på gennemsitter
 
 
 ## dobbeltintegral i polære koordinater
