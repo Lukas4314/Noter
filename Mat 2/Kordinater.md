@@ -20,3 +20,5 @@ x&= \phi \cdot sin(\phi) \cdot cos(\theta)\\
 y&= \phi \cdot \sin(\phi) \cdot \sin(\theta) \\
 z&= \phi \cdot \cos(\phi)
 \end{align*}$$
+her er theta vinklen i xy planen ud fra x aksen og mod uret, altså op mod y aksens positive retning
+phi er vinklen som er fra z aksen og ned mod xy planen

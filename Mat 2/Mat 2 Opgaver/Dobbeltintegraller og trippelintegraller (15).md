@@ -106,8 +106,9 @@ $$\begin{align*}
  \frac{1}{2}\cdot \left. (cos(1-x^{2})) \right |_{x=0}^{x=1}\\
 \frac{1}{2}\cdot \left ( \cos(1-1)-cos(1-0)   \right )\\
  \frac{1}{2}\cdot \left ( \cos(0)-cos(1)   \right )\\
- \frac{1}{2}\cdot \left ( 1-cos(1)   \right )&= - \frac{cos(1)+1}{2}
+ \frac{1}{2}\cdot \left ( 1-cos(1)   \right )&= - \frac{cos(1)-1}{2}
 \end{align*}$$
+
 
 # 2.14
 $$\iint_{T} \frac{xy}{1+x^{4}}dA$$
@@ -168,6 +169,8 @@ $$\begin{align*}
 \int_{0}^{\infty}dx \int_{0}^{\infty}e^{-x-y}dy\\
 \int_{0}^{\infty} \left. -e^{-x-y} \right |_{y=0}^{y=\infty}  \space dx \\
 \int_{0}^{\infty}  -e^{-x-\infty} \space dx \\
-\int_{0}^{\infty}  -e^{-x}\cdot e^{-\infty} \space dx \\
-\int_{0}^{\infty}  -e^{-x}\cdot 0 \space dx=0
+\int_{0}^{\infty}  -e^{-x}\cdot (e^{-\infty} +1)\space dx \\
+\int_{0}^{\infty}  -e^{-x}\cdot (0+1) \space dx\\
+\int^\infty_{0}-e^{-x}dx=1
 \end{align*}$$
+

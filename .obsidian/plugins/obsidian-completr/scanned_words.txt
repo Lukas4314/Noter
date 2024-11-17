@@ -239,6 +239,8 @@ landles
 ligger
 liges
 logic
+ltet
+legeme
 med
 mange
 matrix
@@ -492,6 +494,11 @@ master
 masterens
 masteren
 menes
+masse
+massemidtpunkter
+massen
+massepunktet
+massemidtpunktets
 og
 opl
 ogs
@@ -687,6 +694,7 @@ out
 orden
 odrden
 ordnerne
+omregning
 variable
 ved
 vilk
@@ -901,6 +909,8 @@ venter
 venstresiden
 vertecies
 volume
+variablerne
+vinder
 der
 de
 determinanten
@@ -1151,6 +1161,8 @@ differentialligningens
 dobbeltintegrallet
 disk
 dele
+dobbeltintegration
+densiteten
 eksisterer
 en
 eller
@@ -1373,6 +1385,8 @@ enheder
 efterfulgt
 ekstra
 elektromagnet
+eventuelt
+echelon
 flere
 fx
 findes
@@ -1985,6 +1999,7 @@ startede
 spejlvendt
 sikrer
 surface
+styr
 hvis
 her
 hvor
@@ -2209,6 +2224,7 @@ halvskive
 halvcirkel
 hvorn
 hvorfor
+hvorhenne
 kun
 kke
 kort
@@ -2458,6 +2474,11 @@ konfiguration
 kryds
 kasse
 kvadrant
+kordinatet
+kam
+koordinaterne
+koordinat
+kkerne
 Der
 Determinanten
 Drawing
@@ -3017,6 +3038,9 @@ rigtigt
 ret
 region
 rammer
+riske
+reduceret
+row
 at
 af
 afg
@@ -3236,6 +3260,7 @@ axes
 akser
 above
 akserne
+afl
 jk
 jle
 jlen
@@ -3409,6 +3434,7 @@ jWwmjj
 jzd
 jDmaDu
 jTh
+jacobianten
 tidligere
 tter
 til
@@ -3643,6 +3669,9 @@ transmit
 transmitter
 tjekker
 triangle
+trippelintegraller
+tegn
+trippelintegrallet
 nr
 nogle
 ngige
@@ -3853,6 +3882,8 @@ nSJ
 ndres
 nsker
 ngere
+nker
+ndring
 ganger
 giver
 gauss
@@ -4034,6 +4065,7 @@ gangen
 general
 gamma
 gates
+gennemsitter
 bruges
 betyder
 bare
@@ -4053,7 +4085,6 @@ bredden
 base
 bestemme
 bev
-billede
 billedet
 begin
 betingelser
@@ -4246,6 +4277,7 @@ begynder
 beskrevet
 begyndelses
 bounded
+befinder
 ikke
 igen
 indeholder
@@ -4477,6 +4509,8 @@ inhomogen
 isolere
 integrationskonstanter
 integrationen
+iteration
+introducerer
 Ikke
 IC
 IMU
@@ -4855,6 +4889,11 @@ per
 parity
 plane
 programmering
+positionen
+pyramide
+planer
+pager
+plotter
 Switch
 Saving
 Self
@@ -5028,6 +5067,7 @@ SCL
 SPI
 SCLK
 Separable
+Specialtilf
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -5350,6 +5390,7 @@ VFA
 VnX
 Vlc
 Vkr
+Variabelskift
 MORE
 Machine
 Man
@@ -5521,6 +5562,7 @@ MOSI
 MISO
 MHz
 Metoder
+Massemidtpunkt
 OPTIONS
 Orientation
 Opgaver
@@ -5996,6 +6038,8 @@ cXa
 cyD
 chipselect
 coordinate
+cylindriske
+cylinder
 with
 width
 wH
@@ -7821,6 +7865,7 @@ BAYs
 BlI
 BOU
 Baud
+Beregn
 Niveaukurver
 Normal
 Nx
