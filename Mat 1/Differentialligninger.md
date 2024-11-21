@@ -76,3 +76,14 @@ y=\int e^{k}\cdot e^{P(x)} \cdot q(x) dx \space \cdot \frac{1}{e^{P(x) \cdot e^{
 y=e^{k}\cdot \int  e^{P(x)} \cdot q(x) dx \space \cdot \frac{1}{e^{P(x) \cdot e^{k}}}\\
 y=\int e^{P(x)} \cdot q(x) dx \space \cdot \frac{1}{e^{P(x)}}
 \end{align*}$$
+
+# 2. ordens inhomogene differentialligninger med konstante koefficienter
+dette er differentialligninger på formen:
+$$ a \cdot \frac{d^{2}y}{d x^{2}}+b \cdot \frac{dy}{d x}+c \cdot y =f(x)$$
+![[Pasted image 20241121115804.png|500]]
+![[Pasted image 20241121115823.png|500]]
+
+## Eksempel på anden ordens differentialligning
+![[Pasted image 20241121115907.png|500]]
+![[Pasted image 20241121115916.png|500]]
+![[Pasted image 20241121115925.png|500]]

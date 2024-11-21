@@ -499,6 +499,8 @@ massemidtpunkter
 massen
 massepunktet
 massemidtpunktets
+mEU
+mZc
 og
 opl
 ogs
@@ -695,6 +697,9 @@ orden
 odrden
 ordnerne
 omregning
+omskrive
+oWD
+overblik
 variable
 ved
 vilk
@@ -911,6 +916,7 @@ vertecies
 volume
 variablerne
 vinder
+vyq
 der
 de
 determinanten
@@ -1163,6 +1169,10 @@ disk
 dele
 dobbeltintegration
 densiteten
+differentialligningen
+differentialregning
+definitionerne
+differentieret
 eksisterer
 en
 eller
@@ -1387,6 +1397,9 @@ ekstra
 elektromagnet
 eventuelt
 echelon
+eezE
+eJma
+eLB
 flere
 fx
 findes
@@ -1656,6 +1669,7 @@ forventer
 formler
 finite
 first
+forl
 sninger
 st
 som
@@ -2000,6 +2014,10 @@ spejlvendt
 sikrer
 surface
 styr
+scU
+sIg
+software
+skalerer
 hvis
 her
 hvor
@@ -2225,6 +2243,12 @@ halvcirkel
 hvorn
 hvorfor
 hvorhenne
+hJu
+hfX
+hLE
+hastigheder
+hvilke
+hurtigst
 kun
 kke
 kort
@@ -2642,6 +2666,10 @@ DnIs
 Djt
 Dfq
 Duplex
+DMm
+DDK
+DDY
+DNZ
 uendelig
 under
 uden
@@ -2804,6 +2832,9 @@ udover
 ulig
 ulige
 ukendt
+uji
+uGw
+udlede
 rrelse
 rre
 rligt
@@ -3041,6 +3072,9 @@ rammer
 riske
 reduceret
 row
+rZY
+ryD
+relevant
 at
 af
 afg
@@ -3261,6 +3295,7 @@ akser
 above
 akserne
 afl
+algoritmen
 jk
 jle
 jlen
@@ -3672,6 +3707,8 @@ triangle
 trippelintegraller
 tegn
 trippelintegrallet
+tning
+tzi
 nr
 nogle
 ngige
@@ -3884,6 +3921,9 @@ nsker
 ngere
 nker
 ndring
+nvx
+neX
+notaton
 ganger
 giver
 gauss
@@ -4066,6 +4106,7 @@ general
 gamma
 gates
 gennemsitter
+guc
 bruges
 betyder
 bare
@@ -4278,6 +4319,7 @@ beskrevet
 begyndelses
 bounded
 befinder
+bvd
 ikke
 igen
 indeholder
@@ -4894,6 +4936,8 @@ pyramide
 planer
 pager
 plotter
+pythagoras
+pXTT
 Switch
 Saving
 Self
@@ -5068,6 +5112,7 @@ SPI
 SCLK
 Separable
 Specialtilf
+SfO
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -5226,6 +5271,8 @@ EYwU
 Ezj
 EXh
 Efter
+EDDY
+EZq
 VIEW
 VTTL
 VS
@@ -5391,6 +5438,9 @@ VnX
 Vlc
 Vkr
 Variabelskift
+VTB
+VDq
+VoVY
 MORE
 Machine
 Man
@@ -5707,6 +5757,7 @@ OfY
 OVa
 OHG
 Ordner
+Omskriv
 You
 Yb
 Ys
@@ -5862,6 +5913,10 @@ YYi
 YadP
 Ykq
 YYQe
+Yaq
+YoT
+YNG
+YFb
 can
 command
 current
@@ -6040,6 +6095,8 @@ chipselect
 coordinate
 cylindriske
 cylinder
+cnt
+ckn
 with
 width
 wH
@@ -6176,6 +6233,7 @@ wired
 write
 wire
 where
+wiP
 For
 Forskellige
 Funktionerne
@@ -6347,6 +6405,7 @@ FkB
 FYq
 Framestrukturen
 Find
+FCz
 Tanken
 ToF
 Tangens
@@ -6493,6 +6552,7 @@ TLG
 TAl
 TLg
 Tsss
+TpM
 Key
 Klassen
 Kartesisk
@@ -6649,6 +6709,9 @@ KCI
 KTx
 KPmQs
 KMUsUumyE
+KDD
+KTR
+Kapl
 Abstraction
 Alt
 AB
@@ -6948,6 +7011,9 @@ CNb
 CzQ
 CPOL
 CPHA
+CkV
+CYK
+Caz
 PWM
 Pol
 Passive
@@ -7245,6 +7311,8 @@ RTlN
 RSU
 RcF
 Rjj
+RiP
+RsE
 LVTTL
 Light
 Local
@@ -7708,6 +7776,11 @@ HNbD
 HtRi
 HQdT
 Hastigheden
+HDDD
+HBh
+HDe
+HDDe
+Hvorn
 BLOB
 Bin
 BitsPerComponent
@@ -7866,6 +7939,7 @@ BlI
 BOU
 Baud
 Beregn
+Bwg
 Niveaukurver
 Normal
 Nx
@@ -8343,6 +8417,7 @@ UMu
 UJx
 UART
 Under
+UZm
 XObject
 XV
 XC
@@ -8804,6 +8879,7 @@ zlu
 zrX
 zhf
 zGV
+zqi
 Zl
 Ztx
 ZAw
@@ -8955,6 +9031,8 @@ ZVSN
 ZAI
 Zoo
 ZUL
+ZvdD
+ZVb
 xo
 xke
 xz
@@ -9552,6 +9630,7 @@ QIZ
 QIR
 QSrNFjQ
 QdK
+QAB
 Öp
 ÖNg
 ÜA
