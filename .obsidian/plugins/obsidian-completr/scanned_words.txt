@@ -501,6 +501,7 @@ massepunktet
 massemidtpunktets
 mEU
 mZc
+mpfi
 og
 opl
 ogs
@@ -2249,6 +2250,7 @@ hLE
 hastigheder
 hvilke
 hurtigst
+hMi
 kun
 kke
 kort
@@ -2503,6 +2505,7 @@ kam
 koordinaterne
 koordinat
 kkerne
+kJR
 Der
 Determinanten
 Drawing
@@ -2670,6 +2673,10 @@ DMm
 DDK
 DDY
 DNZ
+DDDDycM
+DDt
+DjXyc
+Deb
 uendelig
 under
 uden
@@ -2835,6 +2842,7 @@ ukendt
 uji
 uGw
 udlede
+ugCi
 rrelse
 rre
 rligt
@@ -3296,6 +3304,7 @@ above
 akserne
 afl
 algoritmen
+aF
 jk
 jle
 jlen
@@ -3470,6 +3479,7 @@ jzd
 jDmaDu
 jTh
 jacobianten
+jqB
 tidligere
 tter
 til
@@ -3709,6 +3719,7 @@ tegn
 trippelintegrallet
 tning
 tzi
+tuG
 nr
 nogle
 ngige
@@ -4553,6 +4564,7 @@ integrationskonstanter
 integrationen
 iteration
 introducerer
+iQJ
 Ikke
 IC
 IMU
@@ -4712,6 +4724,8 @@ IAS
 Iul
 IDATe
 IUjU
+IzLi
+IIq
 plugin
 parsed
 palette
@@ -5441,6 +5455,8 @@ Variabelskift
 VTB
 VDq
 VoVY
+VqIDATx
+ViP
 MORE
 Machine
 Man
@@ -6097,6 +6113,7 @@ cylindriske
 cylinder
 cnt
 ckn
+ccJ
 with
 width
 wH
@@ -6234,6 +6251,8 @@ write
 wire
 where
 wiP
+wDI
+wXJ
 For
 Forskellige
 Funktionerne
@@ -6835,6 +6854,7 @@ AXk
 And
 AqR
 Akv
+ADDD
 Constructer
 CC
 Capacitors
@@ -7158,6 +7178,7 @@ PpH
 PpU
 PWS
 Protocol
+PLj
 RP
 Regneregler
 Resources
@@ -7781,6 +7802,8 @@ HBh
 HDe
 HDDe
 Hvorn
+Hqzg
+HHA
 BLOB
 Bin
 BitsPerComponent
@@ -7940,6 +7963,7 @@ BOU
 Baud
 Beregn
 Bwg
+BDyJT
 Niveaukurver
 Normal
 Nx
@@ -8242,6 +8266,8 @@ GWCcs
 GFG
 GyS
 General
+GuM
+Gqr
 USA
 UA
 UZw
@@ -8738,6 +8764,7 @@ WlSCoG
 WIA
 WhN
 Where
+WiP
 zABe
 zn
 zR
@@ -8880,6 +8907,7 @@ zrX
 zhf
 zGV
 zqi
+zgz
 Zl
 Ztx
 ZAw
@@ -9033,6 +9061,7 @@ Zoo
 ZUL
 ZvdD
 ZVb
+ZbE
 xo
 xke
 xz
@@ -9185,6 +9214,7 @@ xLS
 xDu
 xSM
 xwO
+xUN
 JU
 JW
 Jg

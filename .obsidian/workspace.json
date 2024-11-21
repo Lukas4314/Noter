@@ -26,15 +26,12 @@
             "id": "d6127ed83986c167",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Mat 1/Differentialligninger.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Random Images/Pasted image 20241121115925.png"
               },
-              "icon": "lucide-file",
-              "title": "Differentialligninger"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241121115925"
             }
           }
         ],
@@ -192,15 +189,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d6127ed83986c167",
+  "active": "f4445b7b75c83052",
   "lastOpenFiles": [
-    "Pasted image 20241121115925.png",
-    "Pasted image 20241121115916.png",
-    "Pasted image 20241121115907.png",
-    "Pasted image 20241121115823.png",
-    "Pasted image 20241121115804.png",
-    "Mat 1/Grænseværdier og L'Hopitals regel.md",
     "Mat 1/Differentialligninger.md",
+    "Random Images/Pasted image 20241121115925.png",
+    "Random Images/Pasted image 20241121115916.png",
+    "Random Images/Pasted image 20241121115907.png",
+    "Random Images/Pasted image 20241121115823.png",
+    "Random Images/Pasted image 20241121115804.png",
+    "Mat 1/Grænseværdier og L'Hopitals regel.md",
     "Random Images/Pasted image 20241121111855.png",
     "Random Images/Pasted image 20241121103730.png",
     "Random Images/Pasted image 20241121103721.png",
@@ -214,7 +211,6 @@
     "Random Images/Pasted image 20241115085146.png",
     "To-Do list.md",
     "Random Images/Pasted image 20241114213022.png",
-    "Random Images/Pasted image 20241114212649.png",
     "Mat 2/Mat 2 Opgaver/Integration af rationelle funktioner (partialbrøker).md",
     "Elektronik/AC Spænding.md",
     "Elektronik/Capacitors.md",
