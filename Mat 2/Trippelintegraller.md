@@ -34,6 +34,7 @@ vi kigger nu på et nyt område som er beskrevet i u v w kordinater
 $$\iiint_{S}f(x(u,v,w),y(u,v,w),z(u,v,w)| \frac{\partial(x,y,z)}{ \partial(u,v,w) } | dudvdw$$
 vi introducerer her det som hedder jacobianten hvor vi har at:
 ![[Pasted image 20241115085146.png|500]]
+hvis der er tvivle omkring hvad $\frac{\partial(x,y,z)}{ \partial(u,v,w) } |$ betyder er det en matrix hvor vi har x differentieret i forhold til u og så på næste kolonne i forhold til v og så til w og i næste rækker er det y differentieret i forhold til u, v og w osv
 ### Specialtilfælde med cylinder koordinater
 her har vi at sammenhængen mellem mellem variablerne er her:
 $$\begin{align*}
@@ -41,7 +42,7 @@ x&= r \cos(\theta)\\
 y &= r \sin(\theta)\\
 z &= z
 \end{align*}$$
-hvis man plotter det og vinder ud af hvad man får dV til at være ved at kigge på en lille ændring i r, theta og z altså $dr, d \theta, dz$
+man får dV til at være ved at kigge på en lille ændring i r, theta og z altså $dr, d \theta, dz$
 vil man få en dV som er $dV=rdrd \theta dz$
 her vil man så få at r er: $r=| \frac{\partial(x,y,z)}{ \partial(u,v,w) } |$  hvis man valgte at gøre det med jacobianten
 

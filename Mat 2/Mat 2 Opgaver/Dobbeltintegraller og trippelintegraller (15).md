@@ -174,3 +174,116 @@ $$\begin{align*}
 \int^\infty_{0}-e^{-x}dx=1
 \end{align*}$$
 
+
+
+# 4.21
+Find the volume between the paraboloids $z=x^{2}+y^{2}$ and $3z=4-x^{2}-y^{2}$ 
+for at finde volumen mellem funktionerne kan vi finde området hvor de mødes og trække dem fra hinanden og finde dobbeltintegrallet da dette vil være volumen
+vi kan se ved at forestille sig dem eller tegne dem at volumen mellem dem altid er positivt og i området som vi kigger på er $z=x^{2}+y^{2}$ mindst. Vi skal derfor bare finde området hvorpå vi vil integrerer, dette kan vi gøre ved at sætte dem lig med hinanden
+$$
+\begin{align*}
+x^{2}+y^{2}&=  \frac{4-x^{2}-y^{2}}{3}\\
+3x^{2}+3y^{2}&=  4-x^{2}-y^{2}\\
+4x^{2}+4y^{2}&=  4\\
+x^{2}+y^{2}&=  1
+\end{align*}
+$$
+vi ser her at området vi skal kigge på er en cirkel og vi vælger derfor at lave et variableskift hvor vi har at
+$$\begin{align*}
+x&= r \cos(\theta)\\
+y &= r \sin(\theta)\\
+z &= z
+\end{align*}$$
+og 
+$$dA=rdrd \theta$$
+og 
+$$r^{2}=x^{2}+y^{2}$$
+
+
+vores integral kommer derved til at se sådan her ud:
+$$
+\begin{align*}
+\iint_{A} \frac{4-x^{2}-y^{2}}{3}-(x^{2}+y^{2})&= \iint_{A} \frac{4-r^{2}}{3}-r^{2}\\
+&= \iint_{A} \frac{4}{3}- \frac{4r^{2}}{3}\\
+&= \frac{4}{3} \iint_{A} 1- r^{2}
+\end{align*}
+$$
+vi kan her beskrive området som hvor r går fra 0 til 1 og $d \theta$ går fra 0 til 2pi
+$$\begin{align*}
+\frac{4}{3} \iint_{A} 1- r^{2}\\
+\frac{4}{3} \int_{0}^{2\pi}d \theta \int_{0}^{1}(1-r^{2})rdr\\
+\frac{4}{3} \int_{0}^{2\pi}d \theta \int_{0}^{1}r-r^{3}dr\\
+\frac{4}{3} \int_{0}^{2\pi}  \left. \frac{r^{2}}{2}- \frac{r^{4}}{4} \right |_{0}^{1}  d \theta\\
+\frac{4}{3} \int_{0}^{2\pi} \frac{1}{4} d \theta\\
+\frac{4}{3}\left (  \left. \frac{1}{4}\theta \right |_{0}^{2\pi} \right )\\
+\frac{4}{3} \cdot \frac{\pi}{2}\\
+\frac{2\pi}{3}
+\end{align*}$$
+
+
+
+
+
+
+# 4.30
+Find the volume of the region in the first octant below the paraboloid
+$$z=1- \frac{x^{2}}{a^{2}}- \frac{y^{2}}{b^{2}}$$
+eftersom at det skal være i første oktant kan vi sige at $z \geq 0 \land x \geq 0 \land y \geq0$ 
+
+
+
+# 4.35
+
+
+# 5.1
+$$\iiint_{R}(1+2x-3y)dV, \space \text{over the box}-a \leq x \leq a,\space -b \leq y \leq b, \space -c \leq z \leq c$$
+gidder jeg ikke fordi det er bare at integrer når vi har grænserne
+
+
+# 5.8
+$$\iiint_{R}yz^{2}e^{-xyz} dV, \text{ over the cube} \space 0 \leq x,y,z \leq1$$
+gider igen ikke da det bare er en masse integration
+
+# 5.11
+igen bare en masse integration så gider ikke
+
+
+# 6.1
+inside the cone $z=\sqrt{x^{2}+y^{2}}$ and inside the sphere $x^{2}+y^{2}+z^{2}=a^{2}$ find the volume
+vi omskriver begge udtryk
+$$\begin{align*}
+z^{2}=x^{2}+y^{2}\\
+z^{2}=a^{2}-x^{2}-y^{2}
+\end{align*}$$
+vi kan her så sætte dem lig med hinanden
+$$\begin{align*}
+x^{2}+y^{2}=a^{2}-x^{2}-y^{2}\\
+2x^{2}+2y^{2}=a^{2}
+\end{align*}$$
+vi kan her bruge cylinderiske kordinater
+$$\begin{align*}
+2r^{2}=a^{2}\\
+r&= \frac{a}{\sqrt{2}}
+\end{align*}$$
+
+for at finde ud af hvad z går fra så går den fra keglen som med cyllinderiske kordinater var $z=r$ og kuglen som med cyllinderiske kordinater var $z=\sqrt{a^{2}-r^{2}}$ 
+$$\begin{align*}
+\int_{0}^{2\pi}d \theta \int_{0}^{\frac{a}{\sqrt{2}}}rdr\int_{r}^{\sqrt{a^{2}-r^{2}}}dz\\
+\int_{0}^{2\pi}d \theta \int_{0}^{\frac{a}{\sqrt{2}}}(\sqrt{a^{2}-r^{2}}-r)r \space dr\\
+\int_{0}^{2\pi}d \theta \int_{0}^{\frac{a}{\sqrt{2}}}r\sqrt{a^{2}-r^{2}}-r^{2} \space dr\\
+\int_{0}^{2\pi} \left. \frac{(a^{2}-r^{2})^{1,5}}{1,5} - \frac{r^{3}}{3} \right |_{0}^{\frac{a}{\sqrt{2}}}   \space  d \theta\\
+\int_{0}^{2\pi}  \frac{(a^{2}-(\frac{a}{\sqrt{2}})^{2})^{1,5}}{1,5} - \frac{(\frac{a}{\sqrt{2}})^{3}}{3}- \frac{a^{3}}{1,5}   \space  d \theta\\
+\int_{0}^{2\pi}  \frac{(a^{2}- \frac{a^{2}}{2})^{1,5}}{1,5}  - 
+\frac{\frac{a^{3}}{2^{1,5}}}{3}- \frac{a^{3}}{1,5}   \space  d \theta\\
+\int_{0}^{2\pi}  \frac{(\frac{a^{2}}{2})^{1,5}}{1,5}  - 
+\frac{a^{3}}{3 \cdot 2^{1,5}}- \frac{a^{3}}{1,5}   \space  d \theta\\
+\int_{0}^{2\pi}  \frac{a^{3}}{1,5 \cdot \sqrt{8}}  - 
+\frac{a^{3}}{3 \cdot \sqrt{8}}- \frac{a^{3}}{1,5}   \space  d \theta\\
+\int_{0}^{2\pi}  \frac{2a^{3}}{3 \cdot \sqrt{8}}  - 
+\frac{a^{3}}{3 \cdot \sqrt{8}}- \frac{a^{3}}{1,5}   \space  d \theta\\
+\int_{0}^{2\pi}\frac{a^{3}}{3 \cdot \sqrt{8}}- \frac{a^{3}}{1,5}   \space  d \theta\\
+\int_{0}^{2\pi}\frac{a^{3}}{3 \cdot \sqrt{8}}- \frac{2a^{3}\cdot \sqrt{8}}{3 \cdot \sqrt{8}}   \space  d \theta\\
+\int_{0}^{2\pi} \frac{a^{3}(1-2 \cdot \sqrt{8})}{3\cdot \sqrt{8}} \space  d \theta\\
+\int_{0}^{2\pi} \frac{a^{3}(1-\sqrt{32})}{\sqrt{72}}   \space  d \theta\\
+2\pi \frac{a^{3}(1-\sqrt{32})}{\sqrt{72}}
+\end{align*}$$

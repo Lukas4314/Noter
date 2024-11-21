@@ -701,6 +701,8 @@ omregning
 omskrive
 oWD
 overblik
+octant
+oktant
 variable
 ved
 vilk
@@ -918,6 +920,7 @@ volume
 variablerne
 vinder
 vyq
+variableskift
 der
 de
 determinanten
@@ -1174,6 +1177,8 @@ differentialligningen
 differentialregning
 definitionerne
 differentieret
+des
+diode
 eksisterer
 en
 eller
@@ -1401,6 +1406,7 @@ echelon
 eezE
 eJma
 eLB
+elektromagnetens
 flere
 fx
 findes
@@ -1671,6 +1677,8 @@ formler
 finite
 first
 forl
+forestille
+forsyning
 sninger
 st
 som
@@ -2251,6 +2259,7 @@ hastigheder
 hvilke
 hurtigst
 hMi
+hvorp
 kun
 kke
 kort
@@ -3305,6 +3314,7 @@ akserne
 afl
 algoritmen
 aF
+aflade
 jk
 jle
 jlen
@@ -3720,6 +3730,7 @@ trippelintegrallet
 tning
 tzi
 tuG
+transistor
 nr
 nogle
 ngige
@@ -3935,6 +3946,7 @@ ndring
 nvx
 neX
 notaton
+nserne
 ganger
 giver
 gauss
@@ -4118,6 +4130,8 @@ gamma
 gates
 gennemsitter
 guc
+gidder
+gider
 bruges
 betyder
 bare
@@ -4331,6 +4345,8 @@ begyndelses
 bounded
 befinder
 bvd
+between
+below
 ikke
 igen
 indeholder
@@ -4952,6 +4968,8 @@ pager
 plotter
 pythagoras
 pXTT
+paraboloids
+paraboloid
 Switch
 Saving
 Self
