@@ -241,6 +241,11 @@ liges
 logic
 ltet
 legeme
+linearitet
+lyyO
+liVk
+lMmr
+lpB
 med
 mange
 matrix
@@ -502,6 +507,7 @@ massemidtpunktets
 mEU
 mZc
 mpfi
+mLXQ
 og
 opl
 ogs
@@ -703,6 +709,10 @@ oWD
 overblik
 octant
 oktant
+omskriver
+ordin
+ooB
+omMu
 variable
 ved
 vilk
@@ -921,6 +931,8 @@ variablerne
 vinder
 vyq
 variableskift
+valuation
+variablen
 der
 de
 determinanten
@@ -1179,6 +1191,14 @@ definitionerne
 differentieret
 des
 diode
+differentielligninger
+dom
+differentielligning
+dobbeltafledte
+dvendigvis
+differentiable
+dVp
+dTA
 eksisterer
 en
 eller
@@ -1407,6 +1427,10 @@ eezE
 eJma
 eLB
 elektromagnetens
+eksistens
+enhedsstep
+eIDATx
+eKB
 flere
 fx
 findes
@@ -1679,6 +1703,9 @@ first
 forl
 forestille
 forsyning
+flytte
+fdiq
+fkk
 sninger
 st
 som
@@ -2027,6 +2054,12 @@ scU
 sIg
 software
 skalerer
+sphere
+syntax
+stykvis
+step
+skubbe
+sNs
 hvis
 her
 hvor
@@ -2260,6 +2293,7 @@ hvilke
 hurtigst
 hMi
 hvorp
+hcq
 kun
 kke
 kort
@@ -2515,6 +2549,9 @@ koordinaterne
 koordinat
 kkerne
 kJR
+keglen
+kuglen
+kLj
 Der
 Determinanten
 Drawing
@@ -2686,6 +2723,11 @@ DDDDycM
 DDt
 DjXyc
 Deb
+DMt
+DpI
+DyL
+Drp
+DBA
 uendelig
 under
 uden
@@ -2852,6 +2894,8 @@ uji
 uGw
 udlede
 ugCi
+umI
+uij
 rrelse
 rre
 rligt
@@ -3092,6 +3136,9 @@ row
 rZY
 ryD
 relevant
+restriction
+random
+rDI
 at
 af
 afg
@@ -3315,6 +3362,8 @@ afl
 algoritmen
 aF
 aflade
+algebraisk
+anderledes
 jk
 jle
 jlen
@@ -3731,6 +3780,14 @@ tning
 tzi
 tuG
 transistor
+tvivle
+transformationer
+transformation
+transformationen
+transformerer
+tranformation
+tQl
+tTv
 nr
 nogle
 ngige
@@ -3947,6 +4004,12 @@ nvx
 neX
 notaton
 nserne
+net
+nde
+nOl
+nkrC
+nhk
+nLeDq
 ganger
 giver
 gauss
@@ -4132,6 +4195,9 @@ gennemsitter
 guc
 gidder
 gider
+generelt
+gKB
+gOc
 bruges
 betyder
 bare
@@ -4347,6 +4413,9 @@ befinder
 bvd
 between
 below
+begyndelsesbetingelser
+bogstav
+bIo
 ikke
 igen
 indeholder
@@ -4581,6 +4650,16 @@ integrationen
 iteration
 introducerer
 iQJ
+inside
+initial
+invers
+integraller
+idk
+intervallet
+iDS
+ipV
+iJF
+iiw
 Ikke
 IC
 IMU
@@ -4742,6 +4821,7 @@ IDATe
 IUjU
 IzLi
 IIq
+IVP
 plugin
 parsed
 palette
@@ -4970,6 +5050,7 @@ pythagoras
 pXTT
 paraboloids
 paraboloid
+problems
 Switch
 Saving
 Self
@@ -5145,6 +5226,7 @@ SCLK
 Separable
 Specialtilf
 SfO
+Simpel
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -5305,6 +5387,7 @@ EXh
 Efter
 EDDY
 EZq
+EHG
 VIEW
 VTTL
 VS
@@ -5475,6 +5558,7 @@ VDq
 VoVY
 VqIDATx
 ViP
+VDN
 MORE
 Machine
 Man
@@ -5647,6 +5731,7 @@ MISO
 MHz
 Metoder
 Massemidtpunkt
+Mfs
 OPTIONS
 Orientation
 Opgaver
@@ -5792,6 +5877,7 @@ OVa
 OHG
 Ordner
 Omskriv
+ODE
 You
 Yb
 Ys
@@ -6132,6 +6218,12 @@ cylinder
 cnt
 ckn
 ccJ
+cone
+cylinderiske
+cyllinderiske
+cGY
+cbA
+cglq
 with
 width
 wH
@@ -6271,6 +6363,9 @@ where
 wiP
 wDI
 wXJ
+wZ
+wXF
+woc
 For
 Forskellige
 Funktionerne
@@ -6590,6 +6685,8 @@ TAl
 TLg
 Tsss
 TpM
+Tabel
+TuU
 Key
 Klassen
 Kartesisk
@@ -6749,6 +6846,7 @@ KMUsUumyE
 KDD
 KTR
 Kapl
+KeQ
 Abstraction
 Alt
 AB
@@ -6873,6 +6971,9 @@ And
 AqR
 Akv
 ADDD
+AHH
+AFT
+AvE
 Constructer
 CC
 Capacitors
@@ -7197,6 +7298,7 @@ PpU
 PWS
 Protocol
 PLj
+PLh
 RP
 Regneregler
 Resources
@@ -7352,6 +7454,9 @@ RcF
 Rjj
 RiP
 RsE
+Rigtig
+Regneregel
+Random
 LVTTL
 Light
 Local
@@ -7509,6 +7614,11 @@ LwD
 LoxZ
 LfK
 Line
+Laplace
+LpPb
+LlD
+LkbVH
+LxI
 ydermere
 yw
 yk
@@ -7659,6 +7769,8 @@ yCWO
 ymA
 yccc
 ydl
+yxc
+ysa
 Hvad
 Her
 Hvis
@@ -7982,6 +8094,8 @@ Baud
 Beregn
 Bwg
 BDyJT
+BVX
+Bvf
 Niveaukurver
 Normal
 Nx
@@ -8286,6 +8400,8 @@ GyS
 General
 GuM
 Gqr
+Growth
+GlO
 USA
 UA
 UZw
@@ -8462,6 +8578,8 @@ UJx
 UART
 Under
 UZm
+Unit
+URb
 XObject
 XV
 XC
@@ -8630,6 +8748,7 @@ XTmb
 XXZ
 XSS
 XRZx
+XhR
 Width
 Wi
 Wtu
@@ -8926,6 +9045,7 @@ zhf
 zGV
 zqi
 zgz
+zBz
 Zl
 Ztx
 ZAw
@@ -9080,6 +9200,8 @@ ZUL
 ZvdD
 ZVb
 ZbE
+ZNx
+Zhx
 xo
 xke
 xz
@@ -9233,6 +9355,7 @@ xDu
 xSM
 xwO
 xUN
+xRJ
 JU
 JW
 Jg
@@ -9376,6 +9499,8 @@ JQM
 JAV
 JkRj
 Jak
+JhY
+JXj
 qsy
 qs
 qg
@@ -9526,6 +9651,9 @@ qxe
 qTnD
 qtl
 quadrant
+qNw
+qLw
+qpN
 Qq
 QsB
 Qtv
@@ -9679,6 +9807,7 @@ QIR
 QSrNFjQ
 QdK
 QAB
+QpL
 Öp
 ÖNg
 ÜA

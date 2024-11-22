@@ -237,7 +237,7 @@ eftersom at det skal være i første oktant kan vi sige at $z \geq 0 \land x \ge
 
 # 5.1
 $$\iiint_{R}(1+2x-3y)dV, \space \text{over the box}-a \leq x \leq a,\space -b \leq y \leq b, \space -c \leq z \leq c$$
-gidder jeg ikke fordi det er bare at integrer når vi har grænserne
+gider jeg ikke fordi det er bare at integrer når vi har grænserne
 
 
 # 5.8
@@ -250,40 +250,4 @@ igen bare en masse integration så gider ikke
 
 # 6.1
 inside the cone $z=\sqrt{x^{2}+y^{2}}$ and inside the sphere $x^{2}+y^{2}+z^{2}=a^{2}$ find the volume
-vi omskriver begge udtryk
-$$\begin{align*}
-z^{2}=x^{2}+y^{2}\\
-z^{2}=a^{2}-x^{2}-y^{2}
-\end{align*}$$
-vi kan her så sætte dem lig med hinanden
-$$\begin{align*}
-x^{2}+y^{2}=a^{2}-x^{2}-y^{2}\\
-2x^{2}+2y^{2}=a^{2}
-\end{align*}$$
-vi kan her bruge cylinderiske kordinater
-$$\begin{align*}
-2r^{2}=a^{2}\\
-r&= \frac{a}{\sqrt{2}}
-\end{align*}$$
-
-for at finde ud af hvad z går fra så går den fra keglen som med cyllinderiske kordinater var $z=r$ og kuglen som med cyllinderiske kordinater var $z=\sqrt{a^{2}-r^{2}}$ 
-$$\begin{align*}
-\int_{0}^{2\pi}d \theta \int_{0}^{\frac{a}{\sqrt{2}}}rdr\int_{r}^{\sqrt{a^{2}-r^{2}}}dz\\
-\int_{0}^{2\pi}d \theta \int_{0}^{\frac{a}{\sqrt{2}}}(\sqrt{a^{2}-r^{2}}-r)r \space dr\\
-\int_{0}^{2\pi}d \theta \int_{0}^{\frac{a}{\sqrt{2}}}r\sqrt{a^{2}-r^{2}}-r^{2} \space dr\\
-\int_{0}^{2\pi} \left. \frac{(a^{2}-r^{2})^{1,5}}{1,5} - \frac{r^{3}}{3} \right |_{0}^{\frac{a}{\sqrt{2}}}   \space  d \theta\\
-\int_{0}^{2\pi}  \frac{(a^{2}-(\frac{a}{\sqrt{2}})^{2})^{1,5}}{1,5} - \frac{(\frac{a}{\sqrt{2}})^{3}}{3}- \frac{a^{3}}{1,5}   \space  d \theta\\
-\int_{0}^{2\pi}  \frac{(a^{2}- \frac{a^{2}}{2})^{1,5}}{1,5}  - 
-\frac{\frac{a^{3}}{2^{1,5}}}{3}- \frac{a^{3}}{1,5}   \space  d \theta\\
-\int_{0}^{2\pi}  \frac{(\frac{a^{2}}{2})^{1,5}}{1,5}  - 
-\frac{a^{3}}{3 \cdot 2^{1,5}}- \frac{a^{3}}{1,5}   \space  d \theta\\
-\int_{0}^{2\pi}  \frac{a^{3}}{1,5 \cdot \sqrt{8}}  - 
-\frac{a^{3}}{3 \cdot \sqrt{8}}- \frac{a^{3}}{1,5}   \space  d \theta\\
-\int_{0}^{2\pi}  \frac{2a^{3}}{3 \cdot \sqrt{8}}  - 
-\frac{a^{3}}{3 \cdot \sqrt{8}}- \frac{a^{3}}{1,5}   \space  d \theta\\
-\int_{0}^{2\pi}\frac{a^{3}}{3 \cdot \sqrt{8}}- \frac{a^{3}}{1,5}   \space  d \theta\\
-\int_{0}^{2\pi}\frac{a^{3}}{3 \cdot \sqrt{8}}- \frac{2a^{3}\cdot \sqrt{8}}{3 \cdot \sqrt{8}}   \space  d \theta\\
-\int_{0}^{2\pi} \frac{a^{3}(1-2 \cdot \sqrt{8})}{3\cdot \sqrt{8}} \space  d \theta\\
-\int_{0}^{2\pi} \frac{a^{3}(1-\sqrt{32})}{\sqrt{72}}   \space  d \theta\\
-2\pi \frac{a^{3}(1-\sqrt{32})}{\sqrt{72}}
-\end{align*}$$
+havde lavet den forkert men ligger inde på GitHub hvor den er forkert, men sfæriske koordinater da dette vil gøre det nemmere

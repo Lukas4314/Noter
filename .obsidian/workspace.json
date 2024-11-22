@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b997fd770f04978a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat 1/Opgaver/Pointgivende Aktivitet 10.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pointgivende Aktivitet 10"
-            }
-          },
-          {
-            "id": "d6127ed83986c167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat 2/Trippelintegraller.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trippelintegraller"
-            }
-          },
-          {
             "id": "c7d3a977a34283e9",
             "type": "leaf",
             "state": {
@@ -53,22 +23,18 @@
             }
           },
           {
-            "id": "3660fc866d06baaa",
+            "id": "df3d7d82c2cabf1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Mat 2/Dobbeltintegral.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Random Images/Pasted image 20241122084116.png"
               },
-              "icon": "lucide-file",
-              "title": "Dobbeltintegral"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241122084116"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,9 +190,16 @@
   },
   "active": "c7d3a977a34283e9",
   "lastOpenFiles": [
+    "Random Images/Pasted image 20241122084116.png",
+    "Mat 2/Laplace transformation.md",
+    "Random Images/Pasted image 20241122100617.png",
+    "Pasted image 20241122100436.png.~tmp",
+    "Random Images/Pasted image 20241122100436.png",
+    "Elektronik/Dirac Puls.md",
+    "Random Images/Pasted image 20241122094232.png",
+    "Mat 2/Mat 2 Opgaver/Dobbeltintegraller og trippelintegraller (15).md",
     "Mat 2/Trippelintegraller.md",
     "Mat 2/Dobbeltintegral.md",
-    "Mat 2/Mat 2 Opgaver/Dobbeltintegraller og trippelintegraller (15).md",
     "To-Do list.md",
     "SeMesterProjekt To Do.md",
     "Mat 1/Opgaver/Pointgivende Aktivitet 10.md",
@@ -242,13 +215,9 @@
     "Random Images/Pasted image 20241121115804.png",
     "Mat 1/Grænseværdier og L'Hopitals regel.md",
     "Random Images/Pasted image 20241121111855.png",
-    "Random Images/Pasted image 20241121103730.png",
-    "Random Images/Pasted image 20241121103721.png",
     "Mat 1/Opgaver/Pointgivende Aktivitet 9.md",
     "Mat 1/Vækst modeller.md",
     "Mat 2/Kordinater.md",
-    "Random Images/Pasted image 20241115085146.png",
-    "Random Images/Pasted image 20241114213022.png",
     "Elektronik/AC Spænding.md",
     "Elektronik/Capacitors.md",
     "Elektronik/Induktans.md",
@@ -257,10 +226,7 @@
     "Elektronik/phasor.md",
     "Programmering af mobile robotter/Data communication.md",
     "Mat 2/Integration af rationale funktioner.md",
-    "Mat 2/Mat 2 Opgaver/Gradient partielle afledte.md",
-    "Mat 2/Partielle afledte.md",
     "Mat 1/Opgaver",
-    "Mat 2/Egenværdier og egenvektorer.md",
     "Pasted image 20241108102009.png.~tmp",
     "Pasted image 20241108101758.png.~tmp",
     "Pasted image 20241108095626.png.~tmp",
@@ -268,7 +234,6 @@
     "Pasted image 20241108092459.png.~tmp",
     "Pasted image 20241108085908.png.~tmp",
     "Pasted image 20241108085255.png.~tmp",
-    "Random PDF/Magne PDF trigonometri.pdf",
-    "Random PDF"
+    "Random PDF/Magne PDF trigonometri.pdf"
   ]
 }
