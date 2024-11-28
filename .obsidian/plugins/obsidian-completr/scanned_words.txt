@@ -715,6 +715,9 @@ omskriver
 ordin
 ooB
 omMu
+opskrevet
+opstilles
+overd
 variable
 ved
 vilk
@@ -1202,6 +1205,7 @@ differentiable
 dVp
 dTA
 dividerer
+diskrimanten
 eksisterer
 en
 eller
@@ -2064,6 +2068,7 @@ stykvis
 step
 skubbe
 sNs
+sningsmetode
 hvis
 her
 hvor
@@ -2298,6 +2303,8 @@ hurtigst
 hMi
 hvorp
 hcq
+handler
+hvormange
 kun
 kke
 kort
@@ -2556,6 +2563,8 @@ kJR
 keglen
 kuglen
 kLj
+karakterligningnen
+kritisk
 Der
 Determinanten
 Drawing
@@ -2901,6 +2910,9 @@ ugCi
 umI
 uij
 uanset
+uegentlige
+udgangspunkt
+underd
 rrelse
 rre
 rligt
@@ -3793,6 +3805,7 @@ transformerer
 tranformation
 tQl
 tTv
+type
 nr
 nogle
 ngige
@@ -4829,6 +4842,7 @@ IUjU
 IzLi
 IIq
 IVP
+Inhomogene
 plugin
 parsed
 palette
@@ -8413,6 +8427,7 @@ GuM
 Gqr
 Growth
 GlO
+Generelle
 USA
 UA
 UZw
