@@ -246,6 +246,7 @@ lyyO
 liVk
 lMmr
 lpB
+laves
 med
 mange
 matrix
@@ -508,6 +509,7 @@ mEU
 mZc
 mpfi
 mLXQ
+mgenerator
 og
 opl
 ogs
@@ -1199,6 +1201,7 @@ dvendigvis
 differentiable
 dVp
 dTA
+dividerer
 eksisterer
 en
 eller
@@ -1706,6 +1709,7 @@ forsyning
 flytte
 fdiq
 fkk
+forsimple
 sninger
 st
 som
@@ -2896,6 +2900,7 @@ udlede
 ugCi
 umI
 uij
+uanset
 rrelse
 rre
 rligt
@@ -4416,6 +4421,8 @@ below
 begyndelsesbetingelser
 bogstav
 bIo
+benyttes
+beregninger
 ikke
 igen
 indeholder
@@ -5051,6 +5058,8 @@ pXTT
 paraboloids
 paraboloid
 problems
+plads
+pakke
 Switch
 Saving
 Self
@@ -6687,6 +6696,7 @@ Tsss
 TpM
 Tabel
 TuU
+Thevenin
 Key
 Klassen
 Kartesisk
@@ -8248,6 +8258,7 @@ NOMD
 NiL
 Ngk
 NWH
+Norton
 Gr
 GNSS
 GPS
