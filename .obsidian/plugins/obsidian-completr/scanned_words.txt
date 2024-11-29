@@ -247,6 +247,10 @@ liVk
 lMmr
 lpB
 laves
+laplace
+left
+lMQ
+lDA
 med
 mange
 matrix
@@ -1206,6 +1210,7 @@ dVp
 dTA
 dividerer
 diskrimanten
+dxI
 eksisterer
 en
 eller
@@ -1714,6 +1719,8 @@ flytte
 fdiq
 fkk
 forsimple
+frac
+forkert
 sninger
 st
 som
@@ -3156,6 +3163,8 @@ relevant
 restriction
 random
 rDI
+reverse
+right
 at
 af
 afg
@@ -4843,6 +4852,7 @@ IzLi
 IIq
 IVP
 Inhomogene
+IOLL
 plugin
 parsed
 palette
@@ -5411,6 +5421,8 @@ Efter
 EDDY
 EZq
 EHG
+EET
+Elements
 VIEW
 VTTL
 VS
@@ -5582,6 +5594,7 @@ VoVY
 VqIDATx
 ViP
 VDN
+VFv
 MORE
 Machine
 Man
@@ -5755,6 +5768,7 @@ MHz
 Metoder
 Massemidtpunkt
 Mfs
+MUn
 OPTIONS
 Orientation
 Opgaver
@@ -5901,6 +5915,7 @@ OHG
 Ordner
 Omskriv
 ODE
+ONa
 You
 Yb
 Ys
@@ -6711,6 +6726,7 @@ TpM
 Tabel
 TuU
 Thevenin
+Text
 Key
 Klassen
 Kartesisk
@@ -7481,6 +7497,7 @@ RsE
 Rigtig
 Regneregel
 Random
+RRRx
 LVTTL
 Light
 Local
@@ -8428,6 +8445,8 @@ Gqr
 Growth
 GlO
 Generelle
+Given
+GitHub
 USA
 UA
 UZw
@@ -9072,6 +9091,7 @@ zGV
 zqi
 zgz
 zBz
+zBB
 Zl
 Ztx
 ZAw
@@ -9680,6 +9700,7 @@ quadrant
 qNw
 qLw
 qpN
+quu
 Qq
 QsB
 Qtv
