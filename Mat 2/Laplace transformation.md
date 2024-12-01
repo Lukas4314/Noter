@@ -126,6 +126,8 @@ u(t-a)&= 0 & t<a\\
 u(t-a) &= 1 & t>a
 \end{align*}
 $$
+
+
 vi kigger her på om man kan Laplace transformerer denne
 $$
 \begin{align*}
@@ -136,11 +138,17 @@ $$
 man kan bruge unit step til at skubbe og tænde noget som fx med funktionen:
 $$f(t) \cdot u(t-a)$$
 her har vi en funktion $u(t-a)$ som er enten 1 eller 0 alt efter tiden og derfor nogle gange får vi 0 og andre gange får vi $f(t)$ 
-dette kan så bruges til at beskrive mange forskellige funktioner som ikke nødvendigvis er differentiable i området 
+dette kan så bruges til at beskrive mange forskellige funktioner som ikke nødvendigvis er 
+differentiable i området 
+hvis man fx har en funktion $f(x)=sin(x)$ som er 0 når $x<0 \lor x>\pi$ kan man beskrive den med et unit step altså:
+$$f(x)=sin(x) \cdot u(t-\pi)$$ her er u enten 0 eller 1 alt efter om det er positivt det som står inde i parrentesen 
+
+
+
 ![[Pasted image 20241122094232.png|500]]
 
 
-### Random sætning 3
+### Random Vigtig sætning 3
 
 hvis vi har en funktion f(t) og en Laplace tranformation af denne $F(s)$ har vi
 $$L(f(t-a)u(t-a)=e^{-as}F(s))$$

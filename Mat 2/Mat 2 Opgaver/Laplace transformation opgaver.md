@@ -17,6 +17,9 @@ L(f)&= \frac{k}{b} \left. \left [  - \frac{1}{s}e^{-st}\cdot t-\frac{1}{s^{2}}e^
 L(f)&= \frac{k}{b} \cdot \frac{1}{s^{2}}\\
 L(f)&=  \frac{k}{bs^{2}}
 \end{align*}$$
+Dette er forket fordi man skulle tage den inverse laplace fra 0 til b og ikke uendelig da funktionen stopper ved b
+
+
 
 
 ## 32
@@ -27,7 +30,7 @@ F(s)&= \frac{10}{2} \cdot \frac {1} {s+\sqrt{\frac{2}{4}}}
 \end{align*}$$
 her gør vi brug af at:
 $$L(e^{at})= \frac{1}{s-a} $$
-$$f(t)= \frac{10}{2} \cdot e^{at}$$
+$$f(t)= \frac{10}{2} \cdot e^{-t \cdot \sqrt{0,5}}$$
 
 ## 34
 find the inverse Laplace transformation:
@@ -120,7 +123,7 @@ y(t)&= 5 \cdot e^{3t}+e^{-2t}
 
 $$y''+9y=10e^{-t}$$
 ![[Laplace transformation opgaver 2024-11-28 21.17.04.excalidraw|5000]]
-
+   
 # 6.3
 
 ## 4

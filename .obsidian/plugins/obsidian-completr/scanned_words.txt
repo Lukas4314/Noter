@@ -251,6 +251,9 @@ laplace
 left
 lMQ
 lDA
+lineariseringen
+linear
+linearisering
 med
 mange
 matrix
@@ -1443,6 +1446,7 @@ eksistens
 enhedsstep
 eIDATx
 eKB
+endepunkterne
 flere
 fx
 findes
@@ -1721,6 +1725,10 @@ fkk
 forsimple
 frac
 forkert
+fejludtryk
+fejl
+fejludtrykket
+forket
 sninger
 st
 som
@@ -2076,6 +2084,9 @@ step
 skubbe
 sNs
 sningsmetode
+scenario
+stor
+systematisk
 hvis
 her
 hvor
@@ -2572,6 +2583,7 @@ kuglen
 kLj
 karakterligningnen
 kritisk
+kendte
 Der
 Determinanten
 Drawing
@@ -2920,6 +2932,8 @@ uanset
 uegentlige
 udgangspunkt
 underd
+udregne
+udviklet
 rrelse
 rre
 rligt
@@ -3165,6 +3179,9 @@ random
 rDI
 reverse
 right
+rdis
+resultat
+runde
 at
 af
 afg
@@ -3390,6 +3407,9 @@ aF
 aflade
 algebraisk
 anderledes
+approksimation
+approksimeret
+anvendes
 jk
 jle
 jlen
@@ -3815,6 +3835,8 @@ tranformation
 tQl
 tTv
 type
+tningen
+taylorpolynomium
 nr
 nogle
 ngige
@@ -4037,6 +4059,7 @@ nOl
 nkrC
 nhk
 nLeDq
+numerisk
 ganger
 giver
 gauss
@@ -4225,6 +4248,9 @@ gider
 generelt
 gKB
 gOc
+generaliserede
+givne
+grads
 bruges
 betyder
 bare
@@ -4689,6 +4715,8 @@ iDS
 ipV
 iJF
 iiw
+interval
+indeholdende
 Ikke
 IC
 IMU
@@ -5084,6 +5112,8 @@ paraboloid
 problems
 plads
 pakke
+polynomium
+parrentesen
 Switch
 Saving
 Self
@@ -5595,6 +5625,7 @@ VqIDATx
 ViP
 VDN
 VFv
+Vigtig
 MORE
 Machine
 Man
@@ -6262,6 +6293,7 @@ cyllinderiske
 cGY
 cbA
 cglq
+case
 with
 width
 wH
@@ -6404,6 +6436,7 @@ wXJ
 wZ
 wXF
 woc
+worst
 For
 Forskellige
 Funktionerne
@@ -6576,6 +6609,8 @@ FYq
 Framestrukturen
 Find
 FCz
+Fejlvurdering
+Frejlen
 Tanken
 ToF
 Tangens
@@ -6727,6 +6762,9 @@ Tabel
 TuU
 Thevenin
 Text
+Taylorpolynomier
+Taylor
+Taylors
 Key
 Klassen
 Kartesisk
@@ -7975,6 +8013,7 @@ HDDe
 Hvorn
 Hqzg
 HHA
+Hvorfor
 BLOB
 Bin
 BitsPerComponent
