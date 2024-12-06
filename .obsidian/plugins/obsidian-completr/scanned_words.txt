@@ -255,6 +255,8 @@ lineariseringen
 linear
 linearisering
 lede
+lAw
+llj
 med
 mange
 matrix
@@ -520,6 +522,9 @@ mLXQ
 mgenerator
 mangler
 mosfet
+maH
+mgsV
+miq
 og
 opl
 ogs
@@ -732,6 +737,11 @@ opskriver
 overs
 overgange
 opladt
+oPTVD
+ojZ
+oaH
+oBx
+owG
 variable
 ved
 vilk
@@ -953,6 +963,12 @@ variableskift
 valuation
 variablen
 veje
+vlu
+vIz
+vbB
+vaP
+vMnM
+vrOw
 der
 de
 determinanten
@@ -1224,6 +1240,8 @@ diskrimanten
 dxI
 digitale
 dioden
+dTE
+dlHZ
 eksisterer
 en
 eller
@@ -1464,6 +1482,12 @@ equilibrium
 efc
 ebfd
 efa
+eRR
+enG
+eGt
+eXg
+etLk
+eoC
 flere
 fx
 findes
@@ -1753,6 +1777,7 @@ feb
 fac
 fafd
 fede
+fCB
 sninger
 st
 som
@@ -2114,6 +2139,13 @@ systematisk
 switches
 silicium
 sammens
+snei
+sDG
+saAo
+sbb
+sHD
+sotbI
+sgF
 hvis
 her
 hvor
@@ -2354,6 +2386,8 @@ halvleder
 hoedgruppe
 huller
 hullerne
+het
+hjK
 kun
 kke
 kort
@@ -2615,6 +2649,9 @@ kLj
 karakterligningnen
 kritisk
 kendte
+kLh
+kGF
+kRw
 Der
 Determinanten
 Drawing
@@ -2791,6 +2828,10 @@ DpI
 DyL
 Drp
 DBA
+DzZ
+DKB
+DZt
+DCU
 uendelig
 under
 uden
@@ -2966,6 +3007,13 @@ underd
 udregne
 udviklet
 udfylde
+uhP
+uXb
+usR
+udV
+uiU
+ujP
+uOIz
 rrelse
 rre
 rligt
@@ -3215,6 +3263,7 @@ rdis
 resultat
 runde
 rne
+rxo
 at
 af
 afg
@@ -3443,6 +3492,8 @@ anderledes
 approksimation
 approksimeret
 anvendes
+ahw
+ahgIr
 jk
 jle
 jlen
@@ -3618,6 +3669,10 @@ jDmaDu
 jTh
 jacobianten
 jqB
+jua
+jwFW
+jqO
+jZyQ
 tidligere
 tter
 til
@@ -3872,6 +3927,7 @@ tningen
 taylorpolynomium
 tredje
 transistorerer
+tYD
 nr
 nogle
 ngige
@@ -4288,6 +4344,10 @@ generaliserede
 givne
 grads
 garanterer
+gtt
+gFsDe
+gdV
+gzl
 bruges
 betyder
 bare
@@ -4513,6 +4573,8 @@ billeder
 bner
 batterier
 bne
+bjv
+bFw
 ikke
 igen
 indeholder
@@ -4760,6 +4822,10 @@ iiw
 interval
 indeholdende
 integralerne
+iWzv
+ioiJ
+iYrA
+isX
 Ikke
 IC
 IMU
@@ -4924,6 +4990,8 @@ IIq
 IVP
 Inhomogene
 IOLL
+Ixz
+IZn
 plugin
 parsed
 palette
@@ -5335,6 +5403,7 @@ Separable
 Specialtilf
 SfO
 Simpel
+SGLz
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -5672,6 +5741,10 @@ ViP
 VDN
 VFv
 Vigtig
+VTz
+Vpe
+VmHg
+VsU
 MORE
 Machine
 Man
@@ -5846,6 +5919,9 @@ Metoder
 Massemidtpunkt
 Mfs
 MUn
+Mtf
+Mxt
+MKj
 OPTIONS
 Orientation
 Opgaver
@@ -5993,6 +6069,10 @@ Ordner
 Omskriv
 ODE
 ONa
+OrB
+Ocp
+OQq
+OPo
 You
 Yb
 Ys
@@ -6152,6 +6232,9 @@ Yaq
 YoT
 YNG
 YFb
+YUi
+YwG
+YRE
 can
 command
 current
@@ -6340,6 +6423,9 @@ cGY
 cbA
 cglq
 case
+cLk
+cEW
+crH
 with
 width
 wH
@@ -6483,6 +6569,11 @@ wZ
 wXF
 woc
 worst
+wUW
+wyi
+wfJ
+wiK
+wfp
 For
 Forskellige
 Funktionerne
@@ -6658,6 +6749,10 @@ FCz
 Fejlvurdering
 Frejlen
 Files
+FVt
+Fsl
+FJY
+Fuf
 Tanken
 ToF
 Tangens
@@ -6813,6 +6908,8 @@ Taylorpolynomier
 Taylor
 Taylors
 Transistorer
+TGJ
+TPB
 Key
 Klassen
 Kartesisk
@@ -6973,6 +7070,10 @@ KDD
 KTR
 Kapl
 KeQ
+KOg
+Klg
+KWJ
+Kes
 Abstraction
 Alt
 AB
@@ -7279,6 +7380,8 @@ CPHA
 CkV
 CYK
 Caz
+CYAD
+CPh
 PWM
 Pol
 Passive
@@ -7425,6 +7528,7 @@ PWS
 Protocol
 PLj
 PLh
+PPIE
 RP
 Regneregler
 Resources
@@ -7584,6 +7688,7 @@ Rigtig
 Regneregel
 Random
 RRRx
+RaWN
 LVTTL
 Light
 Local
@@ -7746,6 +7851,8 @@ LpPb
 LlD
 LkbVH
 LxI
+LwM
+LTB
 ydermere
 yw
 yk
@@ -7899,6 +8006,10 @@ ydl
 yxc
 ysa
 yderste
+yPs
+yNb
+yZQ
+yTL
 Hvad
 Her
 Hvis
@@ -8063,6 +8174,9 @@ Hvorn
 Hqzg
 HHA
 Hvorfor
+HeI
+HIII
+HGJ
 BLOB
 Bin
 BitsPerComponent
@@ -8226,6 +8340,10 @@ BDyJT
 BVX
 Bvf
 Bor
+BdZ
+BTF
+Bgub
+Bao
 Niveaukurver
 Normal
 Nx
@@ -8714,6 +8832,8 @@ Under
 UZm
 Unit
 URb
+Ufy
+UJW
 XObject
 XV
 XC
@@ -8883,6 +9003,11 @@ XXZ
 XSS
 XRZx
 XhR
+Xnn
+XdQ
+XZM
+Xwb
+XyE
 Width
 Wi
 Wtu
@@ -9036,6 +9161,7 @@ WIA
 WhN
 Where
 WiP
+WWE
 zABe
 zn
 zR
@@ -9183,6 +9309,9 @@ zBz
 zBB
 zenerdiode
 zener
+zPI
+zKJ
+zsf
 Zl
 Ztx
 ZAw
@@ -9339,6 +9468,9 @@ ZVb
 ZbE
 ZNx
 Zhx
+ZWf
+ZJx
+ZtYx
 xo
 xke
 xz
@@ -9493,6 +9625,8 @@ xSM
 xwO
 xUN
 xRJ
+xJk
+xMl
 JU
 JW
 Jg
@@ -9638,6 +9772,11 @@ JkRj
 Jak
 JhY
 JXj
+JlI
+JQu
+JQD
+JIrv
+JytmO
 qsy
 qs
 qg
@@ -9792,6 +9931,11 @@ qNw
 qLw
 qpN
 quu
+qIR
+qnm
+qji
+qfv
+qyP
 Qq
 QsB
 Qtv
@@ -9946,6 +10090,9 @@ QSrNFjQ
 QdK
 QAB
 QpL
+QsI
+Qqx
+QEu
 Öp
 ÖNg
 ÜA
@@ -9956,3 +10103,4 @@ QpL
 ßi
 öY
 öj
+üB
