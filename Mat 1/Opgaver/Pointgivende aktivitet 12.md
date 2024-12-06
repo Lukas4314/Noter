@@ -1,6 +1,6 @@
 
 ## Opgave 1
-bestem værdien af intergrallerne 
+bestem værdien af integralerne 
 $$\int_{0}^{5}x^{-0,9}dx$$
 $$\int_{5}^{\infty}x^{-0.9}dx$$
 vi starter her med at kigge på integrallet $\int_{0}^{5}x^{0,9}dx$

@@ -254,6 +254,7 @@ lDA
 lineariseringen
 linear
 linearisering
+lede
 med
 mange
 matrix
@@ -517,6 +518,8 @@ mZc
 mpfi
 mLXQ
 mgenerator
+mangler
+mosfet
 og
 opl
 ogs
@@ -725,6 +728,10 @@ omMu
 opskrevet
 opstilles
 overd
+opskriver
+overs
+overgange
+opladt
 variable
 ved
 vilk
@@ -945,6 +952,7 @@ vyq
 variableskift
 valuation
 variablen
+veje
 der
 de
 determinanten
@@ -1214,6 +1222,8 @@ dTA
 dividerer
 diskrimanten
 dxI
+digitale
+dioden
 eksisterer
 en
 eller
@@ -1447,6 +1457,13 @@ enhedsstep
 eIDATx
 eKB
 endepunkterne
+elektroner
+elektron
+elektronerne
+equilibrium
+efc
+ebfd
+efa
 flere
 fx
 findes
@@ -1729,6 +1746,13 @@ fejludtryk
 fejl
 fejludtrykket
 forket
+falder
+fefc
+fbcdd
+feb
+fac
+fafd
+fede
 sninger
 st
 som
@@ -2087,6 +2111,9 @@ sningsmetode
 scenario
 stor
 systematisk
+switches
+silicium
+sammens
 hvis
 her
 hvor
@@ -2323,6 +2350,10 @@ hvorp
 hcq
 handler
 hvormange
+halvleder
+hoedgruppe
+huller
+hullerne
 kun
 kke
 kort
@@ -2934,6 +2965,7 @@ udgangspunkt
 underd
 udregne
 udviklet
+udfylde
 rrelse
 rre
 rligt
@@ -3182,6 +3214,7 @@ right
 rdis
 resultat
 runde
+rne
 at
 af
 afg
@@ -3837,6 +3870,8 @@ tTv
 type
 tningen
 taylorpolynomium
+tredje
+transistorerer
 nr
 nogle
 ngige
@@ -4060,6 +4095,7 @@ nkrC
 nhk
 nLeDq
 numerisk
+ndingsforsyning
 ganger
 giver
 gauss
@@ -4251,6 +4287,7 @@ gOc
 generaliserede
 givne
 grads
+garanterer
 bruges
 betyder
 bare
@@ -4471,6 +4508,11 @@ bogstav
 bIo
 benyttes
 beregninger
+bor
+billeder
+bner
+batterier
+bne
 ikke
 igen
 indeholder
@@ -4717,6 +4759,7 @@ iJF
 iiw
 interval
 indeholdende
+integralerne
 Ikke
 IC
 IMU
@@ -5114,6 +5157,8 @@ plads
 pakke
 polynomium
 parrentesen
+phosphor
+plade
 Switch
 Saving
 Self
@@ -5453,6 +5498,7 @@ EZq
 EHG
 EET
 Elements
+Embedded
 VIEW
 VTTL
 VS
@@ -6611,6 +6657,7 @@ Find
 FCz
 Fejlvurdering
 Frejlen
+Files
 Tanken
 ToF
 Tangens
@@ -6765,6 +6812,7 @@ Text
 Taylorpolynomier
 Taylor
 Taylors
+Transistorer
 Key
 Klassen
 Kartesisk
@@ -7850,6 +7898,7 @@ yccc
 ydl
 yxc
 ysa
+yderste
 Hvad
 Her
 Hvis
@@ -8176,6 +8225,7 @@ Bwg
 BDyJT
 BVX
 Bvf
+Bor
 Niveaukurver
 Normal
 Nx
@@ -9131,6 +9181,8 @@ zqi
 zgz
 zBz
 zBB
+zenerdiode
+zener
 Zl
 Ztx
 ZAw

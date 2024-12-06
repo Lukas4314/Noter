@@ -175,6 +175,13 @@ $$\begin{align*}
 \end{align*}$$
 
 
+# 3.2
+![[Dobbeltintegraller og trippelintegraller (15) 2024-12-05 08.10.53.excalidraw]]
+
+
+# 3. 10
+![[Dobbeltintegraller og trippelintegraller (15) 2024-12-05 08.34.06.excalidraw]]
+
 
 # 4.21
 Find the volume between the paraboloids $z=x^{2}+y^{2}$ and $3z=4-x^{2}-y^{2}$ 

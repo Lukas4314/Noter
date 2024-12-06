@@ -1,0 +1,1 @@
+![[Taylor rækker opgaver (4) 2024-12-04 10.02.14.excalidraw]]

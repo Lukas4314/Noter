@@ -1,0 +1,1 @@
+halvledere er ledere som kun leder under bestemte forhold, et eksempel på dette kan være silicium som ikke leder medmindre der bliver lyst på det da fotonerne som rammer silicium atomerne får elektronerne til at stige i energiniveau og gør at det kan lede.
