@@ -525,6 +525,7 @@ mosfet
 maH
 mgsV
 miq
+moNa
 og
 opl
 ogs
@@ -1778,6 +1779,7 @@ fac
 fafd
 fede
 fCB
+flv
 sninger
 st
 som
@@ -2388,6 +2390,8 @@ huller
 hullerne
 het
 hjK
+hIY
+hjerned
 kun
 kke
 kort
@@ -2652,6 +2656,7 @@ kendte
 kLh
 kGF
 kRw
+koefficienter
 Der
 Determinanten
 Drawing
@@ -2832,6 +2837,8 @@ DzZ
 DKB
 DZt
 DCU
+DDE
+DVL
 uendelig
 under
 uden
@@ -3014,6 +3021,7 @@ udV
 uiU
 ujP
 uOIz
+uret
 rrelse
 rre
 rligt
@@ -3264,6 +3272,7 @@ resultat
 runde
 rne
 rxo
+roder
 at
 af
 afg
@@ -3494,6 +3503,8 @@ approksimeret
 anvendes
 ahw
 ahgIr
+aksens
+awSN
 jk
 jle
 jlen
@@ -3673,6 +3684,8 @@ jua
 jwFW
 jqO
 jZyQ
+jqc
+jZko
 tidligere
 tter
 til
@@ -4575,6 +4588,7 @@ batterier
 bne
 bjv
 bFw
+bRHD
 ikke
 igen
 indeholder
@@ -4826,6 +4840,7 @@ iWzv
 ioiJ
 iYrA
 isX
+inhomogene
 Ikke
 IC
 IMU
@@ -4992,6 +5007,7 @@ Inhomogene
 IOLL
 Ixz
 IZn
+IyM
 plugin
 parsed
 palette
@@ -5227,6 +5243,9 @@ polynomium
 parrentesen
 phosphor
 plade
+pTI
+prY
+panser
 Switch
 Saving
 Self
@@ -5745,6 +5764,8 @@ VTz
 Vpe
 VmHg
 VsU
+Vmj
+Vyj
 MORE
 Machine
 Man
@@ -5922,6 +5943,8 @@ MUn
 Mtf
 Mxt
 MKj
+Magne
+MDDDD
 OPTIONS
 Orientation
 Opgaver
@@ -6073,6 +6096,7 @@ OrB
 Ocp
 OQq
 OPo
+OJv
 You
 Yb
 Ys
@@ -6426,6 +6450,7 @@ case
 cLk
 cEW
 crH
+cfY
 with
 width
 wH
@@ -7201,6 +7226,7 @@ ADDD
 AHH
 AFT
 AvE
+ADDDD
 Constructer
 CC
 Capacitors
@@ -7382,6 +7408,7 @@ CYK
 Caz
 CYAD
 CPh
+CAH
 PWM
 Pol
 Passive
@@ -7853,6 +7880,7 @@ LkbVH
 LxI
 LwM
 LTB
+LNu
 ydermere
 yw
 yk
@@ -8177,6 +8205,7 @@ Hvorfor
 HeI
 HIII
 HGJ
+HDDT
 BLOB
 Bin
 BitsPerComponent
@@ -8344,6 +8373,7 @@ BdZ
 BTF
 Bgub
 Bao
+BDDKY
 Niveaukurver
 Normal
 Nx
@@ -8497,6 +8527,7 @@ NiL
 Ngk
 NWH
 Norton
+NLD
 Gr
 GNSS
 GPS
@@ -9162,6 +9193,7 @@ WhN
 Where
 WiP
 WWE
+WBJ
 zABe
 zn
 zR
@@ -9312,6 +9344,7 @@ zener
 zPI
 zKJ
 zsf
+zOtB
 Zl
 Ztx
 ZAw

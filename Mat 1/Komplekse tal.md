@@ -28,7 +28,7 @@ hvis man har det på kartesisk form så er det bare at gange ligesom man plejer 
 
 ### ved division
 hvis man skal dividere 2 komplekse tal på kartesisk form så som:
-$$\frac{Z_{1}} {Z_{2}}$$ så kan man gange med Z_2^*/Z_2^* som er den konjugeret og medfører man får
+$$\frac{Z_{1}} {Z_{2}}$$ så kan man gange med $\frac{Z_{2}^{*}}{Z_{2}^{*}}$ som er den konjugeret og medfører man får
 $$\frac{Z_{1}*Z_{2}^*}{Z_{2}*Z_{2}^*}$$
 dette medfører som nævnt tidligere i denne note at vi får et reelt tal i nævneren og derved kan løse dette
 

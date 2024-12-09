@@ -81,3 +81,6 @@ her kan vi så kalde $f'(x)=h(x)$
 og vi får derved:
 $$\int h(x) \cdot g(x) \space dx = H(x) \cdot g(x)-\int H(x) \cdot g'(x) \space dx$$
 
+## Middelværdien af en funktion
+hvis f er integrabel på intervallet $[a, b]$, så er middelværdien af f på $[a, b]$ givet som:
+$$\overline{f}= \frac {1} {b-a} \int_{a}^{b}f(x) dx$$

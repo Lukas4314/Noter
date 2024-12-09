@@ -76,7 +76,7 @@ y=\int e^{k}\cdot e^{P(x)} \cdot q(x) dx \space \cdot \frac{1}{e^{P(x) \cdot e^{
 y=e^{k}\cdot \int  e^{P(x)} \cdot q(x) dx \space \cdot \frac{1}{e^{P(x) \cdot e^{k}}}\\
 y=\int e^{P(x)} \cdot q(x) dx \space \cdot \frac{1}{e^{P(x)}}
 \end{align*}$$
-
+Dette er også kendt som panser formlen
 # 2. ordens inhomogene differentialligninger med konstante koefficienter
 dette er differentialligninger på formen:
 $$ a \cdot \frac{d^{2}y}{d x^{2}}+b \cdot \frac{dy}{d x}+c \cdot y =f(x)$$
