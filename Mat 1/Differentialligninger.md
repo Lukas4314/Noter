@@ -80,6 +80,8 @@ Dette er også kendt som panser formlen
 # 2. ordens inhomogene differentialligninger med konstante koefficienter
 dette er differentialligninger på formen:
 $$ a \cdot \frac{d^{2}y}{d x^{2}}+b \cdot \frac{dy}{d x}+c \cdot y =f(x)$$
+Her skal man nok også kigge på [[Drevne dæmpede svingninger]]
+
 ![[Pasted image 20241121115804.png|500]]
 ![[Pasted image 20241121115823.png|500]]
 

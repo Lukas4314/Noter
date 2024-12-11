@@ -257,6 +257,7 @@ linearisering
 lede
 lAw
 llj
+luft
 med
 mange
 matrix
@@ -526,6 +527,8 @@ maH
 mgsV
 miq
 moNa
+mobile
+motorer
 og
 opl
 ogs
@@ -1780,6 +1783,7 @@ fafd
 fede
 fCB
 flv
+fluids
 sninger
 st
 som
@@ -3273,6 +3277,8 @@ runde
 rne
 rxo
 roder
+robotter
+roterende
 at
 af
 afg
@@ -3505,6 +3511,8 @@ ahw
 ahgIr
 aksens
 awSN
+actuator
+actuators
 jk
 jle
 jlen
@@ -4361,6 +4369,7 @@ gtt
 gFsDe
 gdV
 gzl
+gelse
 bruges
 betyder
 bare
@@ -5246,6 +5255,8 @@ plade
 pTI
 prY
 panser
+pneumatic
+pres
 Switch
 Saving
 Self
@@ -5423,6 +5434,8 @@ Specialtilf
 SfO
 Simpel
 SGLz
+Servo
+Stepper
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -7227,6 +7240,7 @@ AHH
 AFT
 AvE
 ADDDD
+Actuators
 Constructer
 CC
 Capacitors
@@ -8206,6 +8220,7 @@ HeI
 HIII
 HGJ
 HDDT
+Hydraulic
 BLOB
 Bin
 BitsPerComponent
