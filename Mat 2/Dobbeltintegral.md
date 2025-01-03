@@ -30,7 +30,7 @@ $$|\iint_{D}f(x, y) dA|\leq \iint_{D}|f(x,y)| dA$$
 
 ## Eksempel
 
-$$I=\iint(sin(x)+4dA$$
+$$I=\iint(sin(x)+4)dA$$
 integreret på området:
 $$x^{2}+y^{2}\leq 1$$
 $$I=\iint sin(x) dA+4 \cdot \iint dA$$

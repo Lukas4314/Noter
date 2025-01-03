@@ -7,7 +7,7 @@ en funktion a n reelle variable er en regels om tildeler et unikt reelt tal f(x_
 ## Niveaukurver
 niveaukurver er tegninger hvor man har en enten en variable eller f(x) til at være noget specielt og så tegner man dem hvor man har forskellige værdier for f(x_0 ...)
 et eksempel kan være 
-$$f(x,y)=x^{2+}y^{2}$$
+$$f(x,y)=x^{2}+y^{2}$$
 hvor man så ville sætte $$f(x,y)=2$$
 og tegne den funktion som er en cirkel og det kan man så gøre for forskellige værdier og derved laver man niveaukurver
 

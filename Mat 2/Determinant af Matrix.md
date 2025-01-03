@@ -5,7 +5,7 @@ $$
 a & b \\
 c & d
 \end{pmatrix}
-$$ er determinanten a*d-c*b
+$$ er determinanten $a*d-c*b$
 
 på større matrixer som fx 3x3 med denne matrix
 $$A=\begin{pmatrix}

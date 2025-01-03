@@ -11,7 +11,7 @@ for nxn matrix findes mindst 1 egenværdi og maks n egenvektor
 
 ## eksempel
 $$A=\begin{pmatrix}-5 & 2 \\ 2 & -2\end{pmatrix}$$
-$$det(A-\lambda \cdot \lambda)=0$$
+$$det(A-\lambda \cdot I)=0$$
 $$\begin{align*}
 A-\lambda \cdot I&= \begin{pmatrix}-5 & 2 \\ 2 & -2\end{pmatrix}-\lambda \cdot\begin{pmatrix}1 & 0 \\ 0 & 1\end{pmatrix}\\\\
 
@@ -34,7 +34,13 @@ disse 2 indsættes derefter ind i ligningen
 $$(A-\lambda \cdot I)\vec{x}=\vec{0}$$
 man kan nu finde vektor x, i dette eksempel hvor man bruger -1 som egenværdi er der ikke 1 løsning men uendelige da det ene element i vektoren afhænger af det andet. Det samme gør man også for den anden egenværdi og man får også 2 elementer i en vektor som afhænger af hinanden
 vektoren x har dog altid den samme retning når man har løst den med en af egenværdierne hvilket også betyder at dine 2 elementer for din vektorer altid kan findes ved den anden ganget med en skalar
-
+det som der menes her er at man får en ligning som her sådan her ud:
+$$\begin{pmatrix}-4 & 2 \\ 2 & -1\end{pmatrix} \cdot \vec{x} = 0$$
+Disse er så lineære afhængige hvilket betyder de afhænger af hinanden og man kommer så frem til at:
+$$x= \frac{y}{2}$$
+dette kan så beskrives som en skalar ganget på vektoren hvis man fx kalder y for t $$y=t$$
+$$\begin{pmatrix}y \\ x\end{pmatrix}=t \cdot \begin{pmatrix} \frac{1}{2} \\ 1 \end{pmatrix}$$
+på denne måde har man nu sin vektor
 
 ## Hvad man kan bruge det til
 det kan bruges til at bestemme "spredning" eller retning af en "BLOB" eller datapunkter
