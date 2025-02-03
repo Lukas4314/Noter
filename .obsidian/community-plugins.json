@@ -1,8 +1,8 @@
 [
-  "obsidian-git",
+  "obsidian-tikzjax",
   "obsidian-completr",
-  "obsidian-matrix",
   "quick-latex",
   "obsidian-excalidraw-plugin",
-  "obsidian-tikzjax"
+  "obsidian-git",
+  "obsidian-matrix"
 ]

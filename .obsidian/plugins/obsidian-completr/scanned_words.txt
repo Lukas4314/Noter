@@ -282,6 +282,7 @@ lCm
 lyqV
 lcP
 lHOoLOo
+leder
 med
 mange
 matrix
@@ -1685,6 +1686,7 @@ evK
 eCt
 eUM
 ecu
+energiniveau
 flere
 fx
 findes
@@ -2018,6 +2020,7 @@ fQn
 fEj
 fFX
 fwB
+fotonerne
 sninger
 st
 som
@@ -2421,6 +2424,7 @@ sFSz
 sgp
 sDydB
 soy
+stige
 hvis
 her
 hvor
@@ -2704,6 +2708,7 @@ hTe
 huF
 hsa
 hGk
+halvledere
 kun
 kke
 kort
@@ -4028,6 +4033,7 @@ alW
 aXFA
 aAp
 aFuzF
+atomerne
 jk
 jle
 jlen

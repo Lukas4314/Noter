@@ -72,7 +72,6 @@ dette medfører at vi får
 $$\frac{P(x)}{Q(x)}=\frac{A_{1}}{(x-a_{1})^{n}}+\frac{B_{1}}{(x-a_{2})^{n-1}}...+\frac{Q_{1}}{x-a_{1}}...+\frac{A_{2}}{x-a_{2}}$$
 Ikke helt sikker på det her med tilfælde 2 hvordan det adskiller sig. (tror mulligvis det har noget med at man skal kigge på forskellen i grad mellem tæller og nævner)
 
-
 ### Eksempel med tilfælde 2
 $$\frac{2x+5}{(x+1)^{2}}=\frac{A_{1}}{(x+1)^{2}}+\frac{B_{1}}{x+1}$$
 nu ganger vi så med nævner:
@@ -96,6 +95,8 @@ i dette tilfælde har nævner komplekse rødder
 led med $(ax^{2}+bx+c)^{n}$ hvor det ikke kan skrives som 2 led som bliver ganget med hinanden
 fås led med:
 $$\frac{A_{1}x+B_{1}}{(ax^{2}+bx+c)^{n}}+\frac{C_{1}x+D_{1}}{(ax^{2}+bx+c)^{n-1}}...$$
+
+
 
 ## Eksempel med tilfælde 3
 $$R(x)=\frac{P(x)}{Q(x)}=\frac{3x^{2}+11x+14}{(x-4)(x^2+6x+13)}=\frac{A_{1}}{x-4}+\frac{A_{2}x+B_{2}}{x^{2}+6x+13}$$
