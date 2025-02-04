@@ -101,3 +101,10 @@ $$
 $$
 eftersom vi skulle finde en sammenhæng mellem delta og epsilon for at det passede med denne grænseværdi kan vi her lave sammenhængen delta lig med epsilon.
 dette virkede kun fordi at vi allerede havde en ide til hvor grænseværdien lå, men alternativt skal man gøre ligesom i eksempel 1 får at få en ide til grænseværdien og så efter dette bruge samme fremgangsmåde for at tjekke om det faktisk er en løsning til grænseværdien
+
+
+
+Der er også enkelte regneregler for grænseværdier så som:
+![[Pasted image 20250203132918.png]]
+
+
