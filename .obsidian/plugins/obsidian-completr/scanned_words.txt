@@ -4655,6 +4655,7 @@ tXb
 tlr
 tBg
 tabel
+transponerer
 nr
 nogle
 ngige
@@ -5970,6 +5971,7 @@ ILL
 IKK
 IZMF
 IfA
+Indre
 plugin
 parsed
 palette
@@ -6247,6 +6249,8 @@ pLJ
 pUPVV
 pUT
 pRC
+produkt
+prikproduktet
 Switch
 Saving
 Self
@@ -7559,6 +7563,7 @@ YFI
 Ygq
 YdEH
 YYY
+Ydre
 can
 command
 current
@@ -9834,6 +9839,7 @@ ydw
 yRn
 yWb
 yyy
+ydre
 Hvad
 Her
 Hvis
