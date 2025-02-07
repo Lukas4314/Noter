@@ -69,9 +69,57 @@
               "icon": "lucide-file",
               "title": "Egenværdier og egenvektorer"
             }
+          },
+          {
+            "id": "70745fb3137ea7a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwareudvikling/Software development life cycle (SDLC).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Software development life cycle (SDLC)"
+            }
+          },
+          {
+            "id": "b68891189a0921be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Softwareudvikling/Vandfalds modellen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vandfalds modellen"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,8 +274,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04c3df2289029c35",
+  "active": "f4445b7b75c83052",
   "lastOpenFiles": [
+    "Softwareudvikling/Software development life cycle (SDLC).md",
+    "Softwareudvikling/Vandfalds modellen.md",
+    "Softwareudvikling",
+    "To-Do list.md",
+    "test.md",
+    "SeMesterProjekt To Do.md",
+    "Mat 2/Egenværdier og egenvektorer.md",
+    "Intro til cpp",
     "Mat 2/Laplace transformation.md",
     "Mat 2/Matricer.md",
     "Mat 2/Kordinater.md",
@@ -236,11 +292,9 @@
     "Mat 2/Ikke Homogene ligningssystemer.md",
     "Mat 2/Homogene ligningssystemer.md",
     "Mat 2/Funktioner af flere variable.md",
-    "Mat 2/Egenværdier og egenvektorer.md",
     "Mat 2/Dobbeltintegral.md",
     "Mat 2/Determinant af Matrix.md",
     "Mat 2/Orthonormal.md",
-    "Untitled.md",
     "Robotkinematik/Random introduktion keywords.md",
     "Random Images/Pasted image 20250204093556.png",
     "Random Images/Pasted image 20250204084348.png",
@@ -262,17 +316,11 @@
     "Elektronik/LVTTL.md",
     "Excalidraw/Drawing 2025-02-03 12.00.20.excalidraw.md",
     "Mat 3",
-    "Elektronik/Impedans.md",
-    "Elektronik/Transistor og dioder.md",
-    "Elektronik/Halvledere.md",
-    "To-Do list.md",
     "Random Images/Pasted image 20241101095153.png",
     "Random Images/Pasted image 20241122094232.png",
     "Random Images/Pasted image 20241114212649.png",
     "Pasted image 20241122100436.png.~tmp",
     "Mat 1/Opgaver",
-    "Pasted image 20241108102009.png.~tmp",
-    "Pasted image 20241108101758.png.~tmp",
-    "Pasted image 20241108095626.png.~tmp"
+    "Pasted image 20241108102009.png.~tmp"
   ]
 }

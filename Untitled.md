@@ -1,1 +1,0 @@
-$$\sin \left( \frac {7 \pi} {12}\right) = \sin \left(\frac {3 \pi} {12}+ \frac {4 \pi} {12}\right) $$
