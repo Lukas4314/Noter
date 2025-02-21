@@ -1,4 +1,4 @@
-dette er differentialligningen af typen
+	dette er differentialligningen af typen
 $$ay''+by'+cy=0$$
 ## Løsningsmetode:
 der opstilles først karakterligningnen:
@@ -28,7 +28,7 @@ vi prøver her at gætte på en funktion af typen:
 $$y_{p}(t)=A \cdot sin(t)+B \cdot cos(t)$$
 og vi får dermed:
 $$y_{p}''=-A \cdot sin(t)- B \cdot cos(t)$$
-vi kan er indsætte det ind i differentialligningen
+	vi kan er indsætte det ind i differentialligningen
 $$-A \cdot sin(t)- B \cdot cos(t)+4 \cdot (A \cdot sin(t)+B \cdot cos(t))=sin(t)$$
 dette kan så reduceres:
 $$3A \cdot sin(t) + 3B \cdot cos(t)=sin(t)$$

@@ -619,6 +619,8 @@ meaning
 mQR
 mlX
 mLim
+matrices
+multiply
 og
 opl
 ogs
@@ -1488,6 +1490,8 @@ dWz
 dpi
 dBw
 dfR
+degrees
+doing
 eksisterer
 en
 eller
@@ -2575,6 +2579,7 @@ spejle
 sinuser
 sinusfunktioner
 spring
+since
 hvis
 her
 hvor
@@ -2873,6 +2878,8 @@ hZJ
 hkK
 hIN
 hnr
+here
+has
 kun
 kke
 kort
@@ -3695,6 +3702,7 @@ ucy
 uCcK
 uwZ
 uGj
+use
 rrelse
 rre
 rligt
@@ -4005,6 +4013,8 @@ rzzj
 rLS
 rOo
 rlige
+rotate
+rotatin
 at
 af
 afg
@@ -4308,6 +4318,10 @@ amplituder
 amplitude
 arbejdet
 afviger
+angles
+amount
+around
+axis
 jk
 jle
 jlen
@@ -4880,6 +4894,8 @@ toK
 tyk
 tiM
 trigonomisk
+that
+top
 nr
 nogle
 ngige
@@ -5154,6 +5170,7 @@ nTh
 naPu
 nXS
 npp
+now
 ganger
 giver
 gauss
@@ -5401,6 +5418,7 @@ gNf
 gGX
 glO
 gennemsnitsh
+gennemg
 bruges
 betyder
 bare
@@ -6012,6 +6030,7 @@ iBV
 iHKS
 iom
 iTv
+important
 Ikke
 IC
 IMU
@@ -6553,6 +6572,8 @@ passe
 periode
 perioder
 phenomenon
+properties
+possible
 Switch
 Saving
 Self
@@ -7041,6 +7062,7 @@ EQJL
 EwOB
 EmjU
 Euler
+Eventuelt
 VIEW
 VTTL
 VS
@@ -8178,6 +8200,7 @@ cOPF
 cnl
 cise
 cosinuser
+called
 with
 width
 wH
@@ -8850,6 +8873,7 @@ TNW
 TzqnVo
 TlH
 Tpf
+The
 Key
 Klassen
 Kartesisk
@@ -9868,6 +9892,8 @@ Rotations
 RXXV
 Rjno
 Rki
+Rotating
+Rotation
 LVTTL
 Light
 Local
@@ -10305,6 +10331,7 @@ yqG
 yqY
 yPE
 yyU
+you
 Hvad
 Her
 Hvis
@@ -11410,6 +11437,7 @@ UUPUP
 UIh
 UJF
 Ulige
+Using
 XObject
 XV
 XC
@@ -11829,6 +11857,7 @@ Wyq
 WRE
 WAe
 WLi
+When
 zABe
 zn
 zR

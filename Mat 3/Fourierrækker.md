@@ -3,7 +3,7 @@ Givet en periodisk funktion f(x), så som en trigonomisk funktioner eller en fir
 Ideen er at man ved hjælp af sinus og cosinus funktioner danner en funktion som ligger omkring den originale periodiske funktion. Man kan så summere flere forskellige sinus eller cosinusfunktioner sammen med forskellige frekvenser og amplituder for at få det til at passe bedre.
 
 Man kan beskrive en fourierrække som:
-$$f(x) =a_{0}+ \sum_{n=1}^{\infty}(a_{n}\sin x+ b_{n}\cos x)$$
+$$f(x) =a_{0}+ \sum_{n=1}^{\infty}(a_{n}\cos nx+ b_{n}\sin nx)$$
 for mere præcise funktioner kan man blive ved med at lægge flere led til i sin originale funktion og funktionen herover beskriver rækken som indeholder uendelig mange led med.
 Fordelen ved dette er at f(x) er differentiable over det hele nu.
 Men vi mangler stadig vores konstanter som indgår i rækken og dem kan man finde med denne metode som Euler har lavet:
