@@ -47,6 +47,10 @@ dette kan fx være sinusfunktioner
 Hvis man har en ulige funktioner og gerne vil finde dens fourierrække så er både $a_{0}=0$ og $a_{n}=0$ hvilket gør arbejdet en del nemmere
 
 
+Hvis en funktion er lige eller ulige er der også smartere måde at man kan finde fourrier rækken på som kan ses her:
+![[Pasted image 20250224122222.png]]
+
+
 
 ### Half-range expansion
 
