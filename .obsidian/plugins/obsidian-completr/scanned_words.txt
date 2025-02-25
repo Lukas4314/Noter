@@ -1492,6 +1492,7 @@ dBw
 dfR
 degrees
 doing
+discontinous
 eksisterer
 en
 eller
@@ -1796,6 +1797,10 @@ eJAf
 eZB
 eEV
 expansion
+eulers
+egentlige
+ejT
+eWR
 flere
 fx
 findes
@@ -2149,6 +2154,11 @@ fjBEQE
 fmsb
 frekvenser
 fourierr
+fourier
+fourer
+forh
+factor
+fHK
 sninger
 st
 som
@@ -2880,6 +2890,11 @@ hIN
 hnr
 here
 has
+hede
+hPU
+hyo
+hYb
+hiX
 kun
 kke
 kort
@@ -3215,6 +3230,7 @@ kjP
 kUR
 kMi
 komme
+kyH
 Der
 Determinanten
 Drawing
@@ -3464,6 +3480,8 @@ DUjB
 DPP
 Dppp
 DcQ
+Dirichlet
+DGG
 uendelig
 under
 uden
@@ -3703,6 +3721,7 @@ uCcK
 uwZ
 uGj
 use
+uendligt
 rrelse
 rre
 rligt
@@ -4015,6 +4034,7 @@ rOo
 rlige
 rotate
 rotatin
+rAQ
 at
 af
 afg
@@ -4322,6 +4342,8 @@ angles
 amount
 around
 axis
+aLa
+aEd
 jk
 jle
 jlen
@@ -4563,6 +4585,9 @@ joint
 jhA
 jVL
 jDr
+jWt
+jADw
+jWz
 tidligere
 tter
 til
@@ -5171,6 +5196,7 @@ naPu
 nXS
 npp
 now
+nhi
 ganger
 giver
 gauss
@@ -5419,6 +5445,8 @@ gGX
 glO
 gennemsnitsh
 gennemg
+giF
+gbQ
 bruges
 betyder
 bare
@@ -6031,6 +6059,8 @@ iHKS
 iom
 iTv
 important
+integrale
+iKZ
 Ikke
 IC
 IMU
@@ -6574,6 +6604,8 @@ perioder
 phenomenon
 properties
 possible
+prr
+pww
 Switch
 Saving
 Self
@@ -6813,6 +6845,7 @@ SbY
 SQU
 SgG
 SyeUt
+SwZ
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -7063,6 +7096,7 @@ EwOB
 EmjU
 Euler
 Eventuelt
+Endeligt
 VIEW
 VTTL
 VS
@@ -7308,6 +7342,8 @@ VmD
 Vvy
 VqG
 VDr
+VVn
+VUaLa
 MORE
 Machine
 Man
@@ -7951,6 +7987,8 @@ YzR
 YuGrN
 YGp
 YQi
+Ynob
+YRHwz
 can
 command
 current
@@ -8201,6 +8239,8 @@ cnl
 cise
 cosinuser
 called
+ccSl
+cOLq
 with
 width
 wH
@@ -8390,6 +8430,7 @@ wPIDATx
 wtM
 wnr
 wZs
+waj
 For
 Forskellige
 Funktionerne
@@ -8634,6 +8675,7 @@ Fordelen
 Fourierr
 Fourier
 Forced
+Fvv
 Tanken
 ToF
 Tangens
@@ -9080,6 +9122,8 @@ KII
 KVI
 KWo
 KKx
+KLZc
+KDf
 Abstraction
 Alt
 AB
@@ -9255,6 +9299,7 @@ AXo
 AIu
 AQY
 AWW
+AXX
 Constructer
 CC
 Capacitors
@@ -9490,6 +9535,8 @@ Cylindrical
 CORG
 CiJ
 CNG
+CHH
+CoZ
 PWM
 Pol
 Passive
@@ -9673,6 +9720,8 @@ Planar
 PEDDDDD
 PoZ
 PHJ
+PUG
+PSMB
 RP
 Regneregler
 Resources
@@ -10332,6 +10381,7 @@ yqY
 yPE
 yyU
 you
+yXTe
 Hvad
 Her
 Hvis
@@ -10558,6 +10608,7 @@ HLX
 HbQ
 HbR
 Half
+HYd
 BLOB
 Bin
 BitsPerComponent
@@ -10776,6 +10827,8 @@ BbZ
 Bvd
 BAQ
 BDP
+BuGG
+BOK
 Niveaukurver
 Normal
 Nx
@@ -10993,6 +11046,7 @@ NpM
 NoZ
 NVt
 NpRu
+NhZ
 Gr
 GNSS
 GPS
@@ -11201,6 +11255,7 @@ GdL
 GAK
 Givet
 Gibbs
+GGG
 USA
 UA
 UZw
@@ -11438,6 +11493,8 @@ UIh
 UJF
 Ulige
 Using
+UKBT
+USZ
 XObject
 XV
 XC
@@ -11858,6 +11915,7 @@ WRE
 WAe
 WLi
 When
+WXOq
 zABe
 zn
 zR
@@ -12065,6 +12123,8 @@ zPu
 zcz
 zkv
 znz
+zwP
+zCB
 Zl
 Ztx
 ZAw
@@ -12492,6 +12552,7 @@ xaB
 xPi
 xTD
 xLU
+xZR
 JU
 JW
 Jg
@@ -12711,6 +12772,9 @@ JsF
 Jpo
 JfUW
 JEG
+JNN
+JKn
+JLL
 qsy
 qs
 qg
@@ -12923,6 +12987,7 @@ qBN
 qRV
 qvu
 qzL
+qTW
 Qq
 QsB
 Qtv
@@ -13157,6 +13222,7 @@ QiL
 QyRR
 QNz
 QyBW
+QQQpww
 Öp
 ÖNg
 Öe
