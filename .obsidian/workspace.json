@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8beb1505fcafdd5c",
+        "id": "710e615f0712ec66",
         "type": "tabs",
         "children": [
           {
-            "id": "624811715b1bf531",
+            "id": "51df748c6fee380a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Random Images/Pasted image 20250225101740.png"
+                "file": "Mat 3/Fourier integraler.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250225101740"
+              "icon": "lucide-file",
+              "title": "Fourier integraler"
             }
           }
         ]
@@ -170,21 +182,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "f4445b7b75c83052",
+  "active": "51df748c6fee380a",
   "lastOpenFiles": [
-    "Robotkinematik/Translation and rotation.md",
+    "Pasted image 20250225121145.png",
+    "Mat 3/Fourierrækker.md",
+    "Mat 3/Fourier integraler.md",
     "Random Images/Pasted image 20250225101740.png",
+    "Robotkinematik/Translation and rotation.md",
     "Random Images/Pasted image 20250225101726.png",
     "Random Images/Pasted image 20250225101719.png",
     "Random Images/Pasted image 20250225100610.png",
     "Random Images/Pasted image 20250225091504.png",
-    "Mat 3/Fourier integraler.md",
     "Random Images/Pasted image 20250224123917.png",
-    "Mat 3/Fourierrækker.md",
     "Random Images/Pasted image 20250224122222.png",
     "Mat 1/Drevne dæmpede svingninger.md",
     "Mat 1/Differentialligninger.md",

@@ -1801,6 +1801,7 @@ eulers
 egentlige
 ejT
 eWR
+even
 flere
 fx
 findes
@@ -2159,6 +2160,7 @@ fourer
 forh
 factor
 fHK
+fourrier
 sninger
 st
 som

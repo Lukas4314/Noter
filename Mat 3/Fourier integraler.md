@@ -17,6 +17,13 @@ det endelige fourier integral er egentlig bare det vi har på billedet her:
 
 
 
+### Lige og ulige
+ligeledes som med fourier rækker kan fourier integraller også være even eller odd
+![[Pasted image 20250225121145.png]]
+(der er muligvis en sammenhæng med at hvis en funktion kun er defineret for $x>0$ så er den even, men ved ikke helt hvorfor endnu)
+
+
+
 ### Fourier transformation
 hvis det her over i billedet indsættes ind i en funktion og man bruger eulers formel altså $e^{ix}=\cos(x) + i \cdot \sin(x)$
 her vil man så få:
@@ -26,7 +33,7 @@ $$f(x)= \frac {1} {\sqrt{2\pi }} \cdot \int_{-\infty}^{\infty} \frac {1} {\sqrt{
 her kan man så kigge lidt på laplace transformation hvor vi har at:
 $$\mathscr{L}=\int_{0}^{\infty}e^{-st}f(t) dt$$
 her har vi så fourier transformationer hvor:
-$$\mathscr{F}= \frac {1} {\sqrt{2\pi}}\int_{\infty}^{\infty}e^{-iwx}f(v) dw$$
+$$\mathscr{F}= \frac {1} {\sqrt{2\pi}}\int_{-\infty}^{\infty}e^{-iwx}f(x) dx$$
 dette kan man så slå op og indsætte ind i sit integral. En tabel kan findes på side 534-536 over forskellige fourier transformationer, som man så senere kan bruge i sit integrale for at gøre det nemmere.
 Det er egentlige bare en masse integraler som er regnet på forhånd sådan man slipper for at regne hele sit dobbeltintegral
 
