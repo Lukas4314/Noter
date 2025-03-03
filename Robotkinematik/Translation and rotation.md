@@ -50,7 +50,7 @@ When rotating a set amount of degrees the result can be find using trigonometri.
 The result of doing this would be:
 ![[Pasted image 20250211094656.png]]
 when rotatin around the z axis
-
+	
 ### Rotation matrices properties
 ![[Pasted image 20250211094813.png]]
 

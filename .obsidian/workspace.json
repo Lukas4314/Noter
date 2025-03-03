@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d97a100f738d83ec",
+        "id": "76f6f31393663994",
         "type": "tabs",
         "children": [
           {
-            "id": "f8ebfba38106f224",
+            "id": "de46e8996f22249c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Mat 3/Mat 3 Opgaver/Mat3 Lektion 3 opaver.pdf"
+                "file": "Robotkinematik/Translation and rotation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Mat3 Lektion 3 opaver"
+              "icon": "lucide-file",
+              "title": "Translation and rotation"
             }
           }
         ]
@@ -76,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 312.5
   },
   "right": {
     "id": "758f923ae808fbf3",
@@ -175,12 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8ebfba38106f224",
+  "active": "de46e8996f22249c",
   "lastOpenFiles": [
+    "test.pdf",
     "test5.pdf",
+    "Robotkinematik/Random introduktion keywords.md",
+    "Robotkinematik/Excercises/Lecture 2.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 3 opaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 2 opgaver.pdf",
-    "test.pdf",
     "test5.xopp",
     "//test5.xopp",
     "Random Images/Pasted image 20250225121145.png",
@@ -189,7 +203,6 @@
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 3 opaver.xopp",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 2 opgaver.xopp",
     "Mat 3/Fourier integraler.md",
-    "/Mat 3/Mat 3 Opgaver/idk.xopp",
     "Excalidraw/Drawing 2025-02-25 12.52.54.excalidraw.md",
     "Mat 3/Fourierrækker.md",
     "Random Images/Pasted image 20250225101740.png",
@@ -202,9 +215,7 @@
     "Random Images/Pasted image 20250224122222.png",
     "Mat 1/Drevne dæmpede svingninger.md",
     "Mat 1/Differentialligninger.md",
-    "Robotkinematik/Random introduktion keywords.md",
     "Mat 1/Trigonometriske funktioner.md",
-    "Robotkinematik/Excercises/Lecture 2.md",
     "Mat 1/Integration.md",
     "Mat 3/Inverse trigonometriske funktioner.md",
     "Random Images/Pasted image 20250217134403.png",
