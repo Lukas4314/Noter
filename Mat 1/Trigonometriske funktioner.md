@@ -8,3 +8,6 @@ Det her roder hjernedødt meget men sådan er det...
 ![[Pasted image 20241209123216.png]]
 ![[Pasted image 20241209123438.png]]
 ![[Pasted image 20241209132821.png]]
+
+![[Pasted image 20250309132854.png]]
+![[Pasted image 20250309174004.png]]

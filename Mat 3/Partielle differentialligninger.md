@@ -1,0 +1,151 @@
+En partiel differentialligning er en differentialligning hvor den afledte af 2 forskellige variabler indgår
+dette kan en funktion $u(x, t)$ hvor x er en position og t er tiden. Den kan se sådan her ud:
+$$
+\frac{\partial u}{\partial t}=c^{2} \frac {\partial^{2}u} {\partial^{2}x}
+$$
+denne kaldes også den en dimensionale varmeledningsligning, som beskriver hvordan varmen gennem en stang som er isoleret bevæger sig, hvor t er tiden, og x er afstanden ned i stangen
+
+
+
+
+### Andenordens partial differentialligning
+Generelt ser de sådan her ud:
+$$A \frac {\partial^{2}u} {\partial^{2}x}+B\frac {\partial^{2}u} {\partial x \partial y}+C \frac {\partial^{2}u} {\partial^{2}y}+f(x, y, u, \frac {\partial u} {\partial x}, \frac {\partial u} {\partial y})=0$$
+der findes så 3 forskellige former for ligninger hvor vi har at:
+$$\cases{B^{2}-4AC < 0 & Ellliptisk\\
+B^{2}-4AC = 0 & Parabolsk\\
+B^{2}-4AC > 0 & Hyperbolsk}$$
+
+### Eksempel på løsning med seperation af variable
+$$2x \frac {\partial z} {\partial x} - 3y \frac {\partial z} {\partial y}=0$$
+hvor $z=z(x,y)$
+
+måden man løse denne er ved seperation af variable.
+Her håber man at man kan finde en løsning hvor $z=X(x) \cdot Y(y)$ altså en funktion for x og y som er ganget med hinanden, hvor $X=X(x)$ og $Y=Y(y)$
+hvis dette kna lade sig gøre, betyder det at:
+$$\frac {\partial z} {\partial x}=X' \cdot Y$$ og tilsvarende for Y
+og ud fra dette kan man så substiturerer det ind i vores differentialligning
+$$2x (X' \cdot Y) - 3y (X \cdot Y')=0$$
+her kan man så sepererer x og y så man får:
+$$2x X'Y=3yXY'$$
+her kan man så dividerer med  X og Y
+$$
+2x \frac{X'}{X}=3y\frac{Y'}{Y}
+$$
+her har vi så at fordi at x ændrer sig betyder det ikke at y skal ændre, hvilket betyder at det må være lig med en konstant.
+$$2x \frac {X'} {X}=k$$
+og $$3y \frac {Y'} {Y}=k$$
+disse 2 differentialligninger kan man så løse hver for sig, hvor vi husker at $X'= \frac {dX} {x}$ 
+man ender så med:
+$$\begin{align*}
+X=x^{\frac{k}{2}} \cdot c\\
+Y=y^{\frac{k}{3}} \cdot c
+\end{align*}$$
+vi har nu vores 2 funktioner hvor vi nu husker at vi ledte efter funktioner som opfyldte: $z=X(x) \cdot Y(y)$ hvilket vi nu har fundet og kan derfor skrive:
+$$z=x^{\frac{k}{2}}\cdot y^{\frac{k}{3}} \cdot c_{1}\cdot c_{2}$$
+her ganger vi konstanterne sammen og kalder dem for c
+$$z=x^{\frac{k}{2}}\cdot y^{\frac{k}{3}} \cdot c$$
+vi har derfor nu en løsning
+
+
+
+## Bølgeligningen
+Vi vil nu gerne løse ligningen:
+$$u_{tt}=c^{2}u_{xx}$$
+her betyder $u_{tt}$ at u er partial differentieret i forhold til t 2 gange.
+denne ligning kalder man bølgeligning og kommer ud fra, at man har en streng som er udspændt en længe L og har et udsving u, altså en snor som er spændt ud og trukket ud som laver vibrationer hvor vibrationerne er udsvinget som ændrer sig.
+i denne ligning er:
+$$c^{2}= \frac {T} {m}$$
+hvor T er trækkraften og m er massen per meter. Årsagen til at man kalder det c^2 er fordi at det er positivt så for at det altid bliver positivt gør man dette. eftersom trækkraften eller massen ikke kan være negativ.
+
+Her satser man så på at man kan finde en løsning med seperation af variable. altså:
+$$u= X(x) \cdot T(t)$$
+vi får så også her at:
+$$u_{xx}=X''(x) \cdot T(t)$$
+og 
+$$u_{tt}=X(x) \cdot T''(t)$$
+her, ligesom tidligere substituerer vi
+$$X(x) \cdot T''(t)=c^{2} \cdot X''(x) \cdot T(t)$$
+her separerer vi så variablerne.
+$$\frac{X''}{X}=\frac{1}{c^{2}}\frac{T''}{T}$$
+her har vi igen separeret dem og de må derfor være lig med en konstant
+
+$$\frac{X''}{X}=\frac{1}{c^{2}}\frac{T''}{T}=k$$
+vi har derfor:
+$$X''-kX=0$$
+og 
+$$\frac{1}{c^{2}}T''-kt=0$$
+disse 2 andenordens differentialligninger skal nu løses, men der er 3 forskellige måder at løse andenordensdifferentialligninger alt efter hvilket fortegn k har, hvilket også betyder der er 3 forskellige løsninger her alt efter hvad k er
+$$X(t)= \cases{c_{1}\cdot e^{px}+c_{2}e^{-px} & p*p=k>0\\
+A_{1}\cos(px)+ A_{2}\sin(px) & -p*p=k<0\\
+ax+b & k=0
+}$$
+her får man 3 løsninger, hvor den ene er eksponential, den anden er linæear og den sidste er trigonomisk, og eftersom at vi arbejeder med en streng som laver periodiske bevægelser arbejder vi kun videre med case 2 altså:
+$$X(x)= A_{1}\cos(px)+ A_{2}\sin(px)$$
+hvor $$k=-p^{2}$$
+det samme gøres nu for T(t) og her finder man frem til:
+$$T(t)= A_{3}\cos(pct) + A_{4}\sin(pct)$$
+nu har vi så vores 2 funktioner og her husker vi at: $u= X(x) \cdot T(t)$ og vi får derfor at:
+$$u(x, t)=(A_{1}\cos(pc) +A_{2}\sin(px)) \cdot (A_{3}\cos(pct)+A_{4}\sin(pct))$$
+vi har her en løsning til vores ligning
+måden man så finder vores 4 konstanter er ved at kigge på vores startbetingelser
+eftersom at vores streng er spændt fast i enderne har vi at
+$$u(0, t)=0$$
+og 
+$$u(L, t)=0$$
+fordi den ikke kan svinge i enderne.
+dette kan så indsættes ind i vores ligning:
+$$\begin{align*}
+u(0, t)=(A_{1}\cos(0) +A_{2}\sin(0)) \cdot (A_{3}\cos(pct)+A_{4}\sin(pct))&= 0\\
+A_{1} \cdot (A_{3}\cos(pct)+A_{4}\sin(pct))&= 0\\
+A_{1}&= 0
+\end{align*}$$
+nu har vi:
+
+$$u(x, t)=A_{2}\sin(px) \cdot (A_{3}\cos(pct)+A_{4}\sin(pct))$$
+
+nu kan vi så kigge på den anden startbetingelse
+$$\begin{align*}
+u(L, t)=A_{2}\sin(pL) \cdot (A_{3}\cos(pct)+A_{4}\sin(pct))&= 0\\
+A_{2}\sin(pL) \cdot (A_{3}\cos(pct)+A_{4}\sin(pct))&= 0\\
+\sin(pL)&= 0\\
+pL&= n \pi\\
+p&= \frac {n \pi} {L}
+\end{align*}$$
+
+her ser vi at A_2 ikke må være 0 og derfor kommer vi frem til dette.
+dette betyder så at:
+$$u(x, t)=A_{2}\sin(\frac {n \pi} {L}x) \cdot (A_{3}\cos(\frac {n \pi} {L}ct)+A_{4}\sin(\frac {n \pi} {L}ct))$$
+det betyder så også at der er mange forskellige, alt efter hvad n, er og man kan derfor skrive det som:
+$$u_{n}(x, t)=A_{2}\sin(\frac {n \pi} {L}x) \cdot (A_{3}\cos(\frac {n \pi} {L}ct)+A_{4}\sin(\frac {n \pi} {L}ct))$$
+hvor frekvensen af det, afhænger af hvad man sætter n til at være. Det betyder også at det kun er bestemte frekvenser som den genererer og derfor kun bestemte toner man kan laver.
+For at reducerer dette yderligere kigger man nu på nogle startbetingesler:
+hastighed og position ved t=0
+$$v= \frac {\partial u(x, 0)} {t}$$
+$$u(x, 0)$$
+her hvis man tager en streng ud og slipper kan man sige at hastigheden af strengen er 0, altså:
+$$v= \frac {\partial u(x, 0)} {t}=0$$
+dette kan så indsættes:
+$$ \frac {\partial u} { \partial t}=A_{2}\sin(\frac {n \pi} {L}x) \cdot (-A_{3}\sin(\frac {n \pi} {L}ct)+A_{4}\cos(\frac {n \pi} {L}ct))$$
+$$ \frac {\partial u(x, 0)} { \partial t}=A_{2}\sin(\frac {n \pi} {L}x) \cdot (A_{4})=0$$
+$$A_{4}=0$$
+her har vi fra tidligere at A_2 ikke måtte være 0. 
+vi har nu vores nye svar som er:
+$$u_{n}(x, t)=A_{2}\sin(\frac {n \pi} {L}x) \cdot \cos(\frac {n \pi} {L}ct)$$
+her kan man så summere dette op.
+$$u(x, t)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)\cdot \cos( \frac {n \pi c} {L}t)$$
+
+
+
+nu kan man så kigge på hvordan strengen ser ud når vi starter, og det kan man kalde for f(x)
+$$u(x, 0)=f(x)$$
+her er f(x) en funktion som ikke nødvendigvis er differentiable, men den er kontinuer fordi strengen ikke er i stykker.
+man kan derfor skrive:
+$$u(x, 0)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)\cdot \cos( \frac {n \pi c} {L}\cdot 0)=f(x)$$
+$$u(x, 0)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)=f(x)$$
+her har vi så også at:
+$$A_{n}= \frac{2}{L} \cdot
+ \int_{0}^{L}f(x) sin(\frac {n \pi} {L}x)dx$$
+ her kan man så løse for alle A_n og man kan så derefter indsætte dette ind i sin formel igen, og så har man løse dette
+$$u(x, t)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)\cdot \cos( \frac {n \pi c} {L}t)$$
+man kan så videre lave det samme, med hvor den har starthastighed og eller startposition osv, hvor den som lige er blevet udledt er ved at man har en startposition, men ikke nogen start hastighed.
