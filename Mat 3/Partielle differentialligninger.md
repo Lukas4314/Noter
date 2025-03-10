@@ -126,13 +126,13 @@ $$u(x, 0)$$
 her hvis man tager en streng ud og slipper kan man sige at hastigheden af strengen er 0, altså:
 $$v= \frac {\partial u(x, 0)} {t}=0$$
 dette kan så indsættes:
-$$ \frac {\partial u} { \partial t}=A_{2}\sin(\frac {n \pi} {L}x) \cdot (-A_{3}\sin(\frac {n \pi} {L}ct)+A_{4}\cos(\frac {n \pi} {L}ct))$$
+$$ \frac {\partial u} { \partial t}=A_{2} \cdot \sin(\frac {n \pi} {L}x) \cdot (-A_{3} \cdot \frac {n \pi} {L} c \cdot \sin(\frac {n \pi} {L}ct)+A_{4} \cdot \frac {n \pi} {L}c \cdot \cos(\frac {n \pi} {L}ct))$$
 $$ \frac {\partial u(x, 0)} { \partial t}=A_{2}\sin(\frac {n \pi} {L}x) \cdot (A_{4})=0$$
 $$A_{4}=0$$
 her har vi fra tidligere at A_2 ikke måtte være 0. 
 vi har nu vores nye svar som er:
 $$u_{n}(x, t)=A_{2}\sin(\frac {n \pi} {L}x) \cdot \cos(\frac {n \pi} {L}ct)$$
-her kan man så summere dette op.
+her kan man så summere dette op for alle n.
 $$u(x, t)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)\cdot \cos( \frac {n \pi c} {L}t)$$
 
 
@@ -143,9 +143,48 @@ her er f(x) en funktion som ikke nødvendigvis er differentiable, men den er kon
 man kan derfor skrive:
 $$u(x, 0)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)\cdot \cos( \frac {n \pi c} {L}\cdot 0)=f(x)$$
 $$u(x, 0)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)=f(x)$$
-her har vi så også at:
+her har vi så også fordi at dette er en fourierrække at:
 $$A_{n}= \frac{2}{L} \cdot
  \int_{0}^{L}f(x) sin(\frac {n \pi} {L}x)dx$$
  her kan man så løse for alle A_n og man kan så derefter indsætte dette ind i sin formel igen, og så har man løse dette
 $$u(x, t)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)\cdot \cos( \frac {n \pi c} {L}t)$$
 man kan så videre lave det samme, med hvor den har starthastighed og eller startposition osv, hvor den som lige er blevet udledt er ved at man har en startposition, men ikke nogen start hastighed.
+
+Hvis man havde haft andre startbetingelser, så som at hastigheden ikke var 0, men lig med en function d
+$$ \frac {\partial u} {\partial t}(x, 0)=g(x)$$
+
+og at startpositionen er 0
+$$u(x, 0)=0$$
+dette er altså det tilfælde hvor strengen er på 0 i starten men har en fart op eller ned igennem strengen.
+her ender man med udtrykket som hedder:
+$$
+
+$$
+
+
+# alt i alt
+hvis hastigheden er 0 i starten er løsningen:
+$$u(x, t)=\sum_{n=1}^{\infty}A_{n} \cdot \sin\left(\frac {n \pi} {L}x\right)\cdot \cos(\frac {n \pi c} {L}t)$$
+hvor A_n kan findes som:
+$$u(x, 0)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)=f(x)$$
+her er f(x) start positionen af snoren
+
+Hvis startpositionen er 0 men den har en hastighed g(x) er løsningen 
+$$u(x, t)= \sum_{n=1}^{\infty}B_{n}\sin\left(\frac {n \pi } {L}x\right)\cdot \sin(\frac {n \pi c} {L}t )$$
+hvor vi har at
+$$B_{n}=A_{n} \cdot \frac {n \pi c} {L}$$
+
+
+
+## D'Alembert
+en anden måde at løse denne bølgeligning er med D'Alembert som har løse den anderledes.
+De løsninger vi lige har kigget på havde vi sinus ganget med cosinus og sinus ganget med cosinus, og dette kan skrives om med additionsformlerne (findes under en af alle trigonometri siderne), hvis der arbejdes videre med den ide og laves en masse mellemregninger jeg ikke gider ender man med dette:
+hvis snoren ikke har nogen start hastighed men har en start position f(x) er løsningen:
+$$u(x, t)= \frac{1}{2} \cdot (f(x+ct)+ f(x-ct)  )$$
+en måde man så kan se dette på er ved at forestille sig snoren er i en bestemt position, kaldet f(x), når tiden går bliver u(x, t) forskudt, mod venstre og højre og det man så skal ende med, er altså gennemsnittet af disse 2 funktioner. Dette kan så beskrive snoren eftersom at tiden går. Det er også det som er beskrevet på figur 291 i bogen:
+![[Pasted image 20250310130333.png]]
+her ser man at den blive forskudt mod venstre og højre, og så gennemsnittet til højre
+
+lad os nu sige at snoren både har en startposition og en starthastighed, så får man løsningen:
+$$u(x, t)=\frac{1}{2} \cdot \left (f(x+ct)+ f(x-ct) \right )+ \frac{1}{2c} \cdot \int_{x-ct}^{x+ct}g(t) dt$$
+her er f(x) startpositionen og g(t) er start hastihgeden

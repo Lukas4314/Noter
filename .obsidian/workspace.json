@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76f6f31393663994",
+        "id": "4b9c76b1f03893e0",
         "type": "tabs",
         "children": [
           {
-            "id": "de46e8996f22249c",
+            "id": "bbb85d47a5646084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat 2/Trigonometri.md",
+                "file": "Mat 3/Partielle differentialligninger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Trigonometri"
+              "title": "Partielle differentialligninger"
             }
           }
         ]
@@ -187,31 +187,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59179d9b473c85ba",
+  "active": "bbb85d47a5646084",
   "lastOpenFiles": [
-    "test5.pdf",
+    "Random Images/Pasted image 20250309174004.png",
+    "Mat 3/Partielle differentialligninger.md",
     "test.pdf",
+    "Mat 3/Fourierrækker.md",
+    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
+    "Random Images/Pasted image 20250310130333.png",
+    "Mat 3/Middelværdisætning (Mean theory Theorem).md",
+    "Mat 2/Trigonometri.md",
+    "test5.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp~",
     "Mat 3/Inverse trigonometriske funktioner.md",
-    "Mat 2/Trigonometri.md",
     "Mat 1/Trigonometriske funktioner.md",
     "Mat 1/Differentering.md",
-    "Pasted image 20250309174004.png",
-    "Mat 3/Partielle differentialligninger.md",
     "Mat 3/Fourier integraler.md",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 3 opaver.xopp~",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 3 opaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 2 opgaver.xopp~",
     "Random Images/Pasted image 20250309132854.png",
-    "Mat 3/Fourierrækker.md",
     "Mat 1/Integration.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 2 opgaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 1 opgaver.xopp~",
     "Mat 2/Funktioner af flere variable.md",
     "Mat 3/Tidligere gennemgået emner.md",
-    "Mat 3/Middelværdisætning (Mean theory Theorem).md",
     "To-Do list.md",
     "Robotkinematik/Translation and rotation.md",
     "Robotkinematik/Random introduktion keywords.md",
@@ -224,7 +225,6 @@
     "Random Images/Pasted image 20250225100610.png",
     "Random Images/Pasted image 20250225091504.png",
     "Random Images/Pasted image 20250224123917.png",
-    "Random Images/Pasted image 20250224122222.png",
     "Mat 1/Drevne dæmpede svingninger.md",
     "Mat 1/Differentialligninger.md",
     "Softwareudvikling/Vandfalds modellen.md",
