@@ -183,12 +183,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "xournalpp:Create new Xournal++ note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "bbb85d47a5646084",
+  "active": "59179d9b473c85ba",
   "lastOpenFiles": [
+    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp~",
     "Random Images/Pasted image 20250309174004.png",
     "Mat 3/Partielle differentialligninger.md",
     "test.pdf",
@@ -198,7 +198,6 @@
     "Mat 3/Middelværdisætning (Mean theory Theorem).md",
     "Mat 2/Trigonometri.md",
     "test5.pdf",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp~",
     "Mat 3/Inverse trigonometriske funktioner.md",
     "Mat 1/Trigonometriske funktioner.md",
     "Mat 1/Differentering.md",
