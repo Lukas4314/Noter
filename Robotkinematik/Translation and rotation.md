@@ -72,7 +72,7 @@ Orientation describes an state where a rotation performs an action to rate somet
 
 
 ### Angle-Set Conventions
-angle set conventions are a familiy consisting of auler angles and fixed angles.
+angle set conventions are a familiy consisting of euler angles and fixed angles.
 the diffrence between euler and fixed angles is that fixed angles are still where euler angles moves and the angles are therefore in relative to the what it is describing.
 ![[Pasted image 20250225091504.png]]
 

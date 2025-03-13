@@ -167,12 +167,18 @@ hvis hastigheden er 0 i starten er løsningen:
 $$u(x, t)=\sum_{n=1}^{\infty}A_{n} \cdot \sin\left(\frac {n \pi} {L}x\right)\cdot \cos(\frac {n \pi c} {L}t)$$
 hvor A_n kan findes som:
 $$u(x, 0)= \sum_{n=1}^{\infty}A_{n}sin\left( \frac {n \pi} {L}x\right)=f(x)$$
+som også betyder:
+$$A_{n}= \frac{2}{L} \cdot
+ \int_{0}^{L}f(x) sin(\frac {n \pi} {L}x)dx$$
+ 
+
 her er f(x) start positionen af snoren
 
 Hvis startpositionen er 0 men den har en hastighed g(x) er løsningen 
 $$u(x, t)= \sum_{n=1}^{\infty}B_{n}\sin\left(\frac {n \pi } {L}x\right)\cdot \sin(\frac {n \pi c} {L}t )$$
 hvor vi har at
-$$B_{n}=A_{n} \cdot \frac {n \pi c} {L}$$
+$$B_{n}= \frac{2}{cn \pi} \int_{0}^{L}g(x) \cdot \sin( \frac {n \pi x} {L})dx$$
+her er g(x) start hastigheden gennem snoren
 
 
 
@@ -186,5 +192,5 @@ en måde man så kan se dette på er ved at forestille sig snoren er i en bestem
 her ser man at den blive forskudt mod venstre og højre, og så gennemsnittet til højre
 
 lad os nu sige at snoren både har en startposition og en starthastighed, så får man løsningen:
-$$u(x, t)=\frac{1}{2} \cdot \left (f(x+ct)+ f(x-ct) \right )+ \frac{1}{2c} \cdot \int_{x-ct}^{x+ct}g(t) dt$$
+$$u(x, t)=\frac{1}{2} \cdot \left (f(x+ct)+ f(x-ct) \right )+ \frac{1}{2c} \cdot \int_{x-ct}^{x+ct}g(x) dx$$
 her er f(x) startpositionen og g(t) er start hastihgeden

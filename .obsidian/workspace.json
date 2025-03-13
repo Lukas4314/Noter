@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotkinematik/DH parameters and forward kinematics.md",
+                "file": "Robotkinematik/Translation and rotation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DH parameters and forward kinematics"
+              "title": "Translation and rotation"
             }
           }
         ]
@@ -189,10 +189,19 @@
   },
   "active": "bbb85d47a5646084",
   "lastOpenFiles": [
+    "Robotkinematik/Excercises/Lecture 2.md",
+    "Mat 3/Partielle differentialligninger.md",
+    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
+    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.pdf",
+    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.xopp~",
+    "Robotkinematik/DH parameters and forward kinematics.md",
+    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.xopp",
+    "/Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.xopp",
+    "/Mat 3/Mat 3 Opgaver",
+    "/Mat 3",
     "Robotkinematik/Transformtion matrixes.md",
     "Robotkinematik/Translation and rotation.md",
     "Random Images/Pasted image 20250311104722.png",
-    "Robotkinematik/DH parameters and forward kinematics.md",
     "Random Images/Pasted image 20250311101608.png",
     "Random Images/Pasted image 20250311092406.png",
     "Random Images/Pasted image 20250311094334.png",
@@ -202,11 +211,9 @@
     "Random Images/Pasted image 20250311092513.png",
     "Random Images/Pasted image 20250311092439.png",
     "Random Images/Pasted image 20250311083739.png",
-    "Mat 3/Partielle differentialligninger.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp~",
     "test.pdf",
     "Mat 3/Fourierrækker.md",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
     "Mat 3/Middelværdisætning (Mean theory Theorem).md",
     "Mat 2/Trigonometri.md",
     "test5.pdf",
@@ -214,18 +221,11 @@
     "Mat 1/Trigonometriske funktioner.md",
     "Mat 1/Differentering.md",
     "Mat 3/Fourier integraler.md",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 3 opaver.xopp~",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 3 opaver.pdf",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 2 opgaver.xopp~",
     "Mat 1/Integration.md",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 2 opgaver.pdf",
-    "Mat 3/Mat 3 Opgaver/Mat3 Lektion 1 opgaver.xopp~",
     "Mat 2/Funktioner af flere variable.md",
     "Mat 3/Tidligere gennemgået emner.md",
     "To-Do list.md",
     "Robotkinematik/Random introduktion keywords.md",
-    "Robotkinematik/Excercises/Lecture 2.md",
     "Excalidraw/Drawing 2025-02-25 12.52.54.excalidraw.md",
     "Mat 1/Drevne dæmpede svingninger.md",
     "Mat 1/Differentialligninger.md",

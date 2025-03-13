@@ -4,6 +4,7 @@ $$\begin{align*}
 -0.3\\
 0.5\end{pmatrix}
 \end{align*}$$
+
 ![[Pasted image 20250211103838.png]]
 
 B)
