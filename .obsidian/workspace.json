@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b9c76b1f03893e0",
+        "id": "5d5c7fe197b95cf4",
         "type": "tabs",
         "children": [
           {
-            "id": "bbb85d47a5646084",
+            "id": "91b58ad416e36247",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotkinematik/Translation and rotation.md",
+                "file": "Robotkinematik/Excercises/Lecture 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Translation and rotation"
+              "title": "Lecture 3"
             }
           }
         ]
@@ -187,8 +187,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bbb85d47a5646084",
+  "active": "f4445b7b75c83052",
   "lastOpenFiles": [
+    "Random Images/Pasted image 20241107112049.png",
+    "Robotkinematik/Excercises/Lecture 3.md",
+    "Random Images/Pasted image 20241024100712.png",
+    "Random Images/Pasted image 20250313142426.png",
+    "Robotkinematik/Translation and rotation.md",
+    "Random Images/Pasted image 20250313141842.png",
     "Robotkinematik/Excercises/Lecture 2.md",
     "Mat 3/Partielle differentialligninger.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
@@ -200,7 +206,6 @@
     "/Mat 3/Mat 3 Opgaver",
     "/Mat 3",
     "Robotkinematik/Transformtion matrixes.md",
-    "Robotkinematik/Translation and rotation.md",
     "Random Images/Pasted image 20250311104722.png",
     "Random Images/Pasted image 20250311101608.png",
     "Random Images/Pasted image 20250311092406.png",
@@ -208,9 +213,6 @@
     "Random Images/Pasted image 20250311094209.png",
     "Random Images/Pasted image 20250311092825.png",
     "Random Images/Pasted image 20250311092612.png",
-    "Random Images/Pasted image 20250311092513.png",
-    "Random Images/Pasted image 20250311092439.png",
-    "Random Images/Pasted image 20250311083739.png",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp~",
     "test.pdf",
     "Mat 3/Fourierrækker.md",
@@ -232,7 +234,6 @@
     "Softwareudvikling/Vandfalds modellen.md",
     "Softwareudvikling/Software development life cycle (SDLC).md",
     "test.md",
-    "SeMesterProjekt To Do.md",
-    "Mat 2/Egenværdier og egenvektorer.md"
+    "SeMesterProjekt To Do.md"
   ]
 }

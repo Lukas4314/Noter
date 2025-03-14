@@ -82,10 +82,19 @@ the syntax for the difference is an ' for the euler angles like: $R_{x´y´z´}$
 
 ### Euler angles
 when using euler angles to rotate something, just like mentioned earlier in rotation multiple times. a combination of rotations, can be multiplied to get a final rotation matrix to achieve any rotation. the rotation should be multiplied in the way which makes sense meaning the first rotation should be multiplied with the second rotation which then should be multiplied with the next and so on.
+when using euler angles is is described with an apostrophe above the letter of the axis like this:
+$$R_{X'Y'Z'}$$
+it is also possible to have an rotation looking like this:
+$$R_{X'Y'X'}$$
+this is because the rotation needs 3 argument when written out, and this then describes the rotation around the axis in that order
+
+
 
 ### Fixed angles
 Here the rotation is around a fixed frame meaning the rotation is not the same as euler angles. Doing it this way when doing multiple rotations to achieve a specific rotation, you have to multiply the rotation matrix in the reversed order. meaning the last rotation you did needs to be multiplied with the second last rotation last time, which then needs to be multiplied with the third last rotation last time and so on.
-
+when using fixed angles there is no apostrophe
+$$R_{XYZ}$$
+like the Euler angles it does not need to be XYZ it can be XYX and so on for the rotation around the specified axis
 
 ### Gimbal lock
 the gimbal lock is a problem which appears when 2 axis aligns like the picture below:
@@ -93,8 +102,22 @@ the gimbal lock is a problem which appears when 2 axis aligns like the picture b
 if a plane steers up, it at some time reach a point where i has to rotate 180 degrees instant for it to always be upside down which is the problem.
 There is 2 sides of this problem, the first is the mechanical problem where you get a problem because you have to move very fast.
 the second problem is the mathematical problem which appears because the axis align and you therefore lose a degree of freedom.
+
+
+
+### Euler Angles to rotation matrix
+when having an rotation using euler angles, the final rotation matrix can be found as:
+![[Pasted image 20250313141842.png]]
+
 ## From rotation matrix to fixed angles
 when having an rotation matrix you can find the fixed rotation which is the result
 it can be calculated from this:
 ![[Pasted image 20250225101719.png]]![[Pasted image 20250225101726.png]]
 ![[Pasted image 20250225101740.png]]
+
+
+
+## Angle axis pair
+(not sure about this so maybe need to learn some more about this)
+
+![[Pasted image 20250313142426.png]]
