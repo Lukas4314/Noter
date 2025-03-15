@@ -396,6 +396,8 @@ lJf
 lZw
 luQ
 lSH
+letter
+learn
 med
 mange
 matrix
@@ -829,6 +831,11 @@ mfo
 mph
 mTe
 mDk
+maybe
+mUy
+mYpw
+mIa
+mUe
 og
 opl
 ogs
@@ -1193,6 +1200,9 @@ oAk
 oGFJ
 otd
 oTj
+oWgaiuM
+oxga
+oYG
 variable
 ved
 vilk
@@ -1590,6 +1600,7 @@ vua
 vRVA
 vie
 vlC
+vMP
 der
 de
 determinanten
@@ -2444,6 +2455,8 @@ eGf
 eEF
 eop
 erX
+edRjW
+eEc
 flere
 fx
 findes
@@ -2910,6 +2923,7 @@ fDl
 fGC
 fVc
 fCs
+found
 sninger
 st
 som
@@ -3461,6 +3475,9 @@ sGl
 spe
 sIw
 sub
+specified
+sure
+sOc
 hvis
 her
 hvor
@@ -4304,6 +4321,9 @@ kvZ
 kBK
 khD
 ksh
+krr
+ksg
+kRpi
 Der
 Determinanten
 Drawing
@@ -4654,6 +4674,7 @@ DOj
 DDDDtI
 DDc
 DbZ
+DDv
 uendelig
 under
 uden
@@ -4985,6 +5006,8 @@ uhR
 ujll
 ujl
 ubT
+ulFB
+uwlpz
 rrelse
 rre
 rligt
@@ -5822,6 +5845,9 @@ aeX
 akvq
 aHu
 aex
+apostrophe
+arJ
+aln
 jk
 jle
 jlen
@@ -6599,6 +6625,7 @@ tVPp
 toCV
 tiR
 todW
+tfH
 nr
 nogle
 ngige
@@ -6980,6 +7007,7 @@ niZ
 nPi
 nSc
 nXb
+nlI
 ganger
 giver
 gauss
@@ -7735,6 +7763,9 @@ bUD
 bQIM
 brLm
 bqda
+bsi
+befD
+bZOC
 ikke
 igen
 indeholder
@@ -8155,6 +8186,7 @@ iGF
 igW
 iSKxL
 iIDD
+iSgUm
 Ikke
 IC
 IMU
@@ -8903,6 +8935,8 @@ pVM
 pnl
 poA
 pTV
+pair
+pLs
 Switch
 Saving
 Self
@@ -9226,6 +9260,7 @@ SRgV
 SES
 STC
 SkZ
+SDV
 EXCALIDRAW
 Excalidraw
 Encapsulation
@@ -9589,6 +9624,8 @@ ESx
 EbH
 EzYR
 EDb
+Equivalent
+EnU
 VIEW
 VTTL
 VS
@@ -9928,6 +9965,8 @@ VhY
 VTu
 VgV
 Vxf
+Vector
+VfF
 MORE
 Machine
 Man
@@ -10256,6 +10295,8 @@ MaD
 Miu
 MEo
 Mjy
+MvFp
+MtO
 OPTIONS
 Orientation
 Opgaver
@@ -10917,6 +10958,9 @@ YGft
 YYr
 YRvA
 Ywt
+Yps
+YlN
+YQm
 can
 command
 current
@@ -11256,6 +11300,7 @@ cROe
 cCz
 cIY
 cLq
+cRF
 with
 width
 wH
@@ -11550,6 +11595,9 @@ wjL
 wAN
 wdy
 wzPsk
+written
+wfe
+wsxu
 For
 Forskellige
 Funktionerne
@@ -11903,6 +11951,7 @@ FXl
 FDT
 FYw
 FhH
+Fkj
 Tanken
 ToF
 Tangens
@@ -12236,6 +12285,7 @@ Tbq
 TGR
 TtF
 TyU
+Tnp
 Key
 Klassen
 Kartesisk
@@ -12546,6 +12596,9 @@ Kkv
 Kdz
 KMbb
 KPW
+KqL
+KCQV
+KwV
 Abstraction
 Alt
 AB
@@ -12822,6 +12875,9 @@ AGU
 ALu
 Aec
 AUA
+Angles
+Aky
+Atmw
 Constructer
 CC
 Capacitors
@@ -13128,6 +13184,9 @@ CMzj
 CVoZ
 CFR
 COt
+Cru
+CCe
+Cgv
 PWM
 Pol
 Passive
@@ -13413,6 +13472,7 @@ PRr
 PZc
 PeJ
 PaQ
+PBD
 RP
 Regneregler
 Resources
@@ -13716,6 +13776,11 @@ RRI
 RfA
 RKDD
 RVAZ
+Rotationsmatricer
+RuNR
+RcKop
+RQz
+RRW
 LVTTL
 Light
 Local
@@ -14027,6 +14092,7 @@ LbE
 LlC
 LqD
 LYg
+LjQ
 ydermere
 yw
 yk
@@ -14343,6 +14409,7 @@ yfB
 yDn
 ystO
 yPJ
+yvCvn
 Hvad
 Her
 Hvis
@@ -14965,6 +15032,7 @@ BYQF
 ByB
 BRb
 BgA
+BDDDDD
 Niveaukurver
 Normal
 Nx
@@ -15278,6 +15346,7 @@ NlIG
 NhT
 NDDDK
 Nks
+Nlc
 Gr
 GNSS
 GPS
@@ -15581,6 +15650,7 @@ GWw
 GCg
 GBD
 GOg
+GoP
 USA
 UA
 UZw
@@ -15913,6 +15983,7 @@ Uwpr
 UpWe
 UvlF
 USn
+UsK
 XObject
 XV
 XC
@@ -16220,6 +16291,10 @@ XPY
 XScC
 Xuc
 XpV
+XYZ
+XYX
+XSwm
+Xqyv
 Width
 Wi
 Wtu
@@ -16539,6 +16614,7 @@ WqZ
 Whx
 WMz
 WUd
+WRm
 zABe
 zn
 zR
@@ -16851,6 +16927,7 @@ zYwi
 zRM
 zoz
 zUN
+zUbOzm
 Zl
 Ztx
 ZAw
@@ -17179,6 +17256,7 @@ ZRO
 ZmIG
 ZVTH
 Zccc
+ZEhY
 xo
 xke
 xz
@@ -17478,6 +17556,8 @@ xAYP
 xUm
 xcRvl
 xaq
+xaJ
+xwv
 JU
 JW
 Jg
@@ -17808,6 +17888,8 @@ JeF
 JLN
 JGk
 Jjp
+JoS
+JSgL
 qsy
 qs
 qg
@@ -18117,6 +18199,8 @@ qRN
 qnV
 qzo
 qdl
+qsk
+qxo
 Qq
 QsB
 Qtv
@@ -18446,6 +18530,7 @@ QcB
 Qhh
 QGDDDT
 QIc
+Qzg
 Öp
 ÖNg
 Öe

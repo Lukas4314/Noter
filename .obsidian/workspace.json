@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "5d5c7fe197b95cf4",
+        "id": "daf0072a3d437840",
         "type": "tabs",
         "children": [
           {
-            "id": "91b58ad416e36247",
+            "id": "04e963e8c5fa5007",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Robotkinematik/Excercises/Lecture 3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Random Images/Pasted image 20250314110227.png"
               },
-              "icon": "lucide-file",
-              "title": "Lecture 3"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250314110227"
             }
           }
         ]
@@ -189,11 +177,16 @@
   },
   "active": "f4445b7b75c83052",
   "lastOpenFiles": [
-    "Random Images/Pasted image 20241107112049.png",
+    "Robotkinematik/Translation and rotation.md",
+    "Random Images/Pasted image 20250314110227.png",
+    "Random Images/Pasted image 20250314110005.png",
+    "Random Images/Pasted image 20250314103455.png",
     "Robotkinematik/Excercises/Lecture 3.md",
+    "Robotkinematik/Excercises/Lecture 3.pdf",
+    "Robotkinematik/Excercises/Lecture 3.xopp",
+    "Random Images/Pasted image 20241107112049.png",
     "Random Images/Pasted image 20241024100712.png",
     "Random Images/Pasted image 20250313142426.png",
-    "Robotkinematik/Translation and rotation.md",
     "Random Images/Pasted image 20250313141842.png",
     "Robotkinematik/Excercises/Lecture 2.md",
     "Mat 3/Partielle differentialligninger.md",
@@ -209,16 +202,10 @@
     "Random Images/Pasted image 20250311104722.png",
     "Random Images/Pasted image 20250311101608.png",
     "Random Images/Pasted image 20250311092406.png",
-    "Random Images/Pasted image 20250311094334.png",
-    "Random Images/Pasted image 20250311094209.png",
-    "Random Images/Pasted image 20250311092825.png",
-    "Random Images/Pasted image 20250311092612.png",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp~",
-    "test.pdf",
     "Mat 3/Fourierrækker.md",
     "Mat 3/Middelværdisætning (Mean theory Theorem).md",
     "Mat 2/Trigonometri.md",
-    "test5.pdf",
     "Mat 3/Inverse trigonometriske funktioner.md",
     "Mat 1/Trigonometriske funktioner.md",
     "Mat 1/Differentering.md",

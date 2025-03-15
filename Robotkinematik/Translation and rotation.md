@@ -64,6 +64,10 @@ if you have an rotation matrix ${}^{A}_{B}R$ and a matrix called ${}^{B}_{C}R$ w
 $${}^{A}_{C}R={}^{A}_{B}R \cdot {}^{B}_{C}R$$
 
 This can be used if you have a frame you want to rate in a complex way, you can first make multiple rotation matrix, to rotate it into the desired position meaning, you make one rotation making it a new frame but not the desired but a frame which is closer, and then keep doing that and finally multiply all the rotation matrices togeter to end up with one roation matrix which can be used make the whole rotation.
+	
+
+### Rotationsmatricer
+![[Pasted image 20250314103455.png]]
 
 
 # Orientation 
@@ -117,7 +121,7 @@ it can be calculated from this:
 
 
 
-## Angle axis pair
-(not sure about this so maybe need to learn some more about this)
-
+## Equivalent Angle-axis (Euler Vector)
+![[Pasted image 20250314110005.png]]
+![[Pasted image 20250314110227.png]]
 ![[Pasted image 20250313142426.png]]
