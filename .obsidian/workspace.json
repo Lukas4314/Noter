@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotkinematik/Translation and rotation.md",
+                "file": "Mat 3/Partielle differentialligninger.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Translation and rotation"
+              "title": "Partielle differentialligninger"
+            }
+          },
+          {
+            "id": "e5ec2ec7a737a462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 3/Vektorer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vektorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +208,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "xournalpp:Create new Xournal++ note": false
+      "xournalpp:Create new Xournal++ note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "389d8b75e713fa8a",
+  "active": "e5ec2ec7a737a462",
   "lastOpenFiles": [
-    "Robotkinematik/Transformtion matrixes.md",
+    "Mat 3/Partielle differentialligninger.md",
+    "Mat 3/Vektorer.md",
     "Robotkinematik/Translation and rotation.md",
+    "Robotkinematik/Transformtion matrixes.md",
     "Robotkinematik/DH parameters and forward kinematics.md",
     "Random Images/Pasted image 20250315091427.png",
     "Robotkinematik/Notation.md",
@@ -206,7 +234,6 @@
     "Random Images/Pasted image 20241107112049.png",
     "Random Images/Pasted image 20241024100712.png",
     "Robotkinematik/Excercises/Lecture 2.md",
-    "Mat 3/Partielle differentialligninger.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.xopp~",

@@ -194,3 +194,108 @@ her ser man at den blive forskudt mod venstre og højre, og så gennemsnittet ti
 lad os nu sige at snoren både har en startposition og en starthastighed, så får man løsningen:
 $$u(x, t)=\frac{1}{2} \cdot \left (f(x+ct)+ f(x-ct) \right )+ \frac{1}{2c} \cdot \int_{x-ct}^{x+ct}g(x) dx$$
 her er f(x) startpositionen og g(t) er start hastihgeden
+
+
+
+
+## En dimensional varmledningsligningen
+Hvis der ses en stang hvor temperaturen er u(x, t) hvor x er hvor langt man bevæger sig ud af stangen, får man denne differentialligning:
+$$ \frac {\partial u} {\partial t}= c^{2} \frac {\partial^{2}u} {\partial x^{2}}$$
+som beskriver temperaturen igennem stangen x, til et tidspunkt t.
+Det antages også at denne stang er fuldstændig isoleret.
+
+#### Steady state situation
+dette er hvis temperaturen er lineær ud af x aksen (dette sker når der er gået lang ) altså der kan fx. være 0 grader i starten og 20 grader i slutningen, så vil der være 10 grader halvvejs igennem stangen.
+
+### Løsning af varmeledningsligningen
+Ligesom med bølgeligningen kan denne differentialligning løses ved hjælp af bølgeligningen og vi gætter derfor på et svar som har formen:
+$$u(x, t)=X(x) \cdot T(t)$$
+vi får så her:
+$$\begin{align*}
+\frac {\partial u} {\partial x}&= X'(x) \cdot T(t)\\
+\frac {\partial^{2}u} {\partial x^{2}}&= X''(x) \cdot T(t)\\
+\frac {\partial u} {\partial t} &= X(x) \cdot T'(t)
+\end{align*}$$
+dette kan så indsættes ind i vores differentialligning:
+$$X(x) \cdot T'(t)=c^{2} \cdot X''(x) \cdot T(t)$$
+vi kan så her omskrive dette til:
+$$\frac {X''(x)} {X(x)}=\frac {1} {c^{2}} \cdot \frac {T'(t)} {T(t)}$$
+eftersom at x og t er uafhængige variable må dette være lig med en konstant
+$$\frac {X''(x)} {X(x)}=\frac {1} {c^{2}} \cdot \frac {T'(t)} {T(t)}=k$$
+vi har nu 2 differentialligninger:
+$$\begin{align*}
+\frac {X''(x)} {X(x)}&= k\\
+\frac {1} {c^{2}} \cdot \frac {T'(t)} {T(t)} &= k
+\end{align*}$$
+dette kan så omskrives til:
+$$\begin{align*}
+X''(x)-k \cdot X(x)&= 0\\
+T'(t) -kc^{2} \cdot T(t) &= 0
+\end{align*}$$
+her sættes $k=-p^{2}$ 
+så vi får disse differentialligninger:
+$$\begin{align*}
+X''(x)+p^{2} \cdot X(x)&= 0\\
+T'(t) + p^{2}c^{2} \cdot T(t) &= 0
+\end{align*}$$
+Hvis disse 2 differentialligninger løses og ganges sammen for at få vores svar:
+$$u(x, t)=(A_{1}\cos(px)+A_{2}\sin(px)) \cdot e^{-(pc)^{2} \cdot t}$$
+denne løsning giver tilsyneladende kun den relative ændring mellem 2 steady state situation. Dette betyder hvis man har 0 grader i den ene ende, og 20 i den anden som er i steady state, og så ændrer den første ende til 5 grader, kan man beskrive ændringen mellem den nuværende og når den når til sin nye steady state. Dette kan ses ved at $e^{-kt}$ bliver ganget på og når tiden vokser går dette mod 0 og derved bliver ændringen mindre, og mindre.
+
+### varmeledningsligning med startbetingelse.
+hvis temperaturen igennem en stang som u(x, 0) kan beskrives som en funktion f(x). altså start temperaturen. og Man derefter sætter enderne til at være 0 grader sådan at 
+$$\begin{align*}
+u(0, t)&= 0\\
+u(L, t)&= 0
+\end{align*}$$
+her har vi igen en løsning hvor vi også kan skrive:
+$$u(x, \infty)=0$$
+og her kan vi bruge eksemplet fra før til at regne temperaturen, fordi den nye steady state er 0 grader over alt, og vi regner differencen som tidligere forklaret.
+Vores startbetingelser fra før kan så indsættes ind i vores ligning:
+$$\begin{align*}
+u(0, t)&= (A_{1}\cos(0)+A_{2}\sin(0)) \cdot e^{-(pc)^{2} \cdot t}=0\\
+u(0, t)&= A_{1} \cdot e^{-(pc)^{2} \cdot t}=0\\
+A_{1}&= 0
+\end{align*}$$
+dette betyder vores svar ser sådan her ud:
+$$u(x, t)=A_{2}\sin(px) \cdot e^{-(pc)^{2} \cdot t}$$
+vi kigger på på den anden randbetingelse:
+$$\begin{align*}
+u(L, t)=A_{2}\sin(pL) \cdot e^{-(pc)^{2} \cdot t}&= 0\\
+\end{align*}$$
+eftersom at $A_{2}$ ikke kan være 0 da hele ligningen så giver 0 får vi at:
+$$\begin{align*}
+pL&= n \pi\\
+p&= \frac {n \pi} {L}
+\end{align*}$$
+vi får derfor denne ligning:
+$$u(x, t)=A \cdot \sin\left( \frac {n \pi} {L}x\right)\cdot e^{-(pc)^{2}t}$$
+her findes der dog uendelig mange løsninger alt efter hvad n er, og vi får derfor svarene som:
+$$u(x, t) = \sum_{n=1}^{\infty}A_{n}\cdot \sin( \frac {n \pi} {L}x) \cdot e^{-(pc)^{2}t}$$
+vi kan nu også kigge på vores anden startbetingelse, altså start temperaturen:
+$$u(x, 0)=\sum_{n=1}^{\infty}A_{n}\cdot \sin( \frac {n \pi} {L}x) \cdot e^{-(pc)^{2}t} = f(x)$$
+vi har nu en sinus række som vi kan finde:
+$$A_{n}= \frac{2}{L} \cdot \int_{0}^{L}f(x) \cdot \sin \left ( \frac {n \pi} {L}x \right ) dx$$
+### Kort sagt
+hvis der sættes en stang til at være 0 grader i begge ender og har start temperaturen f(x) igennem stangen kan temperaturen til et givent tidspunkt på en given position findes som:
+$$u(x, t) = \sum_{n=1}^{\infty}A_{n}\cdot \sin( \frac {n \pi} {L}x) \cdot e^{-(pc)^{2}t}$$
+hvor 
+$$A_{n}= \frac{2}{L} \cdot \int_{0}^{L}f(x) \cdot \sin \left ( \frac {n \pi} {L}x \right ) dx$$
+her er det givet at:
+$$\begin{align*}
+u(0, t)&= 0\\
+u(L, t) &= 0\\
+u(x, 0) &=  f(x)\\
+p &= \frac {n \pi} {L}
+\end{align*}$$
+
+
+
+### Fuldstændig isoleret legeme
+her har vi nu at enderne også er isoleret, hvilket betyder at enderne ikke er sat til en konstant, men faktisk også bliver opvarmet eller afkølet.
+Her får vi:
+$$\begin{align*}
+\frac {\partial u(0, t)} {x}&= 0\\
+\frac {\partial u(L, t)} {x}&= 0
+\end{align*}$$
+her kan samme fremgangsmåde som før bruges, og der ender man med en cosinus række i stedet for sinus (siger han)
