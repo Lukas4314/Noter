@@ -1,7 +1,7 @@
 A tranformation matrix is a matrix by the size of 4x4 and its values are:
 $$T=\begin{pmatrix}{}^{A}_{B}R_{3x3} & {}^{A}P_{B_{org}} \\ w^{T} & s\end{pmatrix}$$
 here R is the rotation matrix, P is the translation matrix, and w^t is the shearing factor, and s is the scale factor. This combined is called a transformation matrix which bassicly can be used with a single point in frame A to transform it into frame B with B's rotation and position and everything else.
-when having a point it consist of 3 values so to be able to multiply the 2, the point last value should be the scaling factor like this:
+when having a point it consist of 3 values so to be able to multiply the two, the point last value should be the scaling factor like this:
 $${}^{B}p=\begin{pmatrix}x \\ y \\ z \\ s\end{pmatrix}$$
 this makes it possible to multiply the 2 matrixes.
 in our case in this course the sheering and scale would always be 0 for the shearing and 1 for the scale.
@@ -16,6 +16,20 @@ the second matrix is only the rotationmatrix
 
 
 
-## Homogenous coordinates
+
+### Euclidean Geometry vs Projective Geometry
+![[Pasted image 20250315091427.png]]
 
 
+## From Cartesieen to Homogenous
+![[Pasted image 20250315091502.png]]
+
+### Shearing and scaling
+![[Pasted image 20250315091710.png]]
+Normal ignorerer vi shearing og scalling, og shearing bliver derfor sat til $w^{T}=[0, 0, 0]$ og scaling bliver sat til $s=1$
+
+
+
+## Inverse of transformation matrx
+
+![[Pasted image 20250315091914.png]]

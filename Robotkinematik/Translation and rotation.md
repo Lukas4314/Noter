@@ -92,6 +92,15 @@ it is also possible to have an rotation looking like this:
 $$R_{X'Y'X'}$$
 this is because the rotation needs 3 argument when written out, and this then describes the rotation around the axis in that order
 
+You need to be carefull because is you have a rotation matrix which is the rotation around an object relative to its orientation $R_{1}$, and then another rotationMatrix relative to its new position $R_{2}$ the final rotation matrix which does both rotation would be: $R_{f}= R_{2}*R_{1}$ despite thinking the first rotation should be multiplied first.
+Det giver mening hvis man tænker på at man først rotere noget $R_{1}$ og derefter skal gange det med $R_{2}$ skal denne matrix ganges på venstre siden, så hvis man fx havde et punkt $v$ ville det se sådan her ud:
+$$\begin{align*}
+v_{new}&= R_{2}(R_{1} \cdot v_{org})\\
+v_{new}&= R_{2} \cdot R_{1} \cdot v_{org}
+\end{align*}$$
+
+
+
 
 
 ### Fixed angles

@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "daf0072a3d437840",
+        "id": "77857626f034eca3",
         "type": "tabs",
         "children": [
           {
-            "id": "04e963e8c5fa5007",
+            "id": "389d8b75e713fa8a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Random Images/Pasted image 20250314110227.png"
+                "file": "Robotkinematik/Translation and rotation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250314110227"
+              "icon": "lucide-file",
+              "title": "Translation and rotation"
             }
           }
         ]
@@ -171,13 +183,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "xournalpp:Create new Xournal++ note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "f4445b7b75c83052",
+  "active": "389d8b75e713fa8a",
   "lastOpenFiles": [
+    "Robotkinematik/Transformtion matrixes.md",
     "Robotkinematik/Translation and rotation.md",
+    "Robotkinematik/DH parameters and forward kinematics.md",
+    "Random Images/Pasted image 20250315091427.png",
+    "Robotkinematik/Notation.md",
+    "Random Images/Pasted image 20250315092012.png",
+    "Random Images/Pasted image 20250315091914.png",
+    "Random Images/Pasted image 20250315091710.png",
+    "Random Images/Pasted image 20250315091502.png",
     "Random Images/Pasted image 20250314110227.png",
     "Random Images/Pasted image 20250314110005.png",
     "Random Images/Pasted image 20250314103455.png",
@@ -186,22 +205,15 @@
     "Robotkinematik/Excercises/Lecture 3.xopp",
     "Random Images/Pasted image 20241107112049.png",
     "Random Images/Pasted image 20241024100712.png",
-    "Random Images/Pasted image 20250313142426.png",
-    "Random Images/Pasted image 20250313141842.png",
     "Robotkinematik/Excercises/Lecture 2.md",
     "Mat 3/Partielle differentialligninger.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.xopp~",
-    "Robotkinematik/DH parameters and forward kinematics.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.xopp",
     "/Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.xopp",
     "/Mat 3/Mat 3 Opgaver",
     "/Mat 3",
-    "Robotkinematik/Transformtion matrixes.md",
-    "Random Images/Pasted image 20250311104722.png",
-    "Random Images/Pasted image 20250311101608.png",
-    "Random Images/Pasted image 20250311092406.png",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.xopp~",
     "Mat 3/Fourierrækker.md",
     "Mat 3/Middelværdisætning (Mean theory Theorem).md",
@@ -220,7 +232,6 @@
     "Mat 1/Differentialligninger.md",
     "Softwareudvikling/Vandfalds modellen.md",
     "Softwareudvikling/Software development life cycle (SDLC).md",
-    "test.md",
-    "SeMesterProjekt To Do.md"
+    "test.md"
   ]
 }
