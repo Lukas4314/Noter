@@ -62,3 +62,157 @@ og man har et punkt $p = (1, 1)$ vil punktet i vektorfeltet bliver til:
 $$p(1, 1) => \vec{v}=(-1, 1)$$
 dette vektorfelt, er egentlig en rotation fordi punktet (-1, 1) bliver til  (-1, -1) osv. altså den kører i ring
 man indsætter derfor bare sine punkter ind på x og y plads.
+
+
+
+Hvis man har en roterende skive som roterer mod uret med vinkelhastigheden $\omega$ kan dette beskrive som et vektorfelt af formen:
+$$\vec{r} =- y \cdot \vec{i}+x \cdot  \vec{j}$$
+hvis man så ganger  dette med $\omega$ som er  vinkelhastigheden får man et hastighedsfelt:
+$$\vec{v} = \omega \cdot \left (-y \cdot \vec{i} + x \cdot \vec{j}\right )$$
+### Divergens af et vektorfelt
+Hvis man har et vektorfelt $\vec{v}$ skal man for at finde divergens:
+$$div \space \vec{v}= \nabla \cdot \vec{v}$$
+her er $\nabla$ gradienten
+dette kan så omskrives til:
+$$div \space \vec{v} = \frac {\partial v_{1}} {\partial x}+ \frac {\partial v_{2}} {\partial y}+ \frac {\partial v_{3}} {\partial z}$$
+hvis vi så har et vektorfelt:
+$$\vec{v}=\begin{pmatrix}v_{1} \\ v_{2} \\ v_{3}\end{pmatrix}$$
+#### Ikke sikker på hvad man bruger det her til:
+sætter man så et kontrol element ind, som er en uendelig lille kasse ind og udregner volumen flow igennem af hver af de 6 sider på kassen.
+kassen har størrelserne: $$dx, dy, dz$$
+hastigheden af ting som løber igennem kassen hvor den er orienteret rigtigt er arealet, altså dx gange med flowraten langs x aksen retning altså $v_{1}$ osv.
+desuden antages det at vektorfeltet er solenoidal, hvilket betyde at der ikke må være en kilde, eller "afløb" altså at der bliver tilføjet eller fjernet noget inde i kassen.
+
+igennem denne kasse er der så et volumenflow $Q = v \cdot A$ her er A arealet.
+Dette er egentlig bare arealet af de forskellige flader, ganger med vektorfeltet i denne samme retning.
+
+Hvis man så har en strømlinje som på forskellige tidspunkter har samme vektorfelt, og derved samme strømninger kalder man strømlinjen for steady state.
+
+### Eksempler
+vi har her vektorfeltet:
+$$\vec{v} = \omega \cdot\begin{pmatrix}-y \\ x\end{pmatrix}$$
+som er en rotation mod uret. på en skive.
+og vi har ikke nogen divergens i dette felt:
+$$div \space \vec{v} = \frac {d} {dx} (-y) + \frac{d}{dy}(x)=0$$
+har vi derimod et vektorfelt som hedder:
+$$\vec{v} = \begin{pmatrix}x \\ 0\end{pmatrix}$$
+så vil vi have en divergens på 1:
+$$div \space \vec{v} =  \frac {d} {dx}(x) + \frac {d} {dy}(0)    = 1$$
+
+fordi at partiklerne accelerer jo længere man kommer ud af x aksen.
+
+hvis vi så har et punkt i dette vektorfelt: $P = (c_{1}, c_{2}, c_{3})$
+hvor vi har at punktet er der ved $t=0$ og vi gerne vil vide hvor der er ved $t=1$ 
+her har vi at hastigheden som partiklen bevæger sig med er v og er ændring i strækningen over tiden:
+$$\begin{align*}
+v &= \frac {ds} {dt}\\
+ds&= v \cdot dt\\
+s &= \int v dt
+\end{align*}$$
+dette betyder at vi kan finde punktet det har bevæget sig som:
+$$x = c_{1}+ \Delta x=c_{1}+ \int vdt$$
+og eftersom at $v_{1}= x$ fra vores vektorfelt har vi at:
+$$c_{1}+ \Delta x = c_{1}+ \int x dt$$
+eftersom at alt dette skulle være lig med x fra starten kan vi differentierer i forhold til t 
+$$\frac{d}{dt}x=\frac{d}{dt} \left (c_{1}+ \int x dt \right )$$
+$$\frac{dx}{dt}= x$$
+og dette kan så omskrives
+
+$$dt = \frac{1}{x} dx$$
+dette kan så indsættes
+$$c_{1}+ \Delta x = c_{1}+ \int \frac{1}{x}dx$$
+dette kan så integres og laves noget mere med og så ender man med:
+$$\vec{r}(t) = \begin{pmatrix}c_{1}\cdot e^{t} \\ c_{2} \\ c_{3}\end{pmatrix}$$
+tror ikke det er skrevet rigtigt op her men se billedet her af hans gennemgang:
+
+
+
+### Parameterfremstilling
+#### Cirkel
+Hvis man fx har en cirkel med radius 2 og formlen:
+$$x^{2}+y^{2}=2^{2}$$
+så vil parameterfremstillingen se sådan her ud:
+$$\vec{r}(t)=2 \cdot \begin{pmatrix}\cos(t) \\ \sin(t)\end{pmatrix}$$
+
+
+#### Elipse
+Hvis man fx har en ellipse i stedet, med formlen:
+$$\frac{x^{2}}{a^{2}}+ \frac{y^{2}}{b^{2}}=1$$
+her er parameterfremsillingen:
+$$\vec{r}(t) = \begin{pmatrix}a \cdot \cos(t) \\ b \cdot \sin(t)\end{pmatrix}$$
+her er a afstanden cirklen bevæger sig ud af x aksen, og b er afstanden ud af y aksen
+
+#### Linje
+hvis man har en linje i 3 dimensioner kan parameterfremstillingen findes, ved et punkt på linjen, og en retingsvektor. Punktet på linjen kan kaldes $\vec{a}$ og retiningsvektoren kan kaldes $\vec{b}$ og parameterfremstillingen bliver derfor:
+$$\vec{r}(t) = \vec{a} + t \cdot \vec{b}$$
+#### Helix
+en helix er en spiral som snurer sig op af en cyllinder i 3 dimensioner
+her bliver parameterfremstillingen:
+$$\vec{r}(t)= \begin{pmatrix}a \cos(t) \\ b \sin(t) \\ ct\end{pmatrix}$$
+en fjedre er fx en helix, og man kan se på parameterfremstillingen at det ca stemmer overens.
+
+### Hastighedsvektoren
+
+Hvis man nu har en linje som bevæger sig igennem det 3 dimensionale rum og har parameterfremstillingen $\vec{r}(t)$ kan hastighedsvektoren findes, ved at differentierer den i forhold til tiden, altså:
+$$\vec{v} = \frac {d} {dt} \vec{r}(t)$$
+hastighedsvektoren er også den som tangerer linjen.
+Man kan derfor også finde enhedstangentvektoren som:
+$$\vec{u} = \frac {\vec{v}} {|\vec{v}|}$$
+### Eksempel
+hvis vi har en elipse:
+$$\frac{1}{4}x^{2}+ y^{2}=1$$
+og vi gerne vil finde hastighedsvektoren i punktet: $P(\sqrt{2}, \frac{1}{\sqrt{2}})$ 
+her skal vi først finde vores parameterfremstilling for en ellipse
+$$\vec{r}(t) = \begin{pmatrix}2 \cos(t) \\ \sin(t)\end{pmatrix}$$
+og ved at differentiere denne:
+$$\vec{v}(t)=\begin{pmatrix}-2 \sin(t) \\ \cos(t)\end{pmatrix}$$
+her skal vi så finde t og kan derfor opstille 2 ligninger:
+$$\begin{align*}
+\sqrt{2}&= 2 \cos(t)\\
+\frac{1}{\sqrt{2}}&= \sin(t)
+\end{align*}$$
+det er her lige meget hvilken en vi løser da svaret bliver det samme:
+$$\begin{align*}
+t &=  \sin^{-1}( \frac{1}{\sqrt{2}})\\
+t &=  \frac{\pi}{4}
+\end{align*}$$hvis denne så indsættes ind i vores hastighedsvektor får vi:
+$$\begin{align*}
+\vec{v}\left (\frac{\pi}{4} \right )&= \begin{pmatrix}-2 \sin(\frac{\pi}{4}) \\ \cos(\frac{\pi}{4})\end{pmatrix}\\
+\vec{v}\left (\frac{\pi}{4} \right )&= \begin{pmatrix}- \sqrt{2}\\
+\frac {\sqrt{2}} {2}\end{pmatrix}
+\end{align*}$$
+
+### Rotation af vektorfelt (Curl)
+på dansk bliver det bare kaldt for rotation og kan findes som:
+$$Curl \space \vec{v} = \nabla \times \vec{v}$$
+### Eksempler 
+vi har her vektorfeltet:
+$$\vec{v} =\omega \cdot \begin{pmatrix} -y \\ 0\end{pmatrix}$$
+her får vi så:
+$$\begin{align*}
+Curl \space \vec{v} &= \nabla \times \vec{v}\\
+Curl \space \vec{v} &= \begin{pmatrix}0\\
+0\\
+2 \omega\end{pmatrix}
+\end{align*}$$
+
+
+her har vi så vektorfeltet:
+$$\vec{v} = \begin{pmatrix}yz \\ 3xz \\ z\end{pmatrix}$$
+her får vi så curlen til at være:
+$$\begin{align*}
+Curl \space \vec{v} &= \nabla \times \vec{v}\\
+Curl \space \vec{v} &= \begin{pmatrix} \frac{d}{dx}\\
+\frac{d}{dy}\\
+\frac{	d}{dz} \end{pmatrix} \times  \begin{pmatrix}yz \\ 3xz \\ z\end{pmatrix}\\
+Curl \space \vec{v} &= \begin{pmatrix}0-3x\\
+0-y\\
+3z-z
+\end{pmatrix}\\
+Curl \space \vec{v} &= \begin{pmatrix}-3x\\
+-y\\
+2z\end{pmatrix}
+\end{align*}$$
+
+
+

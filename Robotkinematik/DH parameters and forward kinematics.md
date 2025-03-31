@@ -1,7 +1,7 @@
 Forward kinematics is used to calculate how a movement joint of a robot effects the end result for the robot. Like moving the base of the robot rotates the whole robot and the end part of the rotate can be calculated by having the transformation matrix of each joint.
 
 ## 2R Planar
-this means we have 2 revolute joint which moves in a plane, which is bassically the example showed in the image here:
+this means we have 2 revolute joint which moves in a plane, which is basically the example showed in the image here:
 ![[Pasted image 20250311083739.png]]
 we can here calculate the position (x, y) by having an additional frame in the last joint
 the result can then be calculated as:

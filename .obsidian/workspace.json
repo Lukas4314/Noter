@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotkinematik/DH parameters and forward kinematics.md",
+                "file": "Mat 3/Vektorer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DH parameters and forward kinematics"
+              "title": "Vektorer"
+            }
+          },
+          {
+            "id": "2afa6c00b7fb0d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 3/Vektorer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vektorer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,16 +208,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "xournalpp:Create new Xournal++ note": false
+      "xournalpp:Create new Xournal++ note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3db7b0b060fe789d",
+  "active": "2afa6c00b7fb0d49",
   "lastOpenFiles": [
     "Mat 3/Partielle differentialligninger.md",
+    "Mat 3/Tidligere gennemgået emner.md",
     "Mat 3/Vektorer.md",
+    "Pasted image 20250331111907.png",
+    "Vektorfelter.md",
+    "Mat 3/Inverse trigonometriske funktioner.md",
+    "Robotkinematik/DH parameters and forward kinematics.md",
     "Robotkinematik/Translation and rotation.md",
     "Robotkinematik/Transformtion matrixes.md",
-    "Robotkinematik/DH parameters and forward kinematics.md",
     "Random Images/Pasted image 20250315091427.png",
     "Robotkinematik/Notation.md",
     "Random Images/Pasted image 20250315092012.png",
@@ -206,7 +236,6 @@
     "Robotkinematik/Excercises/Lecture 3.pdf",
     "Robotkinematik/Excercises/Lecture 3.xopp",
     "Random Images/Pasted image 20241107112049.png",
-    "Random Images/Pasted image 20241024100712.png",
     "Robotkinematik/Excercises/Lecture 2.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.pdf",
@@ -219,20 +248,16 @@
     "Mat 3/Fourierrækker.md",
     "Mat 3/Middelværdisætning (Mean theory Theorem).md",
     "Mat 2/Trigonometri.md",
-    "Mat 3/Inverse trigonometriske funktioner.md",
     "Mat 1/Trigonometriske funktioner.md",
     "Mat 1/Differentering.md",
     "Mat 3/Fourier integraler.md",
     "Mat 1/Integration.md",
     "Mat 2/Funktioner af flere variable.md",
-    "Mat 3/Tidligere gennemgået emner.md",
     "To-Do list.md",
     "Robotkinematik/Random introduktion keywords.md",
     "Excalidraw/Drawing 2025-02-25 12.52.54.excalidraw.md",
     "Mat 1/Drevne dæmpede svingninger.md",
     "Mat 1/Differentialligninger.md",
-    "Softwareudvikling/Vandfalds modellen.md",
-    "Softwareudvikling/Software development life cycle (SDLC).md",
-    "test.md"
+    "Softwareudvikling/Vandfalds modellen.md"
   ]
 }
