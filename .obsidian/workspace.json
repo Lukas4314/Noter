@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "77857626f034eca3",
+        "id": "d23014bd6ea4098d",
         "type": "tabs",
         "children": [
           {
-            "id": "389d8b75e713fa8a",
+            "id": "3db7b0b060fe789d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat 3/Partielle differentialligninger.md",
+                "file": "Robotkinematik/DH parameters and forward kinematics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Partielle differentialligninger"
-            }
-          },
-          {
-            "id": "e5ec2ec7a737a462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat 3/Vektorer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vektorer"
+              "title": "DH parameters and forward kinematics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,11 +183,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "xournalpp:Create new Xournal++ note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "e5ec2ec7a737a462",
+  "active": "3db7b0b060fe789d",
   "lastOpenFiles": [
     "Mat 3/Partielle differentialligninger.md",
     "Mat 3/Vektorer.md",

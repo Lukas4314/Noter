@@ -400,6 +400,7 @@ letter
 learn
 lIPP
 let
+lding
 med
 mange
 matrix
@@ -842,6 +843,7 @@ mFq
 mlA
 maY
 matrx
+matricerne
 og
 opl
 ogs
@@ -1619,6 +1621,9 @@ vbF
 vRk
 varmledningsligningen
 varmeledningsligningen
+vektorerne
+vektorfeltet
+vektorfelt
 der
 de
 determinanten
@@ -2963,6 +2968,9 @@ fvf
 fFv
 fMF
 forklaret
+fohold
+flader
+flade
 sninger
 st
 som
@@ -3930,6 +3938,7 @@ hkk
 hia
 hMf
 halvvejs
+herfra
 kun
 kke
 kort
@@ -4388,6 +4397,8 @@ kWY
 kjf
 kmc
 kia
+kning
+kraft
 Der
 Determinanten
 Drawing
@@ -5081,6 +5092,7 @@ umjv
 uyO
 uSD
 upr
+udsat
 rrelse
 rre
 rligt
@@ -5493,6 +5505,7 @@ rotationMatrix
 rGmfu
 rende
 randbetingelse
+ring
 at
 af
 afg
@@ -8306,6 +8319,7 @@ iSgUm
 inn
 ioo
 ignorerer
+intereserret
 Ikke
 IC
 IMU
@@ -9062,6 +9076,8 @@ pLs
 pVy
 pZh
 pIn
+produktet
+prikke
 Switch
 Saving
 Self
@@ -10112,6 +10128,7 @@ VWG
 Vcd
 VNt
 Vores
+Vektorfelt
 MORE
 Machine
 Man
@@ -12781,6 +12798,7 @@ KqL
 KCQV
 KwV
 KXf
+Krydsprodukt
 Abstraction
 Alt
 AB
