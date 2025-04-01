@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d23014bd6ea4098d",
+        "id": "abe2c683a710ee7c",
         "type": "tabs",
         "children": [
           {
-            "id": "3db7b0b060fe789d",
+            "id": "4772f8e3128b402e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mat 3/Vektorer.md",
+                "file": "Robotkinematik/Schematic respresentations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Vektorer"
-            }
-          },
-          {
-            "id": "2afa6c00b7fb0d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat 3/Vektorer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vektorer"
+              "title": "Schematic respresentations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,11 +187,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2afa6c00b7fb0d49",
+  "active": "f4445b7b75c83052",
   "lastOpenFiles": [
+    "Mat 3/Vektorer.md",
+    "Random Images/Pasted image 20250401084249.png",
+    "Robotkinematik/Schematic respresentations.md",
+    "Random Images/Pasted image 20250401084149.png",
+    "Random Images/Pasted image 20250401083910.png",
+    "Random Images/Pasted image 20250401083851.png",
     "Mat 3/Partielle differentialligninger.md",
     "Mat 3/Tidligere gennemgået emner.md",
-    "Mat 3/Vektorer.md",
     "Pasted image 20250331111907.png",
     "Vektorfelter.md",
     "Mat 3/Inverse trigonometriske funktioner.md",
@@ -229,13 +209,9 @@
     "Random Images/Pasted image 20250315091914.png",
     "Random Images/Pasted image 20250315091710.png",
     "Random Images/Pasted image 20250315091502.png",
-    "Random Images/Pasted image 20250314110227.png",
-    "Random Images/Pasted image 20250314110005.png",
-    "Random Images/Pasted image 20250314103455.png",
     "Robotkinematik/Excercises/Lecture 3.md",
     "Robotkinematik/Excercises/Lecture 3.pdf",
     "Robotkinematik/Excercises/Lecture 3.xopp",
-    "Random Images/Pasted image 20241107112049.png",
     "Robotkinematik/Excercises/Lecture 2.md",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 4 opgaver.pdf",
     "Mat 3/Mat 3 Opgaver/Mat3 Lektion 5 opgaver.pdf",
@@ -257,7 +233,6 @@
     "Robotkinematik/Random introduktion keywords.md",
     "Excalidraw/Drawing 2025-02-25 12.52.54.excalidraw.md",
     "Mat 1/Drevne dæmpede svingninger.md",
-    "Mat 1/Differentialligninger.md",
-    "Softwareudvikling/Vandfalds modellen.md"
+    "Mat 1/Differentialligninger.md"
   ]
 }
