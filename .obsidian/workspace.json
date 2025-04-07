@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotkinematik/Schematic respresentations.md",
+                "file": "Robotkinematik/Translation and rotation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schematic respresentations"
+              "title": "Translation and rotation"
+            }
+          },
+          {
+            "id": "d88276cb7408deb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Robotkinematik/DH parameters and forward kinematics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DH parameters and forward kinematics"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,15 +208,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "xournalpp:Create new Xournal++ note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "xournalpp:Create new Xournal++ note": false
     }
   },
-  "active": "f4445b7b75c83052",
+  "active": "d88276cb7408deb8",
   "lastOpenFiles": [
+    "Robotkinematik/Transformtion matrixes.md",
+    "Robotkinematik/DH parameters and forward kinematics.md",
+    "Robotkinematik/Schematic respresentations.md",
+    "Robotkinematik/Translation and rotation.md",
     "Mat 3/Vektorer.md",
     "Random Images/Pasted image 20250401084249.png",
-    "Robotkinematik/Schematic respresentations.md",
     "Random Images/Pasted image 20250401084149.png",
     "Random Images/Pasted image 20250401083910.png",
     "Random Images/Pasted image 20250401083851.png",
@@ -200,9 +227,6 @@
     "Pasted image 20250331111907.png",
     "Vektorfelter.md",
     "Mat 3/Inverse trigonometriske funktioner.md",
-    "Robotkinematik/DH parameters and forward kinematics.md",
-    "Robotkinematik/Translation and rotation.md",
-    "Robotkinematik/Transformtion matrixes.md",
     "Random Images/Pasted image 20250315091427.png",
     "Robotkinematik/Notation.md",
     "Random Images/Pasted image 20250315092012.png",

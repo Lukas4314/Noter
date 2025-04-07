@@ -53,21 +53,21 @@ this is how frame are supposed to be placed, and what way the direction of the f
 
 When having intersecting axis, the X axis is placed perpendicular to the 2 axis, mening it is possible to find it using the cross product. 
 
-When the lines are parallel the origin of the frame is set to minimize the distance $d_{i-1}$ or meaning $d_{i-1}=0$
+When the lines are parallel, the origin of the frame is set to minimize the distance $d_{i-1}$ or meaning $d_{i-1}=0$
 
 for the first link and the last link, you do not have a next link or a earlier link which means to set the frame on the first link the frame should just be the same as the reference frame or main frame.
 And the last frame should the same as the second last frame.
 
 ### Recipe for placing the frames
 ![[Pasted image 20250311094209.png]]
-
+be aware of this is for index i, where DH parameters often mention $\alpha_{i-1}$ and not $a_{i}$
 
 
 
 ## Difference between modified and standard
 ![[Pasted image 20250311094334.png]]
 the difference are basically on how the frame is rotated based on the link or the earlier link
-
+	
 ### Example
 ![[Pasted image 20250311101608.png]]
 here is the filled table for the robot.
