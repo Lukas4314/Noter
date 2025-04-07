@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotkinematik/DH parameters and forward kinematics.md",
+                "file": "Mat 3/Vektorer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DH parameters and forward kinematics"
+              "title": "Vektorer"
+            }
+          },
+          {
+            "id": "167bb69ed4324cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat 3/Linjeintegraler.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linjeintegraler"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,22 +232,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "xournalpp:Create new Xournal++ note": false
+      "xournalpp:Create new Xournal++ note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d88276cb7408deb8",
+  "active": "167bb69ed4324cdf",
   "lastOpenFiles": [
-    "Robotkinematik/Transformtion matrixes.md",
+    "Mat 3/Vektorer.md",
+    "Mat 3/Linjeintegraler.md",
+    "Mat 3/Tidligere gennemgået emner.md",
     "Robotkinematik/DH parameters and forward kinematics.md",
+    "Robotkinematik/Transformtion matrixes.md",
     "Robotkinematik/Schematic respresentations.md",
     "Robotkinematik/Translation and rotation.md",
-    "Mat 3/Vektorer.md",
     "Random Images/Pasted image 20250401084249.png",
     "Random Images/Pasted image 20250401084149.png",
     "Random Images/Pasted image 20250401083910.png",
     "Random Images/Pasted image 20250401083851.png",
     "Mat 3/Partielle differentialligninger.md",
-    "Mat 3/Tidligere gennemgået emner.md",
     "Pasted image 20250331111907.png",
     "Vektorfelter.md",
     "Mat 3/Inverse trigonometriske funktioner.md",
