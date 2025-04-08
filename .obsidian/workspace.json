@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Robotkinematik/Translation and rotation.md",
+                "file": "Robotkinematik/Trajectory Generation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Translation and rotation"
-            }
-          },
-          {
-            "id": "d88276cb7408deb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat 3/Vektorer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vektorer"
-            }
-          },
-          {
-            "id": "167bb69ed4324cdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mat 3/Linjeintegraler.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linjeintegraler"
+              "title": "Trajectory Generation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,29 +187,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "167bb69ed4324cdf",
+  "active": "4772f8e3128b402e",
   "lastOpenFiles": [
-    "Mat 3/Vektorer.md",
+    "Random Images/Pasted image 20250408110206.png",
+    "Robotkinematik/Trajectory Generation.md",
+    "Random Images/Pasted image 20250408111015.png",
+    "Random Images/Pasted image 20250408110432.png",
+    "Random Images/Pasted image 20250408110207.png",
+    "Random Images/Pasted image 20250408110035.png",
+    "Random Images/Pasted image 20250408110033.png",
+    "Random Images/Pasted image 20250408105951.png",
+    "Random Images/Pasted image 20250408104641.png",
+    "Random Images/Pasted image 20250408103716.png",
+    "Random Images/Pasted image 20250408103513.png",
+    "Robotkinematik/Velocity.md",
+    "Robotkinematik/Translation and rotation.md",
     "Mat 3/Linjeintegraler.md",
+    "Mat 3/Vektorer.md",
     "Mat 3/Tidligere gennemgået emner.md",
     "Robotkinematik/DH parameters and forward kinematics.md",
     "Robotkinematik/Transformtion matrixes.md",
     "Robotkinematik/Schematic respresentations.md",
-    "Robotkinematik/Translation and rotation.md",
-    "Random Images/Pasted image 20250401084249.png",
-    "Random Images/Pasted image 20250401084149.png",
-    "Random Images/Pasted image 20250401083910.png",
-    "Random Images/Pasted image 20250401083851.png",
     "Mat 3/Partielle differentialligninger.md",
-    "Pasted image 20250331111907.png",
     "Vektorfelter.md",
     "Mat 3/Inverse trigonometriske funktioner.md",
-    "Random Images/Pasted image 20250315091427.png",
     "Robotkinematik/Notation.md",
-    "Random Images/Pasted image 20250315092012.png",
-    "Random Images/Pasted image 20250315091914.png",
-    "Random Images/Pasted image 20250315091710.png",
-    "Random Images/Pasted image 20250315091502.png",
     "Robotkinematik/Excercises/Lecture 3.md",
     "Robotkinematik/Excercises/Lecture 3.pdf",
     "Robotkinematik/Excercises/Lecture 3.xopp",
@@ -280,9 +233,6 @@
     "Mat 1/Integration.md",
     "Mat 2/Funktioner af flere variable.md",
     "To-Do list.md",
-    "Robotkinematik/Random introduktion keywords.md",
-    "Excalidraw/Drawing 2025-02-25 12.52.54.excalidraw.md",
-    "Mat 1/Drevne dæmpede svingninger.md",
-    "Mat 1/Differentialligninger.md"
+    "Robotkinematik/Random introduktion keywords.md"
   ]
 }
